@@ -1,0 +1,58 @@
+Nesta diretoria estão disponíveis dois exemplos de interface gráfica
+para o segundo projeto de FP. A primeira utiliza o http://www.pygame.org
+e a segunda utiliza o http://kivy.org (que depende do http://www.pygame.org).
+
+
+Para utilizarmos a primeira interface disponível na diretoria pygame
+é necessário seguir os seguintes passos:
+
+ 1. Instalar o pygame no nosso sistema. Existem vários pacotes
+    disponíveis, é necessário garantir que temos uma versão recente
+    e compatível com python 3. Em Linux e Mac OS X pode ser necessário 
+    instalar a partir do código fonte disponível em 
+    https://bitbucket.org/pygame/pygame.
+    Nesse caso, é necessário obter o código fazendo download de
+    http://www.pygame.org/ftp/pygame-1.9.1release.tar.gz
+    ou, se quisermos uma versão mais recente, aceder a
+    https://bitbucket.org/pygame/pygame/downloads
+    e selecionar "Download repository". Em qualquer dos casos, bastará
+    depois descomprimir o arquivo, mudar para a diretoria criada, e
+    executar o comando:
+    
+      python3 setup.py install
+
+ 2. Uma vez instalado o pygame, basta implementar todas as funções do
+    enunciado no ficheiro proj2-pygame.py, completar a função joga_2048,
+    e correr o comando:
+
+      python3 proj2-pygame.py
+
+    Não esquecer copiar para a mesma diretoria o ficheiro interface.py!
+
+
+Para utilizarmos a segunda interface é necessário instalar outras
+dependências para além do pygame. Em particular, para os mais curiosos,
+seguindo as instruções na página do kivy, é possível produzir uma
+aplicação para android a partir deste código.
+
+Esta implementação é uma versão modificada para FP da implementação
+disponível em https://github.com/tito/2048.
+
+Assumindo que o pygame já está instalado, podemos instalar as
+dependências da seguinte forma:
+
+[aplf@darkstar ~]$ mkdir project2
+[aplf@darkstar project2]$ virtualenv-3.4 --system-site-packages local
+[aplf@darkstar project2]$ ./local/bin/pip install Cython==0.20.1
+[aplf@darkstar project2]$ ./local/bin/pip install Kivy
+
+Notar que o comando virtualenv-3.4 pode ser diferente, mas tem de ser
+uma versão do virtualenv para python 3.
+
+Uma vez instaladas as dependências, basta descomprimir o arquivo 2048.zip
+na diretoria project, substituir o ficheiro proj2.py por uma solução
+do projeto segundo o enunciado, e executar:
+
+[aplf@darkstar project2]$ cd 2048/
+[aplf@darkstar 2048]$ ../local/bin/python main.py
+
