@@ -20,7 +20,7 @@ Após cada movimento, um novo painel aparece numa posição livre do tabuleiro,
 escolhida aleatoriamente. Este novo painel tem o número 2 ou o número 4.
 
 O objectivo deste projecto é escrever um programa em `Python` que permita 
-definit um conjunto de tipos de dados que deverão ser utilizados para 
+definir um conjunto de tipos de dados que deverão ser utilizados para 
 manipular a informação necessária ao decorrer do jogo, bem como um conjunto 
 de funções adicionais que permitirão jogar o jogo propriamente dito.
 
