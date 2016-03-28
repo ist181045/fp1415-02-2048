@@ -28,4 +28,4 @@ de funções adicionais que permitirão jogar o jogo propriamente dito.
 
 Mais informação no [Enunciado do Projecto][1]
 
-[1]: Enunciado_FP02.pdf "2º Projecto de FP - 2014'15"
+[1]: Enunciado_FP1415-02.pdf "2º Projecto de FP - 2014'15"
