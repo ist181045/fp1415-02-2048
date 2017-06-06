@@ -1,4 +1,4 @@
-# 2048
+# 2048 [EN](README.en.md)
 ### 2º Projecto de FP - 14'15
 
 ---
@@ -26,6 +26,6 @@ de funções adicionais que permitirão jogar o jogo propriamente dito.
 
 ---
 
-Mais informação no [Enunciado do Projecto][1]
+Mais informação no Enunciado do Projecto: [PT][PT]
 
-[1]: Enunciado_FP1415-02.pdf "2º Projecto de FP - 2014'15"
+[PT]: statement_pt.pdf "Enunciado do Projecto"
