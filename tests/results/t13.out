@@ -1,0 +1,4468 @@
+[ 0 ] [ 2 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+Pontuacao: 0
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 2 ] [ 0 ] [ 2 ] 
+Pontuacao: 0
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+Pontuacao: 4
+Introduza uma jogada (N, S, E, W): N
+[ 0 ] [ 2 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+Pontuacao: 4
+Introduza uma jogada (N, S, E, W): N
+[ 2 ] [ 2 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+Pontuacao: 4
+Introduza uma jogada (N, S, E, W): N
+[ 2 ] [ 2 ] [ 2 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+Pontuacao: 4
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+Pontuacao: 12
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 0 ] [ 0 ] 
+Pontuacao: 20
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 4 ] [ 4 ] [ 0 ] 
+Pontuacao: 24
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 8 ] 
+Pontuacao: 32
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 8 ] [ 0 ] 
+Pontuacao: 32
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 8 ] [ 0 ] 
+Pontuacao: 32
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 8 ] [ 0 ] 
+Pontuacao: 32
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 8 ] [ 0 ] 
+Pontuacao: 32
+Introduza uma jogada (N, S, E, W): N
+[ 2 ] [ 4 ] [ 8 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+Pontuacao: 32
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 4 ] [ 8 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+Pontuacao: 32
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 2 ] [ 4 ] [ 8 ] 
+[ 0 ] [ 2 ] [ 8 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+Pontuacao: 32
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 4 ] 
+[ 0 ] [ 4 ] [ 8 ] [ 2 ] 
+Pontuacao: 36
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 8 ] [ 2 ] [ 0 ] 
+Pontuacao: 48
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 0 ] [ 4 ] [ 8 ] [ 2 ] 
+Pontuacao: 48
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 2 ] [ 0 ] [ 4 ] [ 8 ] 
+[ 2 ] [ 4 ] [ 8 ] [ 2 ] 
+Pontuacao: 48
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 8 ] 
+[ 4 ] [ 4 ] [ 8 ] [ 2 ] 
+Pontuacao: 52
+Introduza uma jogada (N, S, E, W): E
+[ 4 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 8 ] 
+[ 0 ] [ 8 ] [ 8 ] [ 2 ] 
+Pontuacao: 60
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 4 ] [ 4 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 16 ] [ 2 ] 
+Pontuacao: 76
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 8 ] [ 8 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 16 ] [ 2 ] 
+Pontuacao: 84
+Introduza uma jogada (N, S, E, W): N
+[ 2 ] [ 2 ] [ 8 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 16 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+Pontuacao: 84
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 4 ] [ 16 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 2 ] [ 16 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+Pontuacao: 104
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 4 ] [ 16 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 2 ] 
+[ 0 ] [ 4 ] [ 16 ] [ 8 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 2 ] 
+Pontuacao: 108
+Introduza uma jogada (N, S, E, W): N
+[ 2 ] [ 4 ] [ 8 ] [ 16 ] 
+[ 0 ] [ 0 ] [ 16 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 0 ] [ 2 ] [ 0 ] [ 2 ] 
+Pontuacao: 116
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 4 ] [ 8 ] [ 16 ] 
+[ 0 ] [ 0 ] [ 16 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+Pontuacao: 120
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 4 ] [ 8 ] [ 16 ] 
+[ 16 ] [ 2 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 0 ] [ 0 ] 
+Pontuacao: 120
+Introduza uma jogada (N, S, E, W): N
+[ 2 ] [ 4 ] [ 8 ] [ 16 ] 
+[ 16 ] [ 2 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 4 ] [ 2 ] [ 0 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+Pontuacao: 120
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 4 ] [ 8 ] [ 16 ] 
+[ 16 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 4 ] [ 2 ] [ 2 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+Pontuacao: 124
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 4 ] [ 8 ] [ 16 ] 
+[ 2 ] [ 8 ] [ 2 ] [ 2 ] 
+Pontuacao: 132
+Introduza uma jogada (N, S, E, W): N
+[ 2 ] [ 8 ] [ 8 ] [ 16 ] 
+[ 16 ] [ 8 ] [ 2 ] [ 2 ] 
+[ 8 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 0 ] [ 4 ] [ 0 ] 
+Pontuacao: 140
+Introduza uma jogada (N, S, E, W): N
+[ 2 ] [ 16 ] [ 8 ] [ 16 ] 
+[ 16 ] [ 0 ] [ 2 ] [ 2 ] 
+[ 8 ] [ 0 ] [ 4 ] [ 0 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 2 ] 
+Pontuacao: 156
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 0 ] [ 8 ] [ 0 ] 
+[ 8 ] [ 0 ] [ 2 ] [ 16 ] 
+[ 2 ] [ 16 ] [ 4 ] [ 4 ] 
+Pontuacao: 160
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 16 ] [ 8 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 16 ] [ 0 ] 
+[ 2 ] [ 16 ] [ 8 ] [ 0 ] 
+Pontuacao: 172
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 8 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 16 ] [ 0 ] 
+[ 2 ] [ 16 ] [ 8 ] [ 0 ] 
+Pontuacao: 172
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 4 ] [ 2 ] 
+[ 0 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 8 ] [ 2 ] [ 16 ] 
+[ 0 ] [ 2 ] [ 16 ] [ 8 ] 
+Pontuacao: 172
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 4 ] [ 0 ] 
+[ 0 ] [ 16 ] [ 8 ] [ 4 ] 
+[ 2 ] [ 8 ] [ 2 ] [ 16 ] 
+[ 2 ] [ 2 ] [ 16 ] [ 8 ] 
+Pontuacao: 176
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 16 ] [ 8 ] [ 4 ] 
+[ 2 ] [ 8 ] [ 2 ] [ 16 ] 
+[ 0 ] [ 4 ] [ 16 ] [ 8 ] 
+Pontuacao: 180
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 16 ] [ 8 ] [ 8 ] 
+[ 0 ] [ 8 ] [ 2 ] [ 16 ] 
+[ 4 ] [ 4 ] [ 16 ] [ 8 ] 
+Pontuacao: 192
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 16 ] [ 8 ] [ 8 ] 
+[ 0 ] [ 8 ] [ 2 ] [ 16 ] 
+[ 4 ] [ 4 ] [ 16 ] [ 8 ] 
+Pontuacao: 192
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 16 ] [ 8 ] [ 8 ] 
+[ 0 ] [ 8 ] [ 2 ] [ 16 ] 
+[ 4 ] [ 4 ] [ 16 ] [ 8 ] 
+Pontuacao: 192
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 16 ] [ 8 ] [ 8 ] 
+[ 0 ] [ 8 ] [ 2 ] [ 16 ] 
+[ 4 ] [ 4 ] [ 16 ] [ 8 ] 
+Pontuacao: 192
+Introduza uma jogada (N, S, E, W): N
+[ 4 ] [ 2 ] [ 8 ] [ 8 ] 
+[ 0 ] [ 16 ] [ 2 ] [ 16 ] 
+[ 0 ] [ 8 ] [ 16 ] [ 8 ] 
+[ 2 ] [ 4 ] [ 0 ] [ 0 ] 
+Pontuacao: 192
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 16 ] [ 0 ] 
+[ 16 ] [ 2 ] [ 16 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 4 ] [ 0 ] 
+Pontuacao: 208
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 16 ] [ 0 ] 
+[ 16 ] [ 2 ] [ 16 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 0 ] [ 4 ] 
+Pontuacao: 216
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 16 ] [ 2 ] 
+[ 16 ] [ 2 ] [ 16 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 0 ] 
+Pontuacao: 216
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 16 ] [ 4 ] [ 32 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 2 ] 
+Pontuacao: 252
+Introduza uma jogada (N, S, E, W): N
+[ 4 ] [ 4 ] [ 2 ] [ 2 ] 
+[ 16 ] [ 16 ] [ 32 ] [ 0 ] 
+[ 8 ] [ 8 ] [ 8 ] [ 0 ] 
+[ 2 ] [ 2 ] [ 4 ] [ 0 ] 
+Pontuacao: 252
+Introduza uma jogada (N, S, E, W): N
+[ 4 ] [ 4 ] [ 2 ] [ 2 ] 
+[ 16 ] [ 16 ] [ 32 ] [ 0 ] 
+[ 8 ] [ 8 ] [ 8 ] [ 0 ] 
+[ 2 ] [ 2 ] [ 4 ] [ 0 ] 
+Pontuacao: 252
+Introduza uma jogada (N, S, E, W): N
+[ 4 ] [ 4 ] [ 2 ] [ 2 ] 
+[ 16 ] [ 16 ] [ 32 ] [ 0 ] 
+[ 8 ] [ 8 ] [ 8 ] [ 0 ] 
+[ 2 ] [ 2 ] [ 4 ] [ 0 ] 
+Pontuacao: 252
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 8 ] [ 4 ] 
+[ 0 ] [ 2 ] [ 32 ] [ 32 ] 
+[ 0 ] [ 0 ] [ 8 ] [ 16 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 4 ] 
+Pontuacao: 316
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 8 ] [ 4 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 64 ] 
+[ 2 ] [ 0 ] [ 8 ] [ 16 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+Pontuacao: 388
+Introduza uma jogada (N, S, E, W): N
+[ 2 ] [ 0 ] [ 8 ] [ 4 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 64 ] 
+[ 0 ] [ 0 ] [ 8 ] [ 16 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 8 ] 
+Pontuacao: 388
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 0 ] [ 8 ] [ 64 ] 
+[ 0 ] [ 2 ] [ 2 ] [ 16 ] 
+[ 4 ] [ 0 ] [ 8 ] [ 8 ] 
+Pontuacao: 392
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 0 ] [ 8 ] [ 64 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 16 ] 
+[ 4 ] [ 2 ] [ 8 ] [ 8 ] 
+Pontuacao: 392
+Introduza uma jogada (N, S, E, W): N
+[ 2 ] [ 2 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 0 ] [ 2 ] [ 64 ] 
+[ 2 ] [ 0 ] [ 8 ] [ 16 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+Pontuacao: 392
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 2 ] [ 64 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 4 ] 
+[ 8 ] [ 0 ] [ 0 ] [ 0 ] 
+Pontuacao: 396
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 8 ] [ 4 ] [ 4 ] 
+[ 2 ] [ 2 ] [ 64 ] [ 0 ] 
+[ 8 ] [ 8 ] [ 16 ] [ 0 ] 
+[ 0 ] [ 4 ] [ 0 ] [ 0 ] 
+Pontuacao: 404
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 8 ] [ 4 ] [ 4 ] 
+[ 2 ] [ 2 ] [ 64 ] [ 0 ] 
+[ 8 ] [ 8 ] [ 16 ] [ 0 ] 
+[ 0 ] [ 4 ] [ 0 ] [ 0 ] 
+Pontuacao: 404
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 16 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 64 ] 
+[ 2 ] [ 0 ] [ 16 ] [ 16 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+Pontuacao: 448
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 16 ] [ 64 ] 
+[ 2 ] [ 0 ] [ 4 ] [ 16 ] 
+[ 2 ] [ 0 ] [ 16 ] [ 4 ] 
+Pontuacao: 448
+Introduza uma jogada (N, S, E, W): N
+[ 4 ] [ 0 ] [ 16 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 64 ] 
+[ 0 ] [ 0 ] [ 16 ] [ 16 ] 
+[ 0 ] [ 2 ] [ 0 ] [ 4 ] 
+Pontuacao: 452
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 4 ] [ 16 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 64 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 32 ] 
+[ 0 ] [ 2 ] [ 2 ] [ 4 ] 
+Pontuacao: 484
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 4 ] [ 16 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 64 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 32 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 4 ] 
+Pontuacao: 488
+Introduza uma jogada (N, S, E, W): N
+[ 2 ] [ 4 ] [ 16 ] [ 8 ] 
+[ 0 ] [ 2 ] [ 8 ] [ 64 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 32 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+Pontuacao: 496
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 2 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 64 ] 
+[ 0 ] [ 4 ] [ 16 ] [ 32 ] 
+[ 2 ] [ 2 ] [ 8 ] [ 4 ] 
+Pontuacao: 496
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 2 ] [ 0 ] [ 2 ] [ 64 ] 
+[ 0 ] [ 4 ] [ 16 ] [ 32 ] 
+[ 2 ] [ 2 ] [ 8 ] [ 4 ] 
+Pontuacao: 496
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 0 ] [ 2 ] [ 2 ] [ 64 ] 
+[ 0 ] [ 4 ] [ 16 ] [ 32 ] 
+[ 4 ] [ 2 ] [ 8 ] [ 4 ] 
+Pontuacao: 500
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 64 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 32 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 8 ] [ 4 ] 
+Pontuacao: 504
+Introduza uma jogada (N, S, E, W): E
+[ 4 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 64 ] 
+[ 4 ] [ 16 ] [ 32 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 8 ] [ 4 ] 
+Pontuacao: 504
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 2 ] [ 4 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 64 ] 
+[ 4 ] [ 16 ] [ 32 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 8 ] [ 4 ] 
+Pontuacao: 504
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 2 ] [ 8 ] [ 8 ] 
+[ 0 ] [ 16 ] [ 32 ] [ 64 ] 
+[ 0 ] [ 2 ] [ 8 ] [ 8 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+Pontuacao: 528
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 2 ] [ 8 ] [ 8 ] 
+[ 2 ] [ 16 ] [ 32 ] [ 64 ] 
+[ 0 ] [ 2 ] [ 8 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 0 ] 
+Pontuacao: 528
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 2 ] [ 16 ] [ 0 ] 
+[ 2 ] [ 16 ] [ 32 ] [ 64 ] 
+[ 2 ] [ 16 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 0 ] [ 2 ] [ 0 ] 
+Pontuacao: 560
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 2 ] [ 16 ] [ 0 ] 
+[ 2 ] [ 16 ] [ 32 ] [ 64 ] 
+[ 2 ] [ 16 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 0 ] [ 0 ] [ 2 ] 
+Pontuacao: 564
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 2 ] [ 16 ] [ 2 ] 
+[ 2 ] [ 16 ] [ 32 ] [ 64 ] 
+[ 2 ] [ 16 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+Pontuacao: 564
+Introduza uma jogada (N, S, E, W): E
+[ 8 ] [ 2 ] [ 16 ] [ 2 ] 
+[ 2 ] [ 16 ] [ 32 ] [ 64 ] 
+[ 0 ] [ 2 ] [ 2 ] [ 16 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 2 ] 
+Pontuacao: 564
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 16 ] [ 2 ] 
+[ 2 ] [ 2 ] [ 32 ] [ 64 ] 
+[ 8 ] [ 16 ] [ 2 ] [ 16 ] 
+[ 2 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 564
+Introduza uma jogada (N, S, E, W): W
+[ 16 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 32 ] [ 64 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 2 ] [ 16 ] 
+[ 4 ] [ 4 ] [ 2 ] [ 2 ] 
+Pontuacao: 572
+Introduza uma jogada (N, S, E, W): W
+[ 16 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 32 ] [ 64 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 2 ] [ 16 ] 
+[ 8 ] [ 4 ] [ 0 ] [ 4 ] 
+Pontuacao: 584
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 32 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 600
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 32 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 600
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 32 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 600
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 32 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 600
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 16 ] [ 32 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 600
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 16 ] [ 32 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 600
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 16 ] [ 32 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 600
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 2 ] [ 16 ] [ 32 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 600
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 0 ] [ 4 ] [ 2 ] 
+[ 0 ] [ 4 ] [ 16 ] [ 32 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 604
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 16 ] [ 32 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 604
+Introduza uma jogada (N, S, E, W): N
+[ 2 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 4 ] [ 4 ] [ 16 ] [ 32 ] 
+[ 16 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 604
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 4 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 2 ] 
+[ 32 ] [ 64 ] [ 16 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 648
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 2 ] 
+[ 32 ] [ 64 ] [ 16 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 656
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 0 ] [ 8 ] [ 2 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 2 ] 
+[ 32 ] [ 64 ] [ 16 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 656
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 2 ] [ 8 ] [ 2 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 2 ] 
+[ 32 ] [ 64 ] [ 16 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 656
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 8 ] [ 2 ] [ 4 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 2 ] 
+[ 32 ] [ 64 ] [ 16 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 660
+Introduza uma jogada (N, S, E, W): N
+[ 4 ] [ 8 ] [ 2 ] [ 4 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 4 ] 
+[ 32 ] [ 64 ] [ 16 ] [ 4 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 664
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 8 ] [ 2 ] [ 4 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 4 ] 
+[ 32 ] [ 64 ] [ 16 ] [ 4 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 664
+Introduza uma jogada (N, S, E, W): N
+[ 4 ] [ 8 ] [ 2 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 8 ] 
+[ 32 ] [ 64 ] [ 16 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 2 ] 
+Pontuacao: 680
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 8 ] [ 2 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 8 ] 
+[ 32 ] [ 64 ] [ 16 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 4 ] [ 0 ] 
+Pontuacao: 684
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 8 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 2 ] 
+[ 32 ] [ 64 ] [ 16 ] [ 16 ] 
+[ 2 ] [ 4 ] [ 4 ] [ 2 ] 
+Pontuacao: 700
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 8 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 2 ] 
+[ 32 ] [ 64 ] [ 32 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 2 ] [ 2 ] 
+Pontuacao: 740
+Introduza uma jogada (N, S, E, W): N
+[ 4 ] [ 8 ] [ 2 ] [ 4 ] 
+[ 8 ] [ 16 ] [ 64 ] [ 0 ] 
+[ 32 ] [ 64 ] [ 2 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 0 ] [ 2 ] 
+Pontuacao: 808
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 8 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 2 ] [ 0 ] 
+[ 32 ] [ 64 ] [ 64 ] [ 4 ] 
+[ 2 ] [ 8 ] [ 2 ] [ 2 ] 
+Pontuacao: 808
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 4 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 0 ] [ 32 ] [ 128 ] [ 4 ] 
+[ 0 ] [ 2 ] [ 8 ] [ 4 ] 
+Pontuacao: 940
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 8 ] [ 2 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 4 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 2 ] 
+Pontuacao: 940
+Introduza uma jogada (N, S, E, W): N
+[ 4 ] [ 16 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 128 ] [ 16 ] [ 0 ] 
+[ 32 ] [ 8 ] [ 8 ] [ 0 ] 
+[ 2 ] [ 0 ] [ 2 ] [ 0 ] 
+Pontuacao: 968
+Introduza uma jogada (N, S, E, W): N
+[ 4 ] [ 16 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 128 ] [ 16 ] [ 0 ] 
+[ 32 ] [ 8 ] [ 8 ] [ 0 ] 
+[ 2 ] [ 0 ] [ 2 ] [ 0 ] 
+Pontuacao: 968
+Introduza uma jogada (N, S, E, W): N
+[ 4 ] [ 16 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 128 ] [ 16 ] [ 0 ] 
+[ 32 ] [ 8 ] [ 8 ] [ 0 ] 
+[ 2 ] [ 0 ] [ 2 ] [ 0 ] 
+Pontuacao: 968
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 16 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 128 ] [ 16 ] [ 0 ] 
+[ 32 ] [ 16 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 0 ] [ 4 ] [ 0 ] 
+Pontuacao: 988
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 16 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 128 ] [ 16 ] [ 0 ] 
+[ 32 ] [ 16 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 0 ] [ 0 ] [ 4 ] 
+Pontuacao: 996
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 16 ] [ 0 ] [ 0 ] 
+[ 32 ] [ 128 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 16 ] [ 8 ] 
+Pontuacao: 1004
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 16 ] [ 0 ] [ 0 ] 
+[ 32 ] [ 128 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 16 ] [ 8 ] 
+Pontuacao: 1004
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 16 ] [ 0 ] [ 0 ] 
+[ 32 ] [ 128 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 16 ] [ 8 ] 
+Pontuacao: 1004
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 0 ] [ 2 ] 
+[ 2 ] [ 16 ] [ 0 ] [ 0 ] 
+[ 32 ] [ 128 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 32 ] [ 8 ] [ 0 ] 
+Pontuacao: 1036
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 16 ] [ 2 ] [ 0 ] 
+[ 32 ] [ 128 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 32 ] [ 8 ] [ 0 ] 
+Pontuacao: 1040
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 16 ] [ 2 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 32 ] [ 8 ] [ 0 ] 
+Pontuacao: 1048
+Introduza uma jogada (N, S, E, W): S
+[ 8 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 16 ] [ 0 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 4 ] [ 0 ] 
+[ 8 ] [ 32 ] [ 8 ] [ 2 ] 
+Pontuacao: 1052
+Introduza uma jogada (N, S, E, W): S
+[ 8 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 16 ] [ 0 ] [ 0 ] 
+[ 32 ] [ 128 ] [ 4 ] [ 2 ] 
+[ 8 ] [ 32 ] [ 8 ] [ 4 ] 
+Pontuacao: 1056
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 16 ] 
+[ 32 ] [ 128 ] [ 4 ] [ 2 ] 
+[ 8 ] [ 32 ] [ 8 ] [ 4 ] 
+Pontuacao: 1056
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 8 ] [ 0 ] [ 2 ] 
+[ 2 ] [ 16 ] [ 0 ] [ 0 ] 
+[ 32 ] [ 128 ] [ 4 ] [ 2 ] 
+[ 8 ] [ 32 ] [ 8 ] [ 4 ] 
+Pontuacao: 1056
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 8 ] [ 0 ] [ 2 ] 
+[ 4 ] [ 16 ] [ 0 ] [ 0 ] 
+[ 32 ] [ 128 ] [ 4 ] [ 4 ] 
+[ 8 ] [ 32 ] [ 8 ] [ 4 ] 
+Pontuacao: 1064
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 8 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 4 ] [ 0 ] 
+[ 32 ] [ 128 ] [ 4 ] [ 2 ] 
+[ 8 ] [ 32 ] [ 8 ] [ 8 ] 
+Pontuacao: 1072
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 0 ] [ 4 ] [ 16 ] [ 4 ] 
+[ 32 ] [ 128 ] [ 4 ] [ 2 ] 
+[ 4 ] [ 8 ] [ 32 ] [ 16 ] 
+Pontuacao: 1088
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 4 ] [ 0 ] 
+[ 32 ] [ 128 ] [ 4 ] [ 2 ] 
+[ 4 ] [ 8 ] [ 32 ] [ 16 ] 
+Pontuacao: 1088
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 4 ] [ 0 ] 
+[ 32 ] [ 128 ] [ 4 ] [ 2 ] 
+[ 4 ] [ 8 ] [ 32 ] [ 16 ] 
+Pontuacao: 1088
+Introduza uma jogada (N, S, E, W): S
+[ 8 ] [ 2 ] [ 0 ] [ 2 ] 
+[ 4 ] [ 16 ] [ 0 ] [ 0 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 2 ] 
+[ 4 ] [ 8 ] [ 32 ] [ 16 ] 
+Pontuacao: 1096
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 2 ] [ 0 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 2 ] 
+[ 4 ] [ 8 ] [ 32 ] [ 16 ] 
+Pontuacao: 1100
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 0 ] [ 8 ] [ 4 ] 
+[ 0 ] [ 4 ] [ 16 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 2 ] 
+[ 4 ] [ 8 ] [ 32 ] [ 16 ] 
+Pontuacao: 1100
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 2 ] [ 8 ] [ 4 ] 
+[ 2 ] [ 4 ] [ 16 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 2 ] 
+[ 4 ] [ 8 ] [ 32 ] [ 16 ] 
+Pontuacao: 1100
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 8 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 16 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 2 ] 
+[ 4 ] [ 8 ] [ 32 ] [ 16 ] 
+Pontuacao: 1100
+Introduza uma jogada (N, S, E, W): N
+[ 4 ] [ 8 ] [ 4 ] [ 4 ] 
+[ 32 ] [ 4 ] [ 16 ] [ 2 ] 
+[ 4 ] [ 128 ] [ 8 ] [ 16 ] 
+[ 0 ] [ 8 ] [ 32 ] [ 2 ] 
+Pontuacao: 1108
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 8 ] [ 4 ] [ 4 ] 
+[ 4 ] [ 4 ] [ 16 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 16 ] 
+[ 4 ] [ 8 ] [ 32 ] [ 2 ] 
+Pontuacao: 1108
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 8 ] [ 8 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 2 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 16 ] 
+[ 4 ] [ 8 ] [ 32 ] [ 2 ] 
+Pontuacao: 1124
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 8 ] [ 8 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 2 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 16 ] 
+[ 4 ] [ 8 ] [ 32 ] [ 2 ] 
+Pontuacao: 1124
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 16 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 4 ] [ 4 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 16 ] 
+[ 4 ] [ 8 ] [ 32 ] [ 2 ] 
+Pontuacao: 1144
+Introduza uma jogada (N, S, E, W): E
+[ 4 ] [ 0 ] [ 2 ] [ 16 ] 
+[ 0 ] [ 8 ] [ 16 ] [ 8 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 16 ] 
+[ 4 ] [ 8 ] [ 32 ] [ 2 ] 
+Pontuacao: 1152
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 4 ] [ 2 ] [ 16 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 8 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 16 ] 
+[ 4 ] [ 8 ] [ 32 ] [ 2 ] 
+Pontuacao: 1152
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 16 ] [ 2 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 8 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 16 ] 
+[ 4 ] [ 8 ] [ 32 ] [ 2 ] 
+Pontuacao: 1152
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 16 ] [ 2 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 8 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 16 ] 
+[ 4 ] [ 8 ] [ 32 ] [ 2 ] 
+Pontuacao: 1152
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 2 ] [ 2 ] [ 2 ] 
+[ 2 ] [ 8 ] [ 32 ] [ 8 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 16 ] 
+[ 4 ] [ 8 ] [ 32 ] [ 2 ] 
+Pontuacao: 1184
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 4 ] [ 2 ] [ 2 ] 
+[ 2 ] [ 8 ] [ 32 ] [ 8 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 16 ] 
+[ 4 ] [ 8 ] [ 32 ] [ 2 ] 
+Pontuacao: 1188
+Introduza uma jogada (N, S, E, W): N
+[ 4 ] [ 4 ] [ 2 ] [ 2 ] 
+[ 2 ] [ 8 ] [ 32 ] [ 8 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 16 ] 
+[ 4 ] [ 8 ] [ 32 ] [ 2 ] 
+Pontuacao: 1188
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 2 ] [ 8 ] [ 4 ] 
+[ 2 ] [ 8 ] [ 32 ] [ 8 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 16 ] 
+[ 4 ] [ 8 ] [ 32 ] [ 2 ] 
+Pontuacao: 1200
+Introduza uma jogada (N, S, E, W): N
+[ 2 ] [ 2 ] [ 8 ] [ 4 ] 
+[ 32 ] [ 8 ] [ 32 ] [ 8 ] 
+[ 4 ] [ 128 ] [ 8 ] [ 16 ] 
+[ 2 ] [ 8 ] [ 32 ] [ 2 ] 
+Pontuacao: 1200
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 8 ] [ 4 ] [ 2 ] 
+[ 32 ] [ 8 ] [ 32 ] [ 8 ] 
+[ 4 ] [ 128 ] [ 8 ] [ 16 ] 
+[ 2 ] [ 8 ] [ 32 ] [ 2 ] 
+Pontuacao: 1204
+Introduza uma jogada (N, S, E, W): E
+[ 4 ] [ 8 ] [ 4 ] [ 2 ] 
+[ 32 ] [ 8 ] [ 32 ] [ 8 ] 
+[ 4 ] [ 128 ] [ 8 ] [ 16 ] 
+[ 2 ] [ 8 ] [ 32 ] [ 2 ] 
+Pontuacao: 1204
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 8 ] [ 4 ] [ 2 ] 
+[ 32 ] [ 8 ] [ 32 ] [ 8 ] 
+[ 4 ] [ 128 ] [ 8 ] [ 16 ] 
+[ 2 ] [ 8 ] [ 32 ] [ 2 ] 
+Pontuacao: 1204
+Introduza uma jogada (N, S, E, W): N
+[ 4 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 32 ] [ 8 ] 
+[ 4 ] [ 8 ] [ 8 ] [ 16 ] 
+[ 2 ] [ 2 ] [ 32 ] [ 2 ] 
+Pontuacao: 1220
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 32 ] [ 8 ] 
+[ 4 ] [ 16 ] [ 16 ] [ 0 ] 
+[ 4 ] [ 32 ] [ 2 ] [ 2 ] 
+Pontuacao: 1240
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 16 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 128 ] [ 32 ] [ 2 ] 
+[ 32 ] [ 16 ] [ 16 ] [ 8 ] 
+[ 8 ] [ 32 ] [ 2 ] [ 2 ] 
+Pontuacao: 1248
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 32 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 16 ] [ 2 ] 
+[ 0 ] [ 32 ] [ 2 ] [ 4 ] 
+Pontuacao: 1256
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 32 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 16 ] [ 2 ] 
+[ 0 ] [ 32 ] [ 2 ] [ 4 ] 
+Pontuacao: 1256
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 32 ] [ 8 ] 
+[ 8 ] [ 32 ] [ 2 ] [ 2 ] 
+[ 32 ] [ 2 ] [ 4 ] [ 0 ] 
+Pontuacao: 1288
+Introduza uma jogada (N, S, E, W): E
+[ 8 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 32 ] [ 8 ] 
+[ 0 ] [ 8 ] [ 32 ] [ 4 ] 
+[ 2 ] [ 32 ] [ 2 ] [ 4 ] 
+Pontuacao: 1292
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 32 ] [ 8 ] 
+[ 8 ] [ 32 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 32 ] [ 2 ] [ 4 ] 
+Pontuacao: 1292
+Introduza uma jogada (N, S, E, W): E
+[ 8 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 32 ] [ 8 ] 
+[ 8 ] [ 32 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 32 ] [ 2 ] [ 4 ] 
+Pontuacao: 1292
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 32 ] [ 8 ] 
+[ 8 ] [ 64 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 2 ] [ 2 ] [ 4 ] 
+Pontuacao: 1356
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 32 ] [ 8 ] 
+[ 8 ] [ 64 ] [ 4 ] [ 2 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 1360
+Introduza uma jogada (N, S, E, W): S
+[ 8 ] [ 16 ] [ 0 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 4 ] [ 2 ] 
+[ 8 ] [ 64 ] [ 32 ] [ 8 ] 
+[ 4 ] [ 2 ] [ 8 ] [ 4 ] 
+Pontuacao: 1372
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 4 ] [ 2 ] 
+[ 8 ] [ 64 ] [ 32 ] [ 8 ] 
+[ 4 ] [ 2 ] [ 8 ] [ 4 ] 
+Pontuacao: 1372
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 4 ] [ 2 ] 
+[ 8 ] [ 64 ] [ 32 ] [ 8 ] 
+[ 4 ] [ 2 ] [ 8 ] [ 4 ] 
+Pontuacao: 1372
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 4 ] [ 4 ] 
+[ 8 ] [ 64 ] [ 32 ] [ 8 ] 
+[ 4 ] [ 2 ] [ 8 ] [ 4 ] 
+Pontuacao: 1376
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 2 ] 
+[ 8 ] [ 64 ] [ 32 ] [ 8 ] 
+[ 4 ] [ 2 ] [ 8 ] [ 4 ] 
+Pontuacao: 1384
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 8 ] [ 16 ] [ 4 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 4 ] 
+[ 8 ] [ 64 ] [ 32 ] [ 8 ] 
+[ 4 ] [ 2 ] [ 8 ] [ 4 ] 
+Pontuacao: 1388
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 8 ] [ 16 ] [ 4 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 4 ] 
+[ 8 ] [ 64 ] [ 32 ] [ 8 ] 
+[ 4 ] [ 2 ] [ 8 ] [ 4 ] 
+Pontuacao: 1388
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 8 ] [ 16 ] [ 4 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 4 ] 
+[ 8 ] [ 64 ] [ 32 ] [ 8 ] 
+[ 4 ] [ 2 ] [ 8 ] [ 4 ] 
+Pontuacao: 1388
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 8 ] [ 16 ] [ 4 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 4 ] 
+[ 8 ] [ 64 ] [ 32 ] [ 8 ] 
+[ 4 ] [ 2 ] [ 8 ] [ 4 ] 
+Pontuacao: 1388
+Introduza uma jogada (N, S, E, W): N
+[ 2 ] [ 8 ] [ 16 ] [ 8 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 8 ] 
+[ 8 ] [ 64 ] [ 32 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 8 ] [ 4 ] 
+Pontuacao: 1396
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 8 ] [ 16 ] [ 0 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 2 ] 
+[ 8 ] [ 64 ] [ 32 ] [ 16 ] 
+[ 4 ] [ 2 ] [ 8 ] [ 8 ] 
+Pontuacao: 1420
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 2 ] [ 8 ] [ 16 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 2 ] 
+[ 8 ] [ 64 ] [ 32 ] [ 16 ] 
+[ 0 ] [ 4 ] [ 2 ] [ 16 ] 
+Pontuacao: 1436
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 4 ] [ 8 ] [ 16 ] 
+[ 32 ] [ 128 ] [ 8 ] [ 2 ] 
+[ 8 ] [ 64 ] [ 32 ] [ 16 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 16 ] 
+Pontuacao: 1440
+Introduza uma jogada (N, S, E, W): N
+[ 32 ] [ 4 ] [ 16 ] [ 16 ] 
+[ 8 ] [ 128 ] [ 32 ] [ 2 ] 
+[ 2 ] [ 64 ] [ 2 ] [ 32 ] 
+[ 0 ] [ 4 ] [ 0 ] [ 2 ] 
+Pontuacao: 1488
+Introduza uma jogada (N, S, E, W): W
+[ 32 ] [ 4 ] [ 32 ] [ 2 ] 
+[ 8 ] [ 128 ] [ 32 ] [ 2 ] 
+[ 2 ] [ 64 ] [ 2 ] [ 32 ] 
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+Pontuacao: 1520
+Introduza uma jogada (N, S, E, W): N
+[ 32 ] [ 4 ] [ 64 ] [ 4 ] 
+[ 8 ] [ 128 ] [ 2 ] [ 32 ] 
+[ 2 ] [ 64 ] [ 0 ] [ 2 ] 
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+Pontuacao: 1588
+Introduza uma jogada (N, S, E, W): N
+[ 32 ] [ 4 ] [ 64 ] [ 4 ] 
+[ 8 ] [ 128 ] [ 2 ] [ 32 ] 
+[ 2 ] [ 64 ] [ 0 ] [ 2 ] 
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+Pontuacao: 1588
+Introduza uma jogada (N, S, E, W): E
+[ 32 ] [ 4 ] [ 64 ] [ 4 ] 
+[ 8 ] [ 128 ] [ 2 ] [ 32 ] 
+[ 0 ] [ 2 ] [ 64 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 1588
+Introduza uma jogada (N, S, E, W): E
+[ 32 ] [ 4 ] [ 64 ] [ 4 ] 
+[ 8 ] [ 128 ] [ 2 ] [ 32 ] 
+[ 0 ] [ 2 ] [ 64 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 1588
+Introduza uma jogada (N, S, E, W): N
+[ 32 ] [ 4 ] [ 64 ] [ 4 ] 
+[ 8 ] [ 128 ] [ 2 ] [ 32 ] 
+[ 0 ] [ 4 ] [ 64 ] [ 4 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 2 ] 
+Pontuacao: 1596
+Introduza uma jogada (N, S, E, W): W
+[ 32 ] [ 4 ] [ 64 ] [ 4 ] 
+[ 8 ] [ 128 ] [ 2 ] [ 32 ] 
+[ 4 ] [ 64 ] [ 4 ] [ 2 ] 
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+Pontuacao: 1596
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 4 ] [ 4 ] [ 0 ] 
+[ 32 ] [ 128 ] [ 64 ] [ 4 ] 
+[ 8 ] [ 64 ] [ 2 ] [ 32 ] 
+[ 8 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 1604
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 4 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 128 ] [ 64 ] [ 4 ] 
+[ 32 ] [ 64 ] [ 2 ] [ 32 ] 
+[ 16 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 1620
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 128 ] [ 64 ] [ 4 ] 
+[ 32 ] [ 64 ] [ 2 ] [ 32 ] 
+[ 16 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 1628
+Introduza uma jogada (N, S, E, W): S
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 128 ] [ 64 ] [ 4 ] 
+[ 32 ] [ 64 ] [ 2 ] [ 32 ] 
+[ 16 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 1628
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 2 ] [ 64 ] [ 4 ] 
+[ 4 ] [ 128 ] [ 2 ] [ 32 ] 
+[ 32 ] [ 64 ] [ 4 ] [ 2 ] 
+[ 16 ] [ 2 ] [ 0 ] [ 2 ] 
+Pontuacao: 1628
+Introduza uma jogada (N, S, E, W): S
+[ 8 ] [ 2 ] [ 2 ] [ 0 ] 
+[ 4 ] [ 128 ] [ 64 ] [ 4 ] 
+[ 32 ] [ 64 ] [ 2 ] [ 32 ] 
+[ 16 ] [ 2 ] [ 4 ] [ 4 ] 
+Pontuacao: 1632
+Introduza uma jogada (N, S, E, W): S
+[ 8 ] [ 2 ] [ 2 ] [ 0 ] 
+[ 4 ] [ 128 ] [ 64 ] [ 4 ] 
+[ 32 ] [ 64 ] [ 2 ] [ 32 ] 
+[ 16 ] [ 2 ] [ 4 ] [ 4 ] 
+Pontuacao: 1632
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 4 ] [ 0 ] [ 2 ] 
+[ 4 ] [ 128 ] [ 64 ] [ 4 ] 
+[ 32 ] [ 64 ] [ 2 ] [ 32 ] 
+[ 16 ] [ 2 ] [ 8 ] [ 0 ] 
+Pontuacao: 1644
+Introduza uma jogada (N, S, E, W): S
+[ 8 ] [ 4 ] [ 2 ] [ 0 ] 
+[ 4 ] [ 128 ] [ 64 ] [ 2 ] 
+[ 32 ] [ 64 ] [ 2 ] [ 4 ] 
+[ 16 ] [ 2 ] [ 8 ] [ 32 ] 
+Pontuacao: 1644
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 4 ] [ 2 ] [ 2 ] 
+[ 4 ] [ 128 ] [ 64 ] [ 4 ] 
+[ 32 ] [ 64 ] [ 2 ] [ 32 ] 
+[ 16 ] [ 2 ] [ 8 ] [ 2 ] 
+Pontuacao: 1644
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 4 ] [ 2 ] [ 2 ] 
+[ 4 ] [ 128 ] [ 64 ] [ 4 ] 
+[ 32 ] [ 64 ] [ 2 ] [ 32 ] 
+[ 16 ] [ 2 ] [ 8 ] [ 2 ] 
+Pontuacao: 1644
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 4 ] [ 4 ] [ 2 ] 
+[ 4 ] [ 128 ] [ 64 ] [ 4 ] 
+[ 32 ] [ 64 ] [ 2 ] [ 32 ] 
+[ 16 ] [ 2 ] [ 8 ] [ 2 ] 
+Pontuacao: 1648
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 8 ] [ 8 ] [ 2 ] 
+[ 4 ] [ 128 ] [ 64 ] [ 4 ] 
+[ 32 ] [ 64 ] [ 2 ] [ 32 ] 
+[ 16 ] [ 2 ] [ 8 ] [ 2 ] 
+Pontuacao: 1656
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 8 ] [ 8 ] [ 2 ] 
+[ 4 ] [ 128 ] [ 64 ] [ 4 ] 
+[ 32 ] [ 64 ] [ 2 ] [ 32 ] 
+[ 16 ] [ 2 ] [ 8 ] [ 2 ] 
+Pontuacao: 1656
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 2 ] [ 16 ] [ 2 ] 
+[ 4 ] [ 128 ] [ 64 ] [ 4 ] 
+[ 32 ] [ 64 ] [ 2 ] [ 32 ] 
+[ 16 ] [ 2 ] [ 8 ] [ 2 ] 
+Pontuacao: 1672
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 16 ] [ 2 ] [ 4 ] 
+[ 4 ] [ 128 ] [ 64 ] [ 4 ] 
+[ 32 ] [ 64 ] [ 2 ] [ 32 ] 
+[ 16 ] [ 2 ] [ 8 ] [ 2 ] 
+Pontuacao: 1676
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 16 ] [ 2 ] [ 4 ] 
+[ 4 ] [ 128 ] [ 64 ] [ 4 ] 
+[ 32 ] [ 64 ] [ 2 ] [ 32 ] 
+[ 16 ] [ 2 ] [ 8 ] [ 2 ] 
+Pontuacao: 1676
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 16 ] [ 2 ] [ 8 ] 
+[ 32 ] [ 128 ] [ 64 ] [ 32 ] 
+[ 16 ] [ 64 ] [ 2 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 8 ] [ 4 ] 
+Pontuacao: 1692
+Introduza uma jogada (N, S, E, W): E
+[ 8 ] [ 16 ] [ 2 ] [ 8 ] 
+[ 32 ] [ 128 ] [ 64 ] [ 32 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 4 ] 
+[ 0 ] [ 2 ] [ 8 ] [ 4 ] 
+Pontuacao: 1696
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 16 ] [ 2 ] [ 8 ] 
+[ 32 ] [ 128 ] [ 128 ] [ 32 ] 
+[ 2 ] [ 16 ] [ 8 ] [ 8 ] 
+[ 0 ] [ 2 ] [ 2 ] [ 0 ] 
+Pontuacao: 1832
+Introduza uma jogada (N, S, E, W): E
+[ 8 ] [ 16 ] [ 2 ] [ 8 ] 
+[ 0 ] [ 32 ] [ 256 ] [ 32 ] 
+[ 0 ] [ 2 ] [ 16 ] [ 16 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 4 ] 
+Pontuacao: 2108
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 2 ] [ 16 ] [ 2 ] [ 32 ] 
+[ 8 ] [ 32 ] [ 256 ] [ 16 ] 
+[ 2 ] [ 2 ] [ 16 ] [ 4 ] 
+Pontuacao: 2108
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 2 ] [ 16 ] [ 2 ] [ 32 ] 
+[ 8 ] [ 32 ] [ 256 ] [ 16 ] 
+[ 0 ] [ 4 ] [ 16 ] [ 4 ] 
+Pontuacao: 2112
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 2 ] [ 2 ] [ 8 ] 
+[ 2 ] [ 16 ] [ 2 ] [ 32 ] 
+[ 8 ] [ 32 ] [ 256 ] [ 16 ] 
+[ 0 ] [ 4 ] [ 16 ] [ 4 ] 
+Pontuacao: 2112
+Introduza uma jogada (N, S, E, W): N
+[ 2 ] [ 2 ] [ 4 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 256 ] [ 32 ] 
+[ 0 ] [ 32 ] [ 16 ] [ 16 ] 
+[ 0 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 2116
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 4 ] [ 4 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 256 ] [ 32 ] 
+[ 0 ] [ 0 ] [ 32 ] [ 32 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 2152
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 8 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 256 ] [ 32 ] 
+[ 64 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 2224
+Introduza uma jogada (N, S, E, W): E
+[ 4 ] [ 0 ] [ 0 ] [ 16 ] 
+[ 8 ] [ 16 ] [ 256 ] [ 32 ] 
+[ 0 ] [ 0 ] [ 64 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 2240
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 4 ] [ 0 ] [ 16 ] 
+[ 4 ] [ 0 ] [ 256 ] [ 32 ] 
+[ 8 ] [ 16 ] [ 64 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 2240
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 16 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 256 ] [ 32 ] [ 2 ] 
+[ 8 ] [ 16 ] [ 64 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 2240
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 16 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 256 ] [ 32 ] [ 2 ] 
+[ 8 ] [ 16 ] [ 64 ] [ 4 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 2252
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 0 ] [ 0 ] [ 16 ] 
+[ 8 ] [ 256 ] [ 32 ] [ 2 ] 
+[ 8 ] [ 16 ] [ 64 ] [ 4 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 2252
+Introduza uma jogada (N, S, E, W): N
+[ 2 ] [ 256 ] [ 32 ] [ 16 ] 
+[ 16 ] [ 16 ] [ 64 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 8 ] 
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+Pontuacao: 2276
+Introduza uma jogada (N, S, E, W): N
+[ 2 ] [ 256 ] [ 32 ] [ 16 ] 
+[ 16 ] [ 16 ] [ 64 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 8 ] 
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+Pontuacao: 2276
+Introduza uma jogada (N, S, E, W): N
+[ 2 ] [ 256 ] [ 32 ] [ 16 ] 
+[ 16 ] [ 16 ] [ 64 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 8 ] 
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+Pontuacao: 2276
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 256 ] [ 0 ] [ 2 ] 
+[ 2 ] [ 16 ] [ 32 ] [ 16 ] 
+[ 16 ] [ 4 ] [ 64 ] [ 2 ] 
+[ 2 ] [ 2 ] [ 2 ] [ 8 ] 
+Pontuacao: 2276
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 0 ] [ 256 ] [ 2 ] 
+[ 2 ] [ 16 ] [ 32 ] [ 16 ] 
+[ 16 ] [ 4 ] [ 64 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 8 ] 
+Pontuacao: 2280
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 256 ] [ 2 ] 
+[ 0 ] [ 16 ] [ 32 ] [ 16 ] 
+[ 4 ] [ 4 ] [ 64 ] [ 2 ] 
+[ 16 ] [ 2 ] [ 4 ] [ 8 ] 
+Pontuacao: 2284
+Introduza uma jogada (N, S, E, W): N
+[ 4 ] [ 2 ] [ 256 ] [ 2 ] 
+[ 16 ] [ 16 ] [ 32 ] [ 16 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 8 ] 
+Pontuacao: 2284
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 256 ] [ 2 ] 
+[ 32 ] [ 32 ] [ 16 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 8 ] [ 2 ] 
+Pontuacao: 2316
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 256 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 16 ] [ 0 ] 
+[ 32 ] [ 32 ] [ 64 ] [ 2 ] 
+[ 4 ] [ 8 ] [ 8 ] [ 4 ] 
+Pontuacao: 2332
+Introduza uma jogada (N, S, E, W): N
+[ 4 ] [ 2 ] [ 256 ] [ 4 ] 
+[ 32 ] [ 32 ] [ 16 ] [ 2 ] 
+[ 4 ] [ 8 ] [ 64 ] [ 4 ] 
+[ 4 ] [ 0 ] [ 8 ] [ 0 ] 
+Pontuacao: 2332
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 256 ] [ 4 ] 
+[ 64 ] [ 16 ] [ 2 ] [ 0 ] 
+[ 4 ] [ 8 ] [ 64 ] [ 4 ] 
+[ 4 ] [ 8 ] [ 2 ] [ 0 ] 
+Pontuacao: 2396
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 256 ] [ 4 ] 
+[ 64 ] [ 16 ] [ 2 ] [ 0 ] 
+[ 4 ] [ 8 ] [ 64 ] [ 4 ] 
+[ 4 ] [ 8 ] [ 2 ] [ 0 ] 
+Pontuacao: 2396
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 256 ] [ 2 ] 
+[ 4 ] [ 2 ] [ 2 ] [ 0 ] 
+[ 64 ] [ 16 ] [ 64 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 2 ] [ 8 ] 
+Pontuacao: 2428
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 256 ] [ 0 ] 
+[ 4 ] [ 2 ] [ 2 ] [ 0 ] 
+[ 64 ] [ 2 ] [ 64 ] [ 2 ] 
+[ 8 ] [ 32 ] [ 2 ] [ 8 ] 
+Pontuacao: 2460
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 256 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 4 ] 
+[ 64 ] [ 2 ] [ 64 ] [ 2 ] 
+[ 8 ] [ 32 ] [ 2 ] [ 8 ] 
+Pontuacao: 2464
+Introduza uma jogada (N, S, E, W): N
+[ 64 ] [ 4 ] [ 4 ] [ 256 ] 
+[ 8 ] [ 32 ] [ 64 ] [ 4 ] 
+[ 2 ] [ 0 ] [ 2 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+Pontuacao: 2468
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 64 ] [ 8 ] [ 256 ] 
+[ 8 ] [ 32 ] [ 64 ] [ 4 ] 
+[ 2 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+Pontuacao: 2480
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 64 ] [ 8 ] [ 256 ] 
+[ 2 ] [ 32 ] [ 64 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 8 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+Pontuacao: 2488
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 64 ] [ 8 ] [ 256 ] 
+[ 4 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+Pontuacao: 2508
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 64 ] [ 8 ] [ 256 ] 
+[ 4 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 2 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 0 ] 
+Pontuacao: 2508
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 0 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 64 ] [ 64 ] [ 256 ] 
+[ 2 ] [ 32 ] [ 4 ] [ 16 ] 
+Pontuacao: 2512
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 16 ] [ 4 ] 
+[ 4 ] [ 4 ] [ 128 ] [ 256 ] 
+[ 2 ] [ 32 ] [ 4 ] [ 16 ] 
+Pontuacao: 2656
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 16 ] [ 4 ] 
+[ 0 ] [ 8 ] [ 128 ] [ 256 ] 
+[ 2 ] [ 32 ] [ 4 ] [ 16 ] 
+Pontuacao: 2664
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 16 ] [ 4 ] 
+[ 0 ] [ 8 ] [ 128 ] [ 256 ] 
+[ 4 ] [ 32 ] [ 4 ] [ 16 ] 
+Pontuacao: 2668
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 0 ] [ 2 ] [ 16 ] [ 4 ] 
+[ 0 ] [ 8 ] [ 128 ] [ 256 ] 
+[ 4 ] [ 32 ] [ 4 ] [ 16 ] 
+Pontuacao: 2668
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 0 ] [ 2 ] [ 16 ] [ 4 ] 
+[ 0 ] [ 8 ] [ 128 ] [ 256 ] 
+[ 4 ] [ 32 ] [ 4 ] [ 16 ] 
+Pontuacao: 2668
+Introduza uma jogada (N, S, E, W): N
+[ 4 ] [ 2 ] [ 2 ] [ 4 ] 
+[ 0 ] [ 8 ] [ 16 ] [ 256 ] 
+[ 0 ] [ 32 ] [ 128 ] [ 16 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 0 ] 
+Pontuacao: 2668
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 4 ] [ 4 ] [ 4 ] 
+[ 0 ] [ 8 ] [ 16 ] [ 256 ] 
+[ 0 ] [ 32 ] [ 128 ] [ 16 ] 
+[ 0 ] [ 2 ] [ 2 ] [ 4 ] 
+Pontuacao: 2672
+Introduza uma jogada (N, S, E, W): N
+[ 0 ] [ 4 ] [ 4 ] [ 4 ] 
+[ 0 ] [ 8 ] [ 16 ] [ 256 ] 
+[ 0 ] [ 32 ] [ 128 ] [ 16 ] 
+[ 0 ] [ 2 ] [ 2 ] [ 4 ] 
+Pontuacao: 2672
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 4 ] [ 4 ] [ 4 ] 
+[ 0 ] [ 8 ] [ 16 ] [ 256 ] 
+[ 0 ] [ 32 ] [ 128 ] [ 16 ] 
+[ 0 ] [ 2 ] [ 2 ] [ 4 ] 
+Pontuacao: 2672
+Introduza uma jogada (N, S, E, W): N
+[ 0 ] [ 4 ] [ 4 ] [ 4 ] 
+[ 0 ] [ 8 ] [ 16 ] [ 256 ] 
+[ 0 ] [ 32 ] [ 128 ] [ 16 ] 
+[ 0 ] [ 2 ] [ 2 ] [ 4 ] 
+Pontuacao: 2672
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 4 ] [ 4 ] [ 4 ] 
+[ 0 ] [ 8 ] [ 16 ] [ 256 ] 
+[ 0 ] [ 32 ] [ 128 ] [ 16 ] 
+[ 0 ] [ 2 ] [ 2 ] [ 4 ] 
+Pontuacao: 2672
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 4 ] [ 8 ] 
+[ 0 ] [ 8 ] [ 16 ] [ 256 ] 
+[ 0 ] [ 32 ] [ 128 ] [ 16 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 4 ] 
+Pontuacao: 2684
+Introduza uma jogada (N, S, E, W): N
+[ 2 ] [ 8 ] [ 4 ] [ 8 ] 
+[ 0 ] [ 32 ] [ 16 ] [ 256 ] 
+[ 0 ] [ 2 ] [ 128 ] [ 16 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 4 ] 
+Pontuacao: 2684
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 8 ] [ 4 ] [ 8 ] 
+[ 0 ] [ 32 ] [ 16 ] [ 256 ] 
+[ 2 ] [ 2 ] [ 128 ] [ 16 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+Pontuacao: 2692
+Introduza uma jogada (N, S, E, W): N
+[ 4 ] [ 8 ] [ 4 ] [ 8 ] 
+[ 0 ] [ 32 ] [ 16 ] [ 256 ] 
+[ 0 ] [ 2 ] [ 128 ] [ 16 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 8 ] 
+Pontuacao: 2696
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 4 ] [ 8 ] [ 4 ] [ 256 ] 
+[ 4 ] [ 32 ] [ 16 ] [ 16 ] 
+[ 2 ] [ 2 ] [ 128 ] [ 8 ] 
+Pontuacao: 2696
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 4 ] [ 8 ] [ 4 ] [ 256 ] 
+[ 0 ] [ 4 ] [ 32 ] [ 32 ] 
+[ 4 ] [ 4 ] [ 128 ] [ 8 ] 
+Pontuacao: 2732
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 8 ] [ 4 ] [ 256 ] 
+[ 4 ] [ 64 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 128 ] [ 8 ] [ 2 ] 
+Pontuacao: 2804
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 4 ] [ 8 ] [ 4 ] [ 256 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 64 ] 
+[ 8 ] [ 128 ] [ 8 ] [ 2 ] 
+Pontuacao: 2804
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 2 ] [ 2 ] [ 8 ] 
+[ 4 ] [ 8 ] [ 4 ] [ 256 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 64 ] 
+[ 8 ] [ 128 ] [ 8 ] [ 2 ] 
+Pontuacao: 2804
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 4 ] [ 8 ] 
+[ 4 ] [ 8 ] [ 4 ] [ 256 ] 
+[ 2 ] [ 0 ] [ 4 ] [ 64 ] 
+[ 8 ] [ 128 ] [ 8 ] [ 2 ] 
+Pontuacao: 2808
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 256 ] 
+[ 2 ] [ 8 ] [ 8 ] [ 64 ] 
+[ 8 ] [ 128 ] [ 8 ] [ 2 ] 
+Pontuacao: 2816
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 256 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 0 ] 
+[ 8 ] [ 128 ] [ 8 ] [ 2 ] 
+Pontuacao: 2832
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 4 ] [ 4 ] [ 256 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 2 ] 
+[ 2 ] [ 128 ] [ 8 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+Pontuacao: 2836
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 8 ] [ 256 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 2 ] 
+[ 2 ] [ 128 ] [ 8 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 2 ] [ 0 ] 
+Pontuacao: 2844
+Introduza uma jogada (N, S, E, W): W
+[ 16 ] [ 256 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 2 ] 
+[ 2 ] [ 128 ] [ 8 ] [ 0 ] 
+[ 8 ] [ 4 ] [ 2 ] [ 0 ] 
+Pontuacao: 2864
+Introduza uma jogada (N, S, E, W): E
+[ 4 ] [ 0 ] [ 16 ] [ 256 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 128 ] [ 8 ] 
+[ 0 ] [ 8 ] [ 4 ] [ 2 ] 
+Pontuacao: 2864
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 16 ] [ 16 ] [ 256 ] 
+[ 0 ] [ 2 ] [ 64 ] [ 2 ] 
+[ 4 ] [ 8 ] [ 128 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 2 ] 
+Pontuacao: 2872
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 16 ] [ 16 ] [ 256 ] 
+[ 4 ] [ 2 ] [ 64 ] [ 2 ] 
+[ 0 ] [ 8 ] [ 128 ] [ 8 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 2872
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 8 ] [ 32 ] [ 256 ] 
+[ 4 ] [ 2 ] [ 64 ] [ 2 ] 
+[ 0 ] [ 8 ] [ 128 ] [ 8 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 2904
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 8 ] [ 32 ] [ 256 ] 
+[ 2 ] [ 2 ] [ 64 ] [ 2 ] 
+[ 2 ] [ 8 ] [ 128 ] [ 8 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 2904
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 8 ] [ 32 ] [ 256 ] 
+[ 0 ] [ 4 ] [ 64 ] [ 2 ] 
+[ 2 ] [ 8 ] [ 128 ] [ 8 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 2908
+Introduza uma jogada (N, S, E, W): N
+[ 4 ] [ 8 ] [ 32 ] [ 256 ] 
+[ 4 ] [ 4 ] [ 64 ] [ 2 ] 
+[ 0 ] [ 8 ] [ 128 ] [ 8 ] 
+[ 2 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 2912
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 8 ] [ 32 ] [ 256 ] 
+[ 8 ] [ 64 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 128 ] [ 8 ] [ 0 ] 
+[ 4 ] [ 4 ] [ 2 ] [ 2 ] 
+Pontuacao: 2924
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 8 ] [ 32 ] [ 256 ] 
+[ 8 ] [ 64 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 128 ] [ 8 ] [ 0 ] 
+[ 8 ] [ 4 ] [ 0 ] [ 2 ] 
+Pontuacao: 2936
+Introduza uma jogada (N, S, E, W): E
+[ 4 ] [ 8 ] [ 32 ] [ 256 ] 
+[ 2 ] [ 8 ] [ 64 ] [ 2 ] 
+[ 0 ] [ 8 ] [ 128 ] [ 8 ] 
+[ 0 ] [ 8 ] [ 4 ] [ 2 ] 
+Pontuacao: 2936
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 8 ] [ 32 ] [ 256 ] 
+[ 2 ] [ 8 ] [ 64 ] [ 2 ] 
+[ 8 ] [ 128 ] [ 8 ] [ 0 ] 
+[ 8 ] [ 4 ] [ 2 ] [ 2 ] 
+Pontuacao: 2936
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 32 ] [ 4 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 0 ] 
+[ 2 ] [ 128 ] [ 8 ] [ 256 ] 
+[ 16 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 2972
+Introduza uma jogada (N, S, E, W): E
+[ 4 ] [ 0 ] [ 32 ] [ 4 ] 
+[ 0 ] [ 4 ] [ 16 ] [ 64 ] 
+[ 2 ] [ 128 ] [ 8 ] [ 256 ] 
+[ 16 ] [ 4 ] [ 2 ] [ 4 ] 
+Pontuacao: 2972
+Introduza uma jogada (N, S, E, W): N
+[ 4 ] [ 4 ] [ 32 ] [ 4 ] 
+[ 2 ] [ 128 ] [ 16 ] [ 64 ] 
+[ 16 ] [ 4 ] [ 8 ] [ 256 ] 
+[ 0 ] [ 2 ] [ 2 ] [ 4 ] 
+Pontuacao: 2972
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 8 ] [ 32 ] [ 4 ] 
+[ 2 ] [ 128 ] [ 16 ] [ 64 ] 
+[ 16 ] [ 4 ] [ 8 ] [ 256 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 4 ] 
+Pontuacao: 2984
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 32 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 128 ] [ 16 ] [ 64 ] 
+[ 16 ] [ 4 ] [ 8 ] [ 256 ] 
+[ 2 ] [ 8 ] [ 0 ] [ 0 ] 
+Pontuacao: 2992
+Introduza uma jogada (N, S, E, W): E
+[ 8 ] [ 32 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 128 ] [ 16 ] [ 64 ] 
+[ 16 ] [ 4 ] [ 8 ] [ 256 ] 
+[ 0 ] [ 2 ] [ 2 ] [ 8 ] 
+Pontuacao: 2992
+Introduza uma jogada (N, S, E, W): E
+[ 8 ] [ 32 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 128 ] [ 16 ] [ 64 ] 
+[ 16 ] [ 4 ] [ 8 ] [ 256 ] 
+[ 2 ] [ 0 ] [ 4 ] [ 8 ] 
+Pontuacao: 2996
+Introduza uma jogada (N, S, E, W): S
+[ 8 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 32 ] [ 16 ] [ 64 ] 
+[ 16 ] [ 128 ] [ 8 ] [ 256 ] 
+[ 2 ] [ 4 ] [ 4 ] [ 8 ] 
+Pontuacao: 2996
+Introduza uma jogada (N, S, E, W): E
+[ 8 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 32 ] [ 16 ] [ 64 ] 
+[ 16 ] [ 128 ] [ 8 ] [ 256 ] 
+[ 2 ] [ 2 ] [ 8 ] [ 8 ] 
+Pontuacao: 3004
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 32 ] [ 16 ] [ 64 ] 
+[ 16 ] [ 128 ] [ 16 ] [ 256 ] 
+[ 2 ] [ 2 ] [ 2 ] [ 8 ] 
+Pontuacao: 3020
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 32 ] [ 16 ] [ 64 ] 
+[ 16 ] [ 128 ] [ 16 ] [ 256 ] 
+[ 4 ] [ 2 ] [ 8 ] [ 2 ] 
+Pontuacao: 3024
+Introduza uma jogada (N, S, E, W): E
+[ 8 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 32 ] [ 16 ] [ 64 ] 
+[ 16 ] [ 128 ] [ 16 ] [ 256 ] 
+[ 4 ] [ 2 ] [ 8 ] [ 2 ] 
+Pontuacao: 3024
+Introduza uma jogada (N, S, E, W): E
+[ 8 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 32 ] [ 16 ] [ 64 ] 
+[ 16 ] [ 128 ] [ 16 ] [ 256 ] 
+[ 4 ] [ 2 ] [ 8 ] [ 2 ] 
+Pontuacao: 3024
+Introduza uma jogada (N, S, E, W): S
+[ 8 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 32 ] [ 4 ] [ 64 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 256 ] 
+[ 4 ] [ 2 ] [ 8 ] [ 2 ] 
+Pontuacao: 3056
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 2 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 32 ] [ 32 ] [ 64 ] 
+[ 16 ] [ 128 ] [ 8 ] [ 256 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 3064
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 2 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 32 ] [ 32 ] [ 64 ] 
+[ 16 ] [ 128 ] [ 8 ] [ 256 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 3064
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 2 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 32 ] [ 32 ] [ 64 ] 
+[ 16 ] [ 128 ] [ 8 ] [ 256 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 3064
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 2 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 32 ] [ 32 ] [ 64 ] 
+[ 16 ] [ 128 ] [ 8 ] [ 256 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 3064
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 2 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 64 ] [ 64 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 8 ] [ 256 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 3128
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 2 ] [ 8 ] [ 4 ] 
+[ 2 ] [ 64 ] [ 64 ] [ 256 ] 
+[ 16 ] [ 128 ] [ 8 ] [ 2 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 3132
+Introduza uma jogada (N, S, E, W): E
+[ 8 ] [ 2 ] [ 8 ] [ 4 ] 
+[ 2 ] [ 2 ] [ 128 ] [ 256 ] 
+[ 16 ] [ 128 ] [ 8 ] [ 2 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 3260
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 2 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 128 ] [ 256 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 8 ] [ 2 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 3264
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 2 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 256 ] [ 256 ] [ 4 ] 
+[ 16 ] [ 2 ] [ 8 ] [ 2 ] 
+[ 4 ] [ 0 ] [ 4 ] [ 2 ] 
+Pontuacao: 3524
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 2 ] [ 8 ] [ 8 ] 
+[ 4 ] [ 256 ] [ 256 ] [ 4 ] 
+[ 16 ] [ 2 ] [ 8 ] [ 0 ] 
+[ 4 ] [ 0 ] [ 4 ] [ 2 ] 
+Pontuacao: 3536
+Introduza uma jogada (N, S, E, W): S
+[ 8 ] [ 2 ] [ 8 ] [ 0 ] 
+[ 4 ] [ 2 ] [ 256 ] [ 8 ] 
+[ 16 ] [ 256 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 3536
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 8 ] [ 2 ] [ 8 ] 
+[ 4 ] [ 2 ] [ 256 ] [ 8 ] 
+[ 16 ] [ 256 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 3536
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 8 ] [ 2 ] [ 2 ] 
+[ 4 ] [ 2 ] [ 256 ] [ 16 ] 
+[ 16 ] [ 256 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 3552
+Introduza uma jogada (N, S, E, W): N
+[ 2 ] [ 8 ] [ 2 ] [ 2 ] 
+[ 4 ] [ 2 ] [ 256 ] [ 16 ] 
+[ 16 ] [ 256 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 3552
+Introduza uma jogada (N, S, E, W): E
+[ 4 ] [ 2 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 256 ] [ 16 ] 
+[ 16 ] [ 256 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 3556
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 256 ] [ 16 ] 
+[ 16 ] [ 256 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 3556
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 256 ] [ 16 ] 
+[ 16 ] [ 256 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 3556
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 256 ] [ 16 ] 
+[ 16 ] [ 256 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 3556
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 4 ] [ 8 ] [ 4 ] 
+[ 8 ] [ 4 ] [ 256 ] [ 16 ] 
+[ 16 ] [ 256 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 3568
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 0 ] [ 8 ] [ 4 ] 
+[ 8 ] [ 8 ] [ 256 ] [ 16 ] 
+[ 16 ] [ 256 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 3576
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 16 ] [ 256 ] [ 16 ] [ 2 ] 
+[ 16 ] [ 256 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 3592
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 32 ] [ 512 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 4136
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 0 ] [ 4 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 4 ] 
+[ 32 ] [ 512 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 4140
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 8 ] [ 16 ] [ 0 ] 
+[ 32 ] [ 512 ] [ 8 ] [ 8 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 4152
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 4 ] [ 8 ] [ 16 ] 
+[ 0 ] [ 32 ] [ 512 ] [ 16 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 4168
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 8 ] [ 4 ] 
+[ 2 ] [ 32 ] [ 512 ] [ 32 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+Pontuacao: 4200
+Introduza uma jogada (N, S, E, W): N
+[ 4 ] [ 4 ] [ 2 ] [ 4 ] 
+[ 4 ] [ 32 ] [ 8 ] [ 32 ] 
+[ 2 ] [ 2 ] [ 512 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 0 ] 
+Pontuacao: 4204
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 2 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 32 ] [ 8 ] [ 32 ] 
+[ 4 ] [ 512 ] [ 2 ] [ 2 ] 
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+Pontuacao: 4216
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 2 ] [ 4 ] [ 32 ] 
+[ 8 ] [ 32 ] [ 8 ] [ 2 ] 
+[ 4 ] [ 512 ] [ 2 ] [ 0 ] 
+[ 0 ] [ 4 ] [ 0 ] [ 0 ] 
+Pontuacao: 4224
+Introduza uma jogada (N, S, E, W): E
+[ 8 ] [ 2 ] [ 4 ] [ 32 ] 
+[ 8 ] [ 32 ] [ 8 ] [ 2 ] 
+[ 0 ] [ 4 ] [ 512 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 4 ] 
+Pontuacao: 4224
+Introduza uma jogada (N, S, E, W): N
+[ 16 ] [ 2 ] [ 4 ] [ 32 ] 
+[ 0 ] [ 32 ] [ 8 ] [ 4 ] 
+[ 0 ] [ 4 ] [ 512 ] [ 4 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 2 ] 
+Pontuacao: 4244
+Introduza uma jogada (N, S, E, W): N
+[ 16 ] [ 2 ] [ 4 ] [ 32 ] 
+[ 2 ] [ 32 ] [ 8 ] [ 8 ] 
+[ 0 ] [ 4 ] [ 512 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 0 ] 
+Pontuacao: 4252
+Introduza uma jogada (N, S, E, W): E
+[ 16 ] [ 2 ] [ 4 ] [ 32 ] 
+[ 0 ] [ 2 ] [ 32 ] [ 16 ] 
+[ 2 ] [ 4 ] [ 512 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+Pontuacao: 4268
+Introduza uma jogada (N, S, E, W): E
+[ 16 ] [ 2 ] [ 4 ] [ 32 ] 
+[ 0 ] [ 2 ] [ 32 ] [ 16 ] 
+[ 2 ] [ 4 ] [ 512 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+Pontuacao: 4268
+Introduza uma jogada (N, S, E, W): N
+[ 16 ] [ 4 ] [ 4 ] [ 32 ] 
+[ 2 ] [ 4 ] [ 32 ] [ 16 ] 
+[ 0 ] [ 0 ] [ 512 ] [ 2 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 4 ] 
+Pontuacao: 4272
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 16 ] [ 8 ] [ 32 ] 
+[ 2 ] [ 4 ] [ 32 ] [ 16 ] 
+[ 0 ] [ 0 ] [ 512 ] [ 2 ] 
+[ 2 ] [ 0 ] [ 2 ] [ 4 ] 
+Pontuacao: 4280
+Introduza uma jogada (N, S, E, W): N
+[ 4 ] [ 16 ] [ 8 ] [ 32 ] 
+[ 0 ] [ 4 ] [ 32 ] [ 16 ] 
+[ 0 ] [ 0 ] [ 512 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 2 ] [ 4 ] 
+Pontuacao: 4284
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 16 ] [ 8 ] [ 32 ] 
+[ 4 ] [ 32 ] [ 16 ] [ 2 ] 
+[ 512 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 4 ] [ 0 ] [ 0 ] 
+Pontuacao: 4288
+Introduza uma jogada (N, S, E, W): E
+[ 4 ] [ 16 ] [ 8 ] [ 32 ] 
+[ 4 ] [ 32 ] [ 16 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 512 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+Pontuacao: 4296
+Introduza uma jogada (N, S, E, W): N
+[ 8 ] [ 16 ] [ 8 ] [ 32 ] 
+[ 0 ] [ 32 ] [ 16 ] [ 4 ] 
+[ 0 ] [ 2 ] [ 512 ] [ 8 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+Pontuacao: 4308
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 16 ] [ 8 ] [ 32 ] 
+[ 32 ] [ 16 ] [ 4 ] [ 0 ] 
+[ 2 ] [ 512 ] [ 8 ] [ 0 ] 
+[ 2 ] [ 0 ] [ 4 ] [ 0 ] 
+Pontuacao: 4308
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 8 ] [ 0 ] 
+[ 8 ] [ 0 ] [ 4 ] [ 4 ] 
+[ 32 ] [ 32 ] [ 8 ] [ 0 ] 
+[ 4 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4344
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 8 ] [ 8 ] 
+[ 2 ] [ 0 ] [ 64 ] [ 8 ] 
+[ 4 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4416
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 16 ] 
+[ 2 ] [ 2 ] [ 64 ] [ 8 ] 
+[ 4 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4432
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 64 ] [ 8 ] [ 0 ] 
+[ 4 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4436
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 2 ] [ 8 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 16 ] 
+[ 0 ] [ 4 ] [ 64 ] [ 8 ] 
+[ 4 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4436
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 8 ] [ 2 ] [ 0 ] 
+[ 16 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 4 ] [ 64 ] [ 8 ] [ 0 ] 
+[ 4 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4436
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 16 ] [ 64 ] [ 8 ] [ 0 ] 
+[ 8 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4448
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 8 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 8 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4448
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 8 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4448
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 2 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 8 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4452
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 4 ] [ 4 ] 
+[ 0 ] [ 2 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 8 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4456
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 2 ] [ 8 ] [ 8 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 8 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4464
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 4 ] [ 0 ] 
+[ 0 ] [ 2 ] [ 8 ] [ 2 ] 
+[ 8 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 8 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4488
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 8 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4488
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 2 ] [ 0 ] 
+[ 4 ] [ 8 ] [ 2 ] [ 0 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4504
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 4 ] [ 8 ] [ 2 ] [ 0 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4508
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 8 ] [ 8 ] [ 2 ] [ 2 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4516
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 16 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4536
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 16 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4536
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 16 ] [ 4 ] [ 0 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4536
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 2 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4572
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 4 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4576
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 2 ] [ 4 ] [ 0 ] [ 2 ] 
+[ 8 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4584
+Introduza uma jogada (N, S, E, W): E
+[ 4 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 8 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4584
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 8 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4584
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 8 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4584
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 4 ] [ 0 ] [ 2 ] 
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 8 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4588
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 4 ] [ 0 ] [ 2 ] 
+[ 8 ] [ 2 ] [ 4 ] [ 4 ] 
+[ 8 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4600
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 4 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 4 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 16 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4616
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 4 ] [ 2 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 4 ] 
+[ 2 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 32 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4648
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 2 ] [ 0 ] 
+[ 2 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 32 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4660
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 8 ] [ 2 ] [ 2 ] 
+[ 4 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 32 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4664
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 8 ] [ 2 ] [ 2 ] 
+[ 8 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 32 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4672
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 4 ] [ 0 ] [ 4 ] 
+[ 8 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 32 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4676
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 4 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 0 ] [ 4 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 32 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4700
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 2 ] [ 2 ] [ 8 ] [ 4 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 32 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4700
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 2 ] [ 8 ] [ 8 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 32 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4708
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 2 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 16 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 32 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4728
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 32 ] 
+[ 32 ] [ 512 ] [ 4 ] [ 32 ] 
+Pontuacao: 4760
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 2 ] [ 2 ] [ 4 ] [ 0 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 2 ] 
+[ 32 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 4824
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 4 ] [ 0 ] [ 2 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 2 ] 
+[ 32 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 4828
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 2 ] 
+[ 32 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 4836
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 2 ] 
+[ 32 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 4840
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 2 ] [ 0 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 2 ] 
+[ 32 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 4840
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 4 ] [ 0 ] [ 4 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 2 ] 
+[ 32 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 4844
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 4 ] [ 0 ] 
+[ 8 ] [ 8 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 2 ] 
+[ 32 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 4852
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 4 ] [ 0 ] 
+[ 16 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 2 ] 
+[ 32 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 4868
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 4 ] [ 4 ] [ 4 ] [ 0 ] 
+[ 32 ] [ 32 ] [ 64 ] [ 2 ] 
+[ 32 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 4904
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 32 ] [ 64 ] [ 2 ] 
+[ 64 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 4968
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 0 ] [ 2 ] 
+[ 4 ] [ 32 ] [ 64 ] [ 2 ] 
+[ 64 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 4976
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 8 ] [ 0 ] [ 2 ] 
+[ 4 ] [ 32 ] [ 64 ] [ 4 ] 
+[ 64 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 4984
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 8 ] [ 0 ] [ 2 ] 
+[ 8 ] [ 32 ] [ 64 ] [ 4 ] 
+[ 64 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 4992
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 32 ] [ 64 ] [ 4 ] 
+[ 64 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 4992
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 2 ] [ 2 ] [ 2 ] [ 0 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 4 ] 
+[ 64 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 5008
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 2 ] [ 2 ] [ 0 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 4 ] 
+[ 64 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 5012
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 4 ] [ 0 ] [ 4 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 4 ] 
+[ 64 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 5016
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 4 ] 
+[ 64 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 5024
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 2 ] [ 2 ] [ 4 ] 
+[ 0 ] [ 0 ] [ 8 ] [ 4 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 4 ] 
+[ 64 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 5024
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 4 ] [ 2 ] [ 0 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 4 ] 
+[ 64 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 5028
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 4 ] [ 2 ] [ 2 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 4 ] 
+[ 64 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 5036
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 4 ] [ 2 ] [ 2 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 4 ] 
+[ 64 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 5052
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 2 ] 
+[ 32 ] [ 32 ] [ 64 ] [ 4 ] 
+[ 64 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 5084
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 4 ] [ 0 ] 
+[ 64 ] [ 64 ] [ 4 ] [ 0 ] 
+[ 64 ] [ 512 ] [ 4 ] [ 64 ] 
+Pontuacao: 5152
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 64 ] [ 4 ] [ 2 ] 
+[ 128 ] [ 512 ] [ 8 ] [ 64 ] 
+Pontuacao: 5292
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 4 ] [ 64 ] [ 4 ] [ 2 ] 
+[ 128 ] [ 512 ] [ 8 ] [ 64 ] 
+Pontuacao: 5292
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 0 ] [ 2 ] [ 2 ] 
+[ 8 ] [ 64 ] [ 4 ] [ 2 ] 
+[ 128 ] [ 512 ] [ 8 ] [ 64 ] 
+Pontuacao: 5300
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 64 ] [ 4 ] [ 2 ] 
+[ 128 ] [ 512 ] [ 8 ] [ 64 ] 
+Pontuacao: 5304
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 64 ] [ 4 ] [ 2 ] 
+[ 128 ] [ 512 ] [ 8 ] [ 64 ] 
+Pontuacao: 5312
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 4 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 64 ] [ 4 ] [ 2 ] 
+[ 128 ] [ 512 ] [ 8 ] [ 64 ] 
+Pontuacao: 5328
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 64 ] [ 4 ] [ 4 ] 
+[ 128 ] [ 512 ] [ 8 ] [ 64 ] 
+Pontuacao: 5332
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 16 ] [ 64 ] [ 8 ] [ 0 ] 
+[ 128 ] [ 512 ] [ 8 ] [ 64 ] 
+Pontuacao: 5344
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 16 ] [ 64 ] [ 2 ] [ 0 ] 
+[ 128 ] [ 512 ] [ 16 ] [ 64 ] 
+Pontuacao: 5368
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 16 ] [ 64 ] [ 4 ] [ 0 ] 
+[ 128 ] [ 512 ] [ 16 ] [ 64 ] 
+Pontuacao: 5372
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 64 ] [ 4 ] [ 0 ] 
+[ 128 ] [ 512 ] [ 16 ] [ 64 ] 
+Pontuacao: 5372
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 2 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 8 ] [ 2 ] 
+[ 0 ] [ 16 ] [ 64 ] [ 4 ] 
+[ 128 ] [ 512 ] [ 16 ] [ 64 ] 
+Pontuacao: 5372
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 0 ] [ 2 ] [ 8 ] [ 4 ] 
+[ 0 ] [ 16 ] [ 64 ] [ 4 ] 
+[ 128 ] [ 512 ] [ 16 ] [ 64 ] 
+Pontuacao: 5376
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 2 ] [ 2 ] [ 8 ] [ 0 ] 
+[ 0 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 128 ] [ 512 ] [ 16 ] [ 64 ] 
+Pontuacao: 5384
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 8 ] [ 0 ] [ 4 ] 
+[ 16 ] [ 64 ] [ 8 ] [ 0 ] 
+[ 128 ] [ 512 ] [ 16 ] [ 64 ] 
+Pontuacao: 5388
+Introduza uma jogada (N, S, E, W): E
+[ 4 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 4 ] [ 8 ] [ 4 ] 
+[ 0 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 128 ] [ 512 ] [ 16 ] [ 64 ] 
+Pontuacao: 5388
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 0 ] [ 2 ] 
+[ 4 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 16 ] [ 64 ] [ 8 ] [ 0 ] 
+[ 128 ] [ 512 ] [ 16 ] [ 64 ] 
+Pontuacao: 5388
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 2 ] 
+[ 8 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 16 ] [ 64 ] [ 8 ] [ 2 ] 
+[ 128 ] [ 512 ] [ 16 ] [ 64 ] 
+Pontuacao: 5396
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 4 ] [ 2 ] [ 0 ] 
+[ 16 ] [ 64 ] [ 8 ] [ 2 ] 
+[ 128 ] [ 512 ] [ 16 ] [ 64 ] 
+Pontuacao: 5416
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 4 ] [ 2 ] [ 2 ] 
+[ 32 ] [ 64 ] [ 8 ] [ 2 ] 
+[ 128 ] [ 512 ] [ 16 ] [ 64 ] 
+Pontuacao: 5448
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 2 ] [ 8 ] [ 4 ] 
+[ 32 ] [ 64 ] [ 8 ] [ 2 ] 
+[ 128 ] [ 512 ] [ 16 ] [ 64 ] 
+Pontuacao: 5460
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 2 ] [ 0 ] [ 4 ] 
+[ 32 ] [ 64 ] [ 16 ] [ 2 ] 
+[ 128 ] [ 512 ] [ 16 ] [ 64 ] 
+Pontuacao: 5476
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 2 ] [ 0 ] [ 4 ] 
+[ 32 ] [ 64 ] [ 0 ] [ 2 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5508
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 4 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 32 ] [ 64 ] [ 2 ] [ 0 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5512
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 32 ] [ 64 ] [ 2 ] [ 0 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5524
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 4 ] [ 8 ] [ 2 ] 
+[ 0 ] [ 32 ] [ 64 ] [ 2 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5524
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 4 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 32 ] [ 64 ] [ 4 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5528
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 4 ] [ 8 ] [ 0 ] 
+[ 4 ] [ 32 ] [ 64 ] [ 8 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5536
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 2 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 8 ] 
+[ 4 ] [ 32 ] [ 64 ] [ 8 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5536
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 4 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5552
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 2 ] 
+[ 4 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5552
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 4 ] [ 2 ] [ 2 ] 
+[ 4 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5556
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 2 ] 
+[ 8 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5564
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 4 ] [ 0 ] 
+[ 8 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5568
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 4 ] [ 4 ] [ 4 ] [ 2 ] 
+[ 8 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5572
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 4 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5580
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 4 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 0 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5596
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 4 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5596
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 4 ] [ 8 ] [ 2 ] [ 4 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5608
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 8 ] [ 2 ] [ 4 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5608
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 4 ] [ 8 ] [ 2 ] [ 4 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5612
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 8 ] [ 4 ] [ 4 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5624
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 8 ] [ 2 ] [ 0 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5648
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 2 ] [ 2 ] 
+[ 32 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5680
+Introduza uma jogada (N, S, E, W): W
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 64 ] [ 64 ] [ 16 ] [ 2 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5748
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 128 ] [ 16 ] [ 2 ] [ 0 ] 
+[ 128 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 5876
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 2 ] [ 0 ] 
+[ 256 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 6136
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 8 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 2 ] [ 0 ] 
+[ 256 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 6136
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 4 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 2 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 6136
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 8 ] [ 8 ] 
+[ 4 ] [ 16 ] [ 2 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 6144
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 16 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 2 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 6160
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 32 ] [ 2 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 6196
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 0 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 32 ] [ 2 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 6208
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 8 ] [ 32 ] [ 2 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 6208
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 2 ] [ 0 ] [ 2 ] 
+[ 8 ] [ 32 ] [ 2 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 6216
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 2 ] [ 2 ] [ 4 ] 
+[ 8 ] [ 32 ] [ 2 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 6220
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 4 ] 
+[ 8 ] [ 32 ] [ 2 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 6224
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 0 ] [ 4 ] [ 4 ] 
+[ 8 ] [ 32 ] [ 2 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 6224
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 4 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 8 ] 
+[ 8 ] [ 32 ] [ 2 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 6232
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 2 ] 
+[ 8 ] [ 32 ] [ 4 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 6252
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 2 ] [ 0 ] [ 2 ] 
+[ 8 ] [ 32 ] [ 8 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 6260
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 8 ] [ 32 ] [ 8 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 6264
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 8 ] 
+[ 8 ] [ 32 ] [ 8 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 6272
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 32 ] [ 8 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 6272
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 4 ] [ 8 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 32 ] [ 8 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 6276
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 8 ] [ 2 ] 
+[ 8 ] [ 32 ] [ 8 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 6276
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 4 ] 
+[ 8 ] [ 32 ] [ 16 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 6296
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 2 ] [ 4 ] 
+[ 8 ] [ 32 ] [ 32 ] [ 0 ] 
+[ 256 ] [ 512 ] [ 32 ] [ 64 ] 
+Pontuacao: 6328
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 32 ] [ 2 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 64 ] [ 64 ] 
+Pontuacao: 6396
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 8 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 32 ] [ 2 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 0 ] 
+Pontuacao: 6532
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 32 ] [ 2 ] [ 0 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 8 ] 
+Pontuacao: 6556
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 2 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 16 ] [ 32 ] [ 2 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 8 ] 
+Pontuacao: 6556
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 2 ] [ 2 ] [ 4 ] 
+[ 0 ] [ 16 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 8 ] 
+Pontuacao: 6560
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 2 ] [ 2 ] [ 0 ] 
+[ 2 ] [ 16 ] [ 32 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 8 ] 
+Pontuacao: 6568
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 32 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 8 ] 
+Pontuacao: 6572
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 16 ] 
+Pontuacao: 6592
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 16 ] 
+Pontuacao: 6592
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 4 ] [ 16 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 16 ] 
+Pontuacao: 6592
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 0 ] [ 4 ] 
+[ 4 ] [ 16 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 16 ] 
+Pontuacao: 6596
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 2 ] [ 2 ] [ 2 ] 
+[ 4 ] [ 16 ] [ 32 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 16 ] 
+Pontuacao: 6604
+Introduza uma jogada (N, S, E, W): E
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 4 ] [ 16 ] [ 32 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 16 ] 
+Pontuacao: 6608
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 4 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 4 ] [ 16 ] [ 32 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 16 ] 
+Pontuacao: 6608
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 0 ] [ 4 ] [ 2 ] [ 8 ] 
+[ 4 ] [ 16 ] [ 32 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 16 ] 
+Pontuacao: 6616
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 4 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 32 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 16 ] 
+Pontuacao: 6636
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 0 ] [ 8 ] 
+[ 4 ] [ 16 ] [ 32 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 16 ] 
+Pontuacao: 6644
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 2 ] [ 2 ] [ 2 ] 
+[ 4 ] [ 16 ] [ 32 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 32 ] 
+Pontuacao: 6676
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 4 ] [ 16 ] [ 32 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 32 ] 
+Pontuacao: 6680
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 4 ] [ 16 ] [ 32 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 32 ] 
+Pontuacao: 6680
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 2 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 4 ] 
+[ 4 ] [ 16 ] [ 32 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 32 ] 
+Pontuacao: 6684
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 2 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 4 ] [ 16 ] [ 32 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 32 ] 
+Pontuacao: 6696
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 2 ] [ 0 ] [ 4 ] 
+[ 4 ] [ 16 ] [ 32 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 32 ] 
+Pontuacao: 6712
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 4 ] [ 4 ] [ 4 ] 
+[ 4 ] [ 16 ] [ 32 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 32 ] 
+Pontuacao: 6716
+Introduza uma jogada (N, S, E, W): E
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 8 ] 
+[ 4 ] [ 16 ] [ 32 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 32 ] 
+Pontuacao: 6724
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 32 ] 
+Pontuacao: 6732
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 2 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 32 ] 
+Pontuacao: 6732
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 2 ] [ 0 ] [ 4 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 32 ] 
+Pontuacao: 6736
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 32 ] 
+Pontuacao: 6736
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 4 ] 
+[ 2 ] [ 2 ] [ 4 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 32 ] 
+Pontuacao: 6736
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 4 ] [ 4 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 32 ] 
+Pontuacao: 6740
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 0 ] [ 2 ] [ 8 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 32 ] 
+Pontuacao: 6748
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 2 ] [ 4 ] [ 4 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 16 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 32 ] 
+Pontuacao: 6768
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 4 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 2 ] [ 4 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 32 ] 
+Pontuacao: 6800
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 2 ] [ 2 ] [ 2 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 6864
+Introduza uma jogada (N, S, E, W): E
+[ 4 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 4 ] [ 2 ] [ 4 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 6868
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 4 ] [ 2 ] [ 4 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 6876
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 4 ] [ 2 ] [ 4 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 6876
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 8 ] [ 2 ] [ 4 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 6884
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 2 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 16 ] [ 16 ] [ 32 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 6900
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 2 ] [ 4 ] [ 4 ] 
+[ 16 ] [ 16 ] [ 32 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 6904
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 4 ] [ 8 ] [ 0 ] [ 0 ] 
+[ 32 ] [ 32 ] [ 8 ] [ 0 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 6948
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 4 ] [ 8 ] [ 2 ] [ 0 ] 
+[ 32 ] [ 32 ] [ 8 ] [ 0 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 6948
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 8 ] [ 2 ] [ 2 ] 
+[ 64 ] [ 8 ] [ 0 ] [ 0 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7016
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 64 ] [ 16 ] [ 2 ] [ 2 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7040
+Introduza uma jogada (N, S, E, W): W
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 2 ] 
+[ 64 ] [ 16 ] [ 4 ] [ 0 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7044
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 64 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7044
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 64 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7044
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 64 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7044
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 64 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7044
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 64 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7044
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 64 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7044
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 64 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7044
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 64 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7044
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 64 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7044
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 64 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7044
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 64 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7044
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 4 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 0 ] [ 8 ] [ 2 ] 
+[ 64 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7044
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 64 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7052
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 16 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 64 ] [ 16 ] [ 4 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7072
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 2 ] [ 2 ] [ 2 ] 
+[ 64 ] [ 16 ] [ 4 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7072
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 16 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7084
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 16 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7084
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 16 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7084
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 16 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7084
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 16 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7084
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 16 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7084
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 16 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7084
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 16 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7084
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 16 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7084
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 16 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7084
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 2 ] [ 4 ] [ 0 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7084
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 2 ] [ 4 ] [ 0 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7084
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 2 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 16 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7084
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 16 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7084
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 16 ] [ 2 ] [ 4 ] [ 0 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7088
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7088
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7088
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 16 ] [ 4 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7092
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 4 ] [ 2 ] 
+[ 4 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7100
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 0 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 8 ] [ 4 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7104
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 4 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 4 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7112
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 4 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7112
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 0 ] [ 2 ] [ 2 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 8 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7120
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 2 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 64 ] [ 16 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7136
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 2 ] [ 2 ] [ 4 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7172
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 4 ] [ 4 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 2 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7176
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 4 ] [ 4 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 2 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7176
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7188
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 2 ] [ 0 ] 
+[ 16 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7204
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 2 ] [ 0 ] 
+[ 16 ] [ 16 ] [ 8 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7204
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 32 ] [ 8 ] [ 2 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7240
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 32 ] [ 8 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7240
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 32 ] [ 8 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7248
+Introduza uma jogada (N, S, E, W): S
+[ 8 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 32 ] [ 8 ] [ 4 ] [ 4 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7252
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 2 ] [ 2 ] [ 0 ] 
+[ 32 ] [ 8 ] [ 8 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7260
+Introduza uma jogada (N, S, E, W): S
+[ 8 ] [ 2 ] [ 2 ] [ 0 ] 
+[ 32 ] [ 8 ] [ 8 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7260
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 4 ] [ 0 ] [ 2 ] 
+[ 32 ] [ 16 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7280
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 4 ] [ 2 ] [ 0 ] 
+[ 32 ] [ 16 ] [ 0 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7280
+Introduza uma jogada (N, S, E, W): S
+[ 8 ] [ 4 ] [ 2 ] [ 0 ] 
+[ 32 ] [ 16 ] [ 2 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7280
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 4 ] [ 2 ] [ 0 ] 
+[ 32 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7284
+Introduza uma jogada (N, S, E, W): S
+[ 8 ] [ 4 ] [ 2 ] [ 0 ] 
+[ 32 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7284
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 4 ] [ 2 ] [ 0 ] 
+[ 32 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7284
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 4 ] [ 2 ] [ 0 ] 
+[ 32 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7284
+Introduza uma jogada (N, S, E, W): S
+[ 8 ] [ 4 ] [ 2 ] [ 0 ] 
+[ 32 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7284
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 4 ] [ 2 ] [ 0 ] 
+[ 32 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7284
+Introduza uma jogada (N, S, E, W): S
+[ 8 ] [ 4 ] [ 2 ] [ 0 ] 
+[ 32 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7284
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 8 ] [ 4 ] [ 2 ] 
+[ 32 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7284
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 8 ] [ 4 ] [ 2 ] 
+[ 32 ] [ 16 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7284
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 8 ] [ 0 ] [ 2 ] 
+[ 32 ] [ 16 ] [ 8 ] [ 4 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7296
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 8 ] [ 0 ] [ 2 ] 
+[ 32 ] [ 16 ] [ 8 ] [ 4 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7296
+Introduza uma jogada (N, S, E, W): E
+[ 4 ] [ 2 ] [ 8 ] [ 2 ] 
+[ 32 ] [ 16 ] [ 8 ] [ 4 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7296
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 32 ] [ 16 ] [ 16 ] [ 4 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7312
+Introduza uma jogada (N, S, E, W): E
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 32 ] [ 32 ] [ 4 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7344
+Introduza uma jogada (N, S, E, W): E
+[ 4 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 2 ] [ 64 ] [ 4 ] 
+[ 2 ] [ 4 ] [ 64 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7408
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 2 ] 
+[ 4 ] [ 4 ] [ 4 ] [ 4 ] 
+[ 4 ] [ 4 ] [ 128 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7544
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 0 ] [ 0 ] [ 8 ] [ 8 ] 
+[ 0 ] [ 8 ] [ 128 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 128 ] [ 64 ] 
+Pontuacao: 7572
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 2 ] [ 0 ] [ 2 ] [ 8 ] 
+[ 0 ] [ 8 ] [ 8 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 7828
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 2 ] [ 2 ] [ 8 ] 
+[ 2 ] [ 8 ] [ 8 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 7828
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 8 ] 
+[ 2 ] [ 2 ] [ 16 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 7848
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 8 ] 
+[ 2 ] [ 2 ] [ 16 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 7848
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 8 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 32 ] [ 0 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 7852
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 2 ] [ 0 ] 
+[ 4 ] [ 8 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 0 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 7860
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 4 ] [ 4 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 8 ] 
+[ 0 ] [ 8 ] [ 16 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 7864
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 4 ] [ 0 ] [ 8 ] [ 8 ] 
+[ 0 ] [ 8 ] [ 16 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 7872
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 0 ] [ 2 ] 
+[ 8 ] [ 16 ] [ 32 ] [ 0 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 7888
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 8 ] [ 32 ] [ 32 ] [ 2 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 7928
+Introduza uma jogada (N, S, E, W): W
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 64 ] [ 2 ] [ 2 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 7992
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 64 ] [ 2 ] [ 2 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8008
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 2 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 16 ] [ 64 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8012
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 0 ] [ 2 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 16 ] [ 64 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8016
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 2 ] [ 0 ] 
+[ 0 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8024
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8028
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8040
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8040
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 2 ] [ 8 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8040
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 2 ] [ 2 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8040
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8044
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8044
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8044
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8044
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8044
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8044
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8044
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8044
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8044
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8044
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8044
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8044
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8044
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8044
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 8 ] [ 4 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8044
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 4 ] [ 2 ] [ 2 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8044
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 4 ] [ 2 ] [ 2 ] 
+[ 4 ] [ 8 ] [ 4 ] [ 2 ] 
+[ 4 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8048
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 4 ] [ 2 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 4 ] [ 4 ] 
+[ 8 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8060
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 0 ] [ 4 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 8 ] [ 8 ] 
+[ 8 ] [ 16 ] [ 64 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8068
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 4 ] [ 0 ] 
+[ 2 ] [ 2 ] [ 8 ] [ 2 ] 
+[ 8 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8084
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 4 ] [ 4 ] [ 8 ] [ 2 ] 
+[ 8 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8088
+Introduza uma jogada (N, S, E, W): E
+[ 4 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 0 ] [ 8 ] [ 8 ] [ 2 ] 
+[ 8 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8096
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 2 ] [ 4 ] 
+[ 4 ] [ 8 ] [ 8 ] [ 2 ] 
+[ 8 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8096
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 4 ] [ 4 ] 
+[ 2 ] [ 4 ] [ 16 ] [ 2 ] 
+[ 8 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8116
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 4 ] [ 4 ] 
+[ 2 ] [ 4 ] [ 16 ] [ 2 ] 
+[ 8 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8116
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 4 ] [ 4 ] 
+[ 2 ] [ 4 ] [ 16 ] [ 2 ] 
+[ 8 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8116
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 0 ] [ 0 ] [ 8 ] 
+[ 2 ] [ 4 ] [ 16 ] [ 2 ] 
+[ 8 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8124
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 8 ] 
+[ 4 ] [ 4 ] [ 16 ] [ 2 ] 
+leiro_preenche_posicao(T, C, 4)
+escreve_tabuleiro(T)
+J = pede_jogada()
+S
+T = tabuleiro_re[ 8 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8128
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 8 ] [ 0 ] [ 0 ] 
+[ 8 ] [ 16 ] [ 2 ] [ 2 ] 
+[ 8 ] [ 16 ] [ 64 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8136
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 2 ] [ 8 ] [ 2 ] [ 2 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8184
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 2 ] [ 8 ] [ 4 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8188
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 2 ] 
+[ 2 ] [ 2 ] [ 8 ] [ 4 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8188
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 4 ] [ 8 ] [ 4 ] [ 0 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8196
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 8 ] [ 8 ] [ 4 ] [ 2 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8204
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 16 ] [ 4 ] [ 2 ] [ 0 ] 
+[ 16 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8220
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 8 ] [ 2 ] [ 0 ] 
+[ 32 ] [ 32 ] [ 64 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8260
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 2 ] [ 2 ] 
+[ 0 ] [ 4 ] [ 8 ] [ 2 ] 
+[ 0 ] [ 64 ] [ 64 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8324
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 8 ] [ 4 ] 
+[ 0 ] [ 64 ] [ 64 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8328
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 0 ] [ 4 ] [ 8 ] [ 4 ] 
+[ 2 ] [ 64 ] [ 64 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8328
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 2 ] [ 0 ] [ 4 ] 
+[ 0 ] [ 4 ] [ 8 ] [ 4 ] 
+[ 0 ] [ 2 ] [ 128 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8460
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 4 ] [ 8 ] [ 8 ] 
+[ 0 ] [ 2 ] [ 128 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8468
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 4 ] [ 8 ] [ 8 ] 
+[ 0 ] [ 2 ] [ 128 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8468
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 2 ] [ 0 ] [ 4 ] [ 16 ] 
+[ 0 ] [ 2 ] [ 128 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8488
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 0 ] [ 4 ] [ 4 ] 
+[ 2 ] [ 2 ] [ 128 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8520
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 2 ] [ 2 ] [ 8 ] 
+[ 0 ] [ 4 ] [ 128 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8532
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 8 ] 
+[ 4 ] [ 4 ] [ 128 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8536
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 8 ] 
+[ 4 ] [ 4 ] [ 128 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8536
+Introduza uma jogada (N, S, E, W): E
+[ 4 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 8 ] 
+[ 0 ] [ 8 ] [ 128 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8544
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 0 ] [ 0 ] [ 4 ] [ 8 ] 
+[ 4 ] [ 8 ] [ 128 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8544
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 2 ] [ 0 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 8 ] 
+[ 4 ] [ 8 ] [ 128 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8544
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 2 ] [ 2 ] [ 4 ] [ 8 ] 
+[ 4 ] [ 8 ] [ 128 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8544
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 2 ] 
+[ 2 ] [ 2 ] [ 4 ] [ 8 ] 
+[ 4 ] [ 8 ] [ 128 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8544
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 4 ] [ 8 ] [ 0 ] 
+[ 4 ] [ 8 ] [ 128 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8548
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 2 ] [ 2 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 8 ] [ 0 ] 
+[ 8 ] [ 8 ] [ 128 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8556
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 8 ] 
+[ 0 ] [ 16 ] [ 128 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8576
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 2 ] [ 4 ] 
+[ 0 ] [ 2 ] [ 4 ] [ 8 ] 
+[ 0 ] [ 16 ] [ 128 ] [ 32 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8576
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 4 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 4 ] [ 8 ] [ 0 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 2 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8576
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 8 ] [ 8 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 2 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8588
+Introduza uma jogada (N, S, E, W): W
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 2 ] [ 0 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 2 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8604
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 0 ] [ 0 ] [ 0 ] 
+[ 4 ] [ 16 ] [ 2 ] [ 0 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 2 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8604
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 4 ] [ 0 ] [ 2 ] 
+[ 0 ] [ 4 ] [ 16 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 2 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8604
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 4 ] [ 0 ] 
+[ 0 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8616
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 4 ] [ 0 ] 
+[ 0 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8616
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8616
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8616
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8616
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8616
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8616
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8616
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8616
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8616
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8616
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8616
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8616
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8616
+Introduza uma jogada (N, S, E, W): S
+[ 0 ] [ 0 ] [ 0 ] [ 4 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8616
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8616
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 2 ] [ 0 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8616
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 2 ] [ 4 ] [ 2 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8616
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 2 ] [ 4 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 4 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8620
+Introduza uma jogada (N, S, E, W): W
+[ 4 ] [ 4 ] [ 0 ] [ 2 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 4 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 4 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8624
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 4 ] [ 2 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8632
+Introduza uma jogada (N, S, E, W): W
+[ 8 ] [ 2 ] [ 0 ] [ 2 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 2 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8640
+Introduza uma jogada (N, S, E, W): S
+[ 8 ] [ 2 ] [ 2 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 4 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8644
+Introduza uma jogada (N, S, E, W): E
+[ 0 ] [ 2 ] [ 8 ] [ 4 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 4 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8648
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 2 ] [ 8 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 8 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 8 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8656
+Introduza uma jogada (N, S, E, W): S
+[ 4 ] [ 2 ] [ 8 ] [ 0 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 4 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8672
+Introduza uma jogada (N, S, E, W): E
+[ 2 ] [ 4 ] [ 2 ] [ 8 ] 
+[ 2 ] [ 8 ] [ 16 ] [ 4 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8672
+Introduza uma jogada (N, S, E, W): S
+[ 2 ] [ 4 ] [ 2 ] [ 8 ] 
+[ 4 ] [ 8 ] [ 16 ] [ 4 ] 
+[ 16 ] [ 128 ] [ 32 ] [ 16 ] 
+[ 256 ] [ 512 ] [ 256 ] [ 64 ] 
+Pontuacao: 8676
+True

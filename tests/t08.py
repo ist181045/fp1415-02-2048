@@ -1,19 +1,19 @@
 ## ========================================================================== ##
 ## -------------------------------------------------------------------------- ##
-##                                  TESTE 8                                   ##
+##                                  TEST 08                                   ##
 ## -------------------------------------------------------------------------- ##
 ## ========================================================================== ##
 
-# -- Modificador: tabuleiro_reduz -- #
->>> T = cria_tabuleiro()
->>> C = cria_coordenada(1, 4)
->>> T = tabuleiro_preenche_posicao(T, C, 2)
->>> T = tabuleiro_reduz(T, 'W')
->>> tabuleiro_pontuacao(T)
->>> T = tabuleiro_preenche_posicao(T, C, 2)
->>> T = tabuleiro_reduz(T, 'W')
->>> tabuleiro_pontuacao(T)
-# - (testes adicionais escondidos) - #
+# -- Modifier: tabuleiro_reduz -- #
+T = cria_tabuleiro()
+C = cria_coordenada(1, 4)
+T = tabuleiro_preenche_posicao(T, C, 2)
+T = tabuleiro_reduz(T, 'W')
+tabuleiro_pontuacao(T)
+T = tabuleiro_preenche_posicao(T, C, 2)
+T = tabuleiro_reduz(T, 'W')
+tabuleiro_pontuacao(T)
+# - (additional hidden tests) - #
 T = cria_tabuleiro()
 T = tabuleiro_preenche_posicao(T, cria_coordenada(1, 4), 2)
 T = tabuleiro_preenche_posicao(T, cria_coordenada(2, 3), 2)

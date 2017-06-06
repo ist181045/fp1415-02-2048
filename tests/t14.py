@@ -1,11 +1,10 @@
 ## ========================================================================== ##
 ## -------------------------------------------------------------------------- ##
-##                                 TESTE 14                                   ##
+##                                 TEST 14                                    ##
 ## -------------------------------------------------------------------------- ##
 ## ========================================================================== ##
 
-# -- Teste: jogo_2048
-load_namespace('coordenada')
+# -- Test: jogo_2048
 T = cria_tabuleiro()
 C = cria_coordenada(1, 2)
 T = tabuleiro_preenche_posicao(T, C, 2)
@@ -923,4 +922,3 @@ C = cria_coordenada(1, 4)
 T = tabuleiro_preenche_posicao(T, C, 4)
 escreve_tabuleiro(T)
 tabuleiro_terminado(T)
-reset_namespace()
