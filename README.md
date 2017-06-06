@@ -26,6 +26,8 @@ de funções adicionais que permitirão jogar o jogo propriamente dito.
 
 ---
 
-Mais informação no Enunciado do Projecto: [PT][PT]
+Mais informação no Enunciado do Projecto: [PT][PT] - [EN][EN]
 
 [PT]: statement_pt.pdf "Enunciado do Projecto"
+[EN]: statement_en.pdf "Problem Statement"
+

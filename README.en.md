@@ -25,6 +25,8 @@ will allow the user to play the game itself.
 
 ---
 
-More information in the Problem's Statement: [PT][PT]
+More information in the Problem's Statement: [PT][PT] - [EN][EN]
 
 [PT]: statement_pt.pdf "Enunciado do Projecto"
+[EN]: statement_en.pdf "Problem Statement"
+
