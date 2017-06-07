@@ -2,4094 +2,4094 @@
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
-Pontuacao: 0
-Introduza uma jogada (N, S, E, W): S
+Score: 0
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 2 ] [ 0 ] [ 2 ] 
-Pontuacao: 0
-Introduza uma jogada (N, S, E, W): E
+Score: 0
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
-Pontuacao: 4
-Introduza uma jogada (N, S, E, W): N
+Score: 4
+Pick a move (N, S, E, W): N
 [ 0 ] [ 2 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
-Pontuacao: 4
-Introduza uma jogada (N, S, E, W): N
+Score: 4
+Pick a move (N, S, E, W): N
 [ 2 ] [ 2 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
-Pontuacao: 4
-Introduza uma jogada (N, S, E, W): N
+Score: 4
+Pick a move (N, S, E, W): N
 [ 2 ] [ 2 ] [ 2 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
-Pontuacao: 4
-Introduza uma jogada (N, S, E, W): W
+Score: 4
+Pick a move (N, S, E, W): W
 [ 4 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
-Pontuacao: 12
-Introduza uma jogada (N, S, E, W): W
+Score: 12
+Pick a move (N, S, E, W): W
 [ 8 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 0 ] [ 0 ] 
-Pontuacao: 20
-Introduza uma jogada (N, S, E, W): S
+Score: 20
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 4 ] [ 4 ] [ 0 ] 
-Pontuacao: 24
-Introduza uma jogada (N, S, E, W): E
+Score: 24
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 8 ] 
-Pontuacao: 32
-Introduza uma jogada (N, S, E, W): W
+Score: 32
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 8 ] [ 0 ] 
-Pontuacao: 32
-Introduza uma jogada (N, S, E, W): W
+Score: 32
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 8 ] [ 0 ] 
-Pontuacao: 32
-Introduza uma jogada (N, S, E, W): W
+Score: 32
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 8 ] [ 0 ] 
-Pontuacao: 32
-Introduza uma jogada (N, S, E, W): W
+Score: 32
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 8 ] [ 0 ] 
-Pontuacao: 32
-Introduza uma jogada (N, S, E, W): N
+Score: 32
+Pick a move (N, S, E, W): N
 [ 2 ] [ 4 ] [ 8 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
-Pontuacao: 32
-Introduza uma jogada (N, S, E, W): W
+Score: 32
+Pick a move (N, S, E, W): W
 [ 2 ] [ 4 ] [ 8 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
-Pontuacao: 32
-Introduza uma jogada (N, S, E, W): E
+Score: 32
+Pick a move (N, S, E, W): E
 [ 0 ] [ 2 ] [ 4 ] [ 8 ] 
 [ 0 ] [ 2 ] [ 8 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
-Pontuacao: 32
-Introduza uma jogada (N, S, E, W): S
+Score: 32
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 4 ] 
 [ 0 ] [ 4 ] [ 8 ] [ 2 ] 
-Pontuacao: 36
-Introduza uma jogada (N, S, E, W): W
+Score: 36
+Pick a move (N, S, E, W): W
 [ 8 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 8 ] [ 2 ] [ 0 ] 
-Pontuacao: 48
-Introduza uma jogada (N, S, E, W): E
+Score: 48
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 0 ] [ 4 ] [ 8 ] [ 2 ] 
-Pontuacao: 48
-Introduza uma jogada (N, S, E, W): S
+Score: 48
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 2 ] [ 0 ] [ 4 ] [ 8 ] 
 [ 2 ] [ 4 ] [ 8 ] [ 2 ] 
-Pontuacao: 48
-Introduza uma jogada (N, S, E, W): S
+Score: 48
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 8 ] 
 [ 4 ] [ 4 ] [ 8 ] [ 2 ] 
-Pontuacao: 52
-Introduza uma jogada (N, S, E, W): E
+Score: 52
+Pick a move (N, S, E, W): E
 [ 4 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 8 ] 
 [ 0 ] [ 8 ] [ 8 ] [ 2 ] 
-Pontuacao: 60
-Introduza uma jogada (N, S, E, W): E
+Score: 60
+Pick a move (N, S, E, W): E
 [ 0 ] [ 4 ] [ 4 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 16 ] [ 2 ] 
-Pontuacao: 76
-Introduza uma jogada (N, S, E, W): E
+Score: 76
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 8 ] [ 8 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 16 ] [ 2 ] 
-Pontuacao: 84
-Introduza uma jogada (N, S, E, W): N
+Score: 84
+Pick a move (N, S, E, W): N
 [ 2 ] [ 2 ] [ 8 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 16 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
-Pontuacao: 84
-Introduza uma jogada (N, S, E, W): E
+Score: 84
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 4 ] [ 16 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 2 ] [ 16 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
-Pontuacao: 104
-Introduza uma jogada (N, S, E, W): E
+Score: 104
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 4 ] [ 16 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 2 ] 
 [ 0 ] [ 4 ] [ 16 ] [ 8 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 2 ] 
-Pontuacao: 108
-Introduza uma jogada (N, S, E, W): N
+Score: 108
+Pick a move (N, S, E, W): N
 [ 2 ] [ 4 ] [ 8 ] [ 16 ] 
 [ 0 ] [ 0 ] [ 16 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 0 ] [ 2 ] [ 0 ] [ 2 ] 
-Pontuacao: 116
-Introduza uma jogada (N, S, E, W): E
+Score: 116
+Pick a move (N, S, E, W): E
 [ 2 ] [ 4 ] [ 8 ] [ 16 ] 
 [ 0 ] [ 0 ] [ 16 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
-Pontuacao: 120
-Introduza uma jogada (N, S, E, W): W
+Score: 120
+Pick a move (N, S, E, W): W
 [ 2 ] [ 4 ] [ 8 ] [ 16 ] 
 [ 16 ] [ 2 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 0 ] [ 0 ] 
-Pontuacao: 120
-Introduza uma jogada (N, S, E, W): N
+Score: 120
+Pick a move (N, S, E, W): N
 [ 2 ] [ 4 ] [ 8 ] [ 16 ] 
 [ 16 ] [ 2 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 4 ] [ 2 ] [ 0 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
-Pontuacao: 120
-Introduza uma jogada (N, S, E, W): W
+Score: 120
+Pick a move (N, S, E, W): W
 [ 2 ] [ 4 ] [ 8 ] [ 16 ] 
 [ 16 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 4 ] [ 2 ] [ 2 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
-Pontuacao: 124
-Introduza uma jogada (N, S, E, W): S
+Score: 124
+Pick a move (N, S, E, W): S
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 4 ] [ 8 ] [ 16 ] 
 [ 2 ] [ 8 ] [ 2 ] [ 2 ] 
-Pontuacao: 132
-Introduza uma jogada (N, S, E, W): N
+Score: 132
+Pick a move (N, S, E, W): N
 [ 2 ] [ 8 ] [ 8 ] [ 16 ] 
 [ 16 ] [ 8 ] [ 2 ] [ 2 ] 
 [ 8 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 0 ] [ 4 ] [ 0 ] 
-Pontuacao: 140
-Introduza uma jogada (N, S, E, W): N
+Score: 140
+Pick a move (N, S, E, W): N
 [ 2 ] [ 16 ] [ 8 ] [ 16 ] 
 [ 16 ] [ 0 ] [ 2 ] [ 2 ] 
 [ 8 ] [ 0 ] [ 4 ] [ 0 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 2 ] 
-Pontuacao: 156
-Introduza uma jogada (N, S, E, W): S
+Score: 156
+Pick a move (N, S, E, W): S
 [ 2 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 0 ] [ 8 ] [ 0 ] 
 [ 8 ] [ 0 ] [ 2 ] [ 16 ] 
 [ 2 ] [ 16 ] [ 4 ] [ 4 ] 
-Pontuacao: 160
-Introduza uma jogada (N, S, E, W): W
+Score: 160
+Pick a move (N, S, E, W): W
 [ 4 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 16 ] [ 8 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 16 ] [ 0 ] 
 [ 2 ] [ 16 ] [ 8 ] [ 0 ] 
-Pontuacao: 172
-Introduza uma jogada (N, S, E, W): W
+Score: 172
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 8 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 16 ] [ 0 ] 
 [ 2 ] [ 16 ] [ 8 ] [ 0 ] 
-Pontuacao: 172
-Introduza uma jogada (N, S, E, W): E
+Score: 172
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 4 ] [ 2 ] 
 [ 0 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 8 ] [ 2 ] [ 16 ] 
 [ 0 ] [ 2 ] [ 16 ] [ 8 ] 
-Pontuacao: 172
-Introduza uma jogada (N, S, E, W): S
+Score: 172
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 4 ] [ 0 ] 
 [ 0 ] [ 16 ] [ 8 ] [ 4 ] 
 [ 2 ] [ 8 ] [ 2 ] [ 16 ] 
 [ 2 ] [ 2 ] [ 16 ] [ 8 ] 
-Pontuacao: 176
-Introduza uma jogada (N, S, E, W): E
+Score: 176
+Pick a move (N, S, E, W): E
 [ 2 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 16 ] [ 8 ] [ 4 ] 
 [ 2 ] [ 8 ] [ 2 ] [ 16 ] 
 [ 0 ] [ 4 ] [ 16 ] [ 8 ] 
-Pontuacao: 180
-Introduza uma jogada (N, S, E, W): S
+Score: 180
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 16 ] [ 8 ] [ 8 ] 
 [ 0 ] [ 8 ] [ 2 ] [ 16 ] 
 [ 4 ] [ 4 ] [ 16 ] [ 8 ] 
-Pontuacao: 192
-Introduza uma jogada (N, S, E, W): S
+Score: 192
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 16 ] [ 8 ] [ 8 ] 
 [ 0 ] [ 8 ] [ 2 ] [ 16 ] 
 [ 4 ] [ 4 ] [ 16 ] [ 8 ] 
-Pontuacao: 192
-Introduza uma jogada (N, S, E, W): S
+Score: 192
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 16 ] [ 8 ] [ 8 ] 
 [ 0 ] [ 8 ] [ 2 ] [ 16 ] 
 [ 4 ] [ 4 ] [ 16 ] [ 8 ] 
-Pontuacao: 192
-Introduza uma jogada (N, S, E, W): S
+Score: 192
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 16 ] [ 8 ] [ 8 ] 
 [ 0 ] [ 8 ] [ 2 ] [ 16 ] 
 [ 4 ] [ 4 ] [ 16 ] [ 8 ] 
-Pontuacao: 192
-Introduza uma jogada (N, S, E, W): N
+Score: 192
+Pick a move (N, S, E, W): N
 [ 4 ] [ 2 ] [ 8 ] [ 8 ] 
 [ 0 ] [ 16 ] [ 2 ] [ 16 ] 
 [ 0 ] [ 8 ] [ 16 ] [ 8 ] 
 [ 2 ] [ 4 ] [ 0 ] [ 0 ] 
-Pontuacao: 192
-Introduza uma jogada (N, S, E, W): W
+Score: 192
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 16 ] [ 0 ] 
 [ 16 ] [ 2 ] [ 16 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 4 ] [ 0 ] 
-Pontuacao: 208
-Introduza uma jogada (N, S, E, W): W
+Score: 208
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 16 ] [ 0 ] 
 [ 16 ] [ 2 ] [ 16 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 0 ] [ 4 ] 
-Pontuacao: 216
-Introduza uma jogada (N, S, E, W): W
+Score: 216
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 16 ] [ 2 ] 
 [ 16 ] [ 2 ] [ 16 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 0 ] 
-Pontuacao: 216
-Introduza uma jogada (N, S, E, W): S
+Score: 216
+Pick a move (N, S, E, W): S
 [ 4 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 16 ] [ 4 ] [ 32 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 2 ] 
-Pontuacao: 252
-Introduza uma jogada (N, S, E, W): N
+Score: 252
+Pick a move (N, S, E, W): N
 [ 4 ] [ 4 ] [ 2 ] [ 2 ] 
 [ 16 ] [ 16 ] [ 32 ] [ 0 ] 
 [ 8 ] [ 8 ] [ 8 ] [ 0 ] 
 [ 2 ] [ 2 ] [ 4 ] [ 0 ] 
-Pontuacao: 252
-Introduza uma jogada (N, S, E, W): N
+Score: 252
+Pick a move (N, S, E, W): N
 [ 4 ] [ 4 ] [ 2 ] [ 2 ] 
 [ 16 ] [ 16 ] [ 32 ] [ 0 ] 
 [ 8 ] [ 8 ] [ 8 ] [ 0 ] 
 [ 2 ] [ 2 ] [ 4 ] [ 0 ] 
-Pontuacao: 252
-Introduza uma jogada (N, S, E, W): N
+Score: 252
+Pick a move (N, S, E, W): N
 [ 4 ] [ 4 ] [ 2 ] [ 2 ] 
 [ 16 ] [ 16 ] [ 32 ] [ 0 ] 
 [ 8 ] [ 8 ] [ 8 ] [ 0 ] 
 [ 2 ] [ 2 ] [ 4 ] [ 0 ] 
-Pontuacao: 252
-Introduza uma jogada (N, S, E, W): E
+Score: 252
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 8 ] [ 4 ] 
 [ 0 ] [ 2 ] [ 32 ] [ 32 ] 
 [ 0 ] [ 0 ] [ 8 ] [ 16 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 4 ] 
-Pontuacao: 316
-Introduza uma jogada (N, S, E, W): E
+Score: 316
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 8 ] [ 4 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 64 ] 
 [ 2 ] [ 0 ] [ 8 ] [ 16 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
-Pontuacao: 388
-Introduza uma jogada (N, S, E, W): N
+Score: 388
+Pick a move (N, S, E, W): N
 [ 2 ] [ 0 ] [ 8 ] [ 4 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 64 ] 
 [ 0 ] [ 0 ] [ 8 ] [ 16 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 8 ] 
-Pontuacao: 388
-Introduza uma jogada (N, S, E, W): S
+Score: 388
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 0 ] [ 8 ] [ 64 ] 
 [ 0 ] [ 2 ] [ 2 ] [ 16 ] 
 [ 4 ] [ 0 ] [ 8 ] [ 8 ] 
-Pontuacao: 392
-Introduza uma jogada (N, S, E, W): S
+Score: 392
+Pick a move (N, S, E, W): S
 [ 2 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 0 ] [ 8 ] [ 64 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 16 ] 
 [ 4 ] [ 2 ] [ 8 ] [ 8 ] 
-Pontuacao: 392
-Introduza uma jogada (N, S, E, W): N
+Score: 392
+Pick a move (N, S, E, W): N
 [ 2 ] [ 2 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 0 ] [ 2 ] [ 64 ] 
 [ 2 ] [ 0 ] [ 8 ] [ 16 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
-Pontuacao: 392
-Introduza uma jogada (N, S, E, W): W
+Score: 392
+Pick a move (N, S, E, W): W
 [ 4 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 2 ] [ 64 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 4 ] 
 [ 8 ] [ 0 ] [ 0 ] [ 0 ] 
-Pontuacao: 396
-Introduza uma jogada (N, S, E, W): N
+Score: 396
+Pick a move (N, S, E, W): N
 [ 8 ] [ 8 ] [ 4 ] [ 4 ] 
 [ 2 ] [ 2 ] [ 64 ] [ 0 ] 
 [ 8 ] [ 8 ] [ 16 ] [ 0 ] 
 [ 0 ] [ 4 ] [ 0 ] [ 0 ] 
-Pontuacao: 404
-Introduza uma jogada (N, S, E, W): N
+Score: 404
+Pick a move (N, S, E, W): N
 [ 8 ] [ 8 ] [ 4 ] [ 4 ] 
 [ 2 ] [ 2 ] [ 64 ] [ 0 ] 
 [ 8 ] [ 8 ] [ 16 ] [ 0 ] 
 [ 0 ] [ 4 ] [ 0 ] [ 0 ] 
-Pontuacao: 404
-Introduza uma jogada (N, S, E, W): E
+Score: 404
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 16 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 64 ] 
 [ 2 ] [ 0 ] [ 16 ] [ 16 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
-Pontuacao: 448
-Introduza uma jogada (N, S, E, W): S
+Score: 448
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 16 ] [ 64 ] 
 [ 2 ] [ 0 ] [ 4 ] [ 16 ] 
 [ 2 ] [ 0 ] [ 16 ] [ 4 ] 
-Pontuacao: 448
-Introduza uma jogada (N, S, E, W): N
+Score: 448
+Pick a move (N, S, E, W): N
 [ 4 ] [ 0 ] [ 16 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 64 ] 
 [ 0 ] [ 0 ] [ 16 ] [ 16 ] 
 [ 0 ] [ 2 ] [ 0 ] [ 4 ] 
-Pontuacao: 452
-Introduza uma jogada (N, S, E, W): E
+Score: 452
+Pick a move (N, S, E, W): E
 [ 0 ] [ 4 ] [ 16 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 64 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 32 ] 
 [ 0 ] [ 2 ] [ 2 ] [ 4 ] 
-Pontuacao: 484
-Introduza uma jogada (N, S, E, W): E
+Score: 484
+Pick a move (N, S, E, W): E
 [ 2 ] [ 4 ] [ 16 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 64 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 32 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 4 ] 
-Pontuacao: 488
-Introduza uma jogada (N, S, E, W): N
+Score: 488
+Pick a move (N, S, E, W): N
 [ 2 ] [ 4 ] [ 16 ] [ 8 ] 
 [ 0 ] [ 2 ] [ 8 ] [ 64 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 32 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
-Pontuacao: 496
-Introduza uma jogada (N, S, E, W): S
+Score: 496
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 2 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 64 ] 
 [ 0 ] [ 4 ] [ 16 ] [ 32 ] 
 [ 2 ] [ 2 ] [ 8 ] [ 4 ] 
-Pontuacao: 496
-Introduza uma jogada (N, S, E, W): S
+Score: 496
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 2 ] [ 0 ] [ 2 ] [ 64 ] 
 [ 0 ] [ 4 ] [ 16 ] [ 32 ] 
 [ 2 ] [ 2 ] [ 8 ] [ 4 ] 
-Pontuacao: 496
-Introduza uma jogada (N, S, E, W): S
+Score: 496
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 0 ] [ 2 ] [ 2 ] [ 64 ] 
 [ 0 ] [ 4 ] [ 16 ] [ 32 ] 
 [ 4 ] [ 2 ] [ 8 ] [ 4 ] 
-Pontuacao: 500
-Introduza uma jogada (N, S, E, W): W
+Score: 500
+Pick a move (N, S, E, W): W
 [ 8 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 64 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 32 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 8 ] [ 4 ] 
-Pontuacao: 504
-Introduza uma jogada (N, S, E, W): E
+Score: 504
+Pick a move (N, S, E, W): E
 [ 4 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 64 ] 
 [ 4 ] [ 16 ] [ 32 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 8 ] [ 4 ] 
-Pontuacao: 504
-Introduza uma jogada (N, S, E, W): E
+Score: 504
+Pick a move (N, S, E, W): E
 [ 0 ] [ 2 ] [ 4 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 64 ] 
 [ 4 ] [ 16 ] [ 32 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 8 ] [ 4 ] 
-Pontuacao: 504
-Introduza uma jogada (N, S, E, W): N
+Score: 504
+Pick a move (N, S, E, W): N
 [ 8 ] [ 2 ] [ 8 ] [ 8 ] 
 [ 0 ] [ 16 ] [ 32 ] [ 64 ] 
 [ 0 ] [ 2 ] [ 8 ] [ 8 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
-Pontuacao: 528
-Introduza uma jogada (N, S, E, W): N
+Score: 528
+Pick a move (N, S, E, W): N
 [ 8 ] [ 2 ] [ 8 ] [ 8 ] 
 [ 2 ] [ 16 ] [ 32 ] [ 64 ] 
 [ 0 ] [ 2 ] [ 8 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 0 ] 
-Pontuacao: 528
-Introduza uma jogada (N, S, E, W): W
+Score: 528
+Pick a move (N, S, E, W): W
 [ 8 ] [ 2 ] [ 16 ] [ 0 ] 
 [ 2 ] [ 16 ] [ 32 ] [ 64 ] 
 [ 2 ] [ 16 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 0 ] [ 2 ] [ 0 ] 
-Pontuacao: 560
-Introduza uma jogada (N, S, E, W): W
+Score: 560
+Pick a move (N, S, E, W): W
 [ 8 ] [ 2 ] [ 16 ] [ 0 ] 
 [ 2 ] [ 16 ] [ 32 ] [ 64 ] 
 [ 2 ] [ 16 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 0 ] [ 0 ] [ 2 ] 
-Pontuacao: 564
-Introduza uma jogada (N, S, E, W): W
+Score: 564
+Pick a move (N, S, E, W): W
 [ 8 ] [ 2 ] [ 16 ] [ 2 ] 
 [ 2 ] [ 16 ] [ 32 ] [ 64 ] 
 [ 2 ] [ 16 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
-Pontuacao: 564
-Introduza uma jogada (N, S, E, W): E
+Score: 564
+Pick a move (N, S, E, W): E
 [ 8 ] [ 2 ] [ 16 ] [ 2 ] 
 [ 2 ] [ 16 ] [ 32 ] [ 64 ] 
 [ 0 ] [ 2 ] [ 2 ] [ 16 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 2 ] 
-Pontuacao: 564
-Introduza uma jogada (N, S, E, W): S
+Score: 564
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 16 ] [ 2 ] 
 [ 2 ] [ 2 ] [ 32 ] [ 64 ] 
 [ 8 ] [ 16 ] [ 2 ] [ 16 ] 
 [ 2 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 564
-Introduza uma jogada (N, S, E, W): W
+Score: 564
+Pick a move (N, S, E, W): W
 [ 16 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 32 ] [ 64 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 2 ] [ 16 ] 
 [ 4 ] [ 4 ] [ 2 ] [ 2 ] 
-Pontuacao: 572
-Introduza uma jogada (N, S, E, W): W
+Score: 572
+Pick a move (N, S, E, W): W
 [ 16 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 32 ] [ 64 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 2 ] [ 16 ] 
 [ 8 ] [ 4 ] [ 0 ] [ 4 ] 
-Pontuacao: 584
-Introduza uma jogada (N, S, E, W): S
+Score: 584
+Pick a move (N, S, E, W): S
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 32 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 600
-Introduza uma jogada (N, S, E, W): S
+Score: 600
+Pick a move (N, S, E, W): S
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 32 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 600
-Introduza uma jogada (N, S, E, W): S
+Score: 600
+Pick a move (N, S, E, W): S
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 32 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 600
-Introduza uma jogada (N, S, E, W): S
+Score: 600
+Pick a move (N, S, E, W): S
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 32 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 600
-Introduza uma jogada (N, S, E, W): E
+Score: 600
+Pick a move (N, S, E, W): E
 [ 0 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 16 ] [ 32 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 600
-Introduza uma jogada (N, S, E, W): E
+Score: 600
+Pick a move (N, S, E, W): E
 [ 0 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 16 ] [ 32 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 600
-Introduza uma jogada (N, S, E, W): E
+Score: 600
+Pick a move (N, S, E, W): E
 [ 0 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 16 ] [ 32 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 600
-Introduza uma jogada (N, S, E, W): S
+Score: 600
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 2 ] [ 16 ] [ 32 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 600
-Introduza uma jogada (N, S, E, W): E
+Score: 600
+Pick a move (N, S, E, W): E
 [ 2 ] [ 0 ] [ 4 ] [ 2 ] 
 [ 0 ] [ 4 ] [ 16 ] [ 32 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 604
-Introduza uma jogada (N, S, E, W): E
+Score: 604
+Pick a move (N, S, E, W): E
 [ 0 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 16 ] [ 32 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 604
-Introduza uma jogada (N, S, E, W): N
+Score: 604
+Pick a move (N, S, E, W): N
 [ 2 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 4 ] [ 4 ] [ 16 ] [ 32 ] 
 [ 16 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 604
-Introduza uma jogada (N, S, E, W): W
+Score: 604
+Pick a move (N, S, E, W): W
 [ 4 ] [ 4 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 2 ] 
 [ 32 ] [ 64 ] [ 16 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 648
-Introduza uma jogada (N, S, E, W): W
+Score: 648
+Pick a move (N, S, E, W): W
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 2 ] 
 [ 32 ] [ 64 ] [ 16 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 656
-Introduza uma jogada (N, S, E, W): E
+Score: 656
+Pick a move (N, S, E, W): E
 [ 2 ] [ 0 ] [ 8 ] [ 2 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 2 ] 
 [ 32 ] [ 64 ] [ 16 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 656
-Introduza uma jogada (N, S, E, W): E
+Score: 656
+Pick a move (N, S, E, W): E
 [ 2 ] [ 2 ] [ 8 ] [ 2 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 2 ] 
 [ 32 ] [ 64 ] [ 16 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 656
-Introduza uma jogada (N, S, E, W): W
+Score: 656
+Pick a move (N, S, E, W): W
 [ 4 ] [ 8 ] [ 2 ] [ 4 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 2 ] 
 [ 32 ] [ 64 ] [ 16 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 660
-Introduza uma jogada (N, S, E, W): N
+Score: 660
+Pick a move (N, S, E, W): N
 [ 4 ] [ 8 ] [ 2 ] [ 4 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 4 ] 
 [ 32 ] [ 64 ] [ 16 ] [ 4 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 664
-Introduza uma jogada (N, S, E, W): W
+Score: 664
+Pick a move (N, S, E, W): W
 [ 4 ] [ 8 ] [ 2 ] [ 4 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 4 ] 
 [ 32 ] [ 64 ] [ 16 ] [ 4 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 664
-Introduza uma jogada (N, S, E, W): N
+Score: 664
+Pick a move (N, S, E, W): N
 [ 4 ] [ 8 ] [ 2 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 8 ] 
 [ 32 ] [ 64 ] [ 16 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 2 ] 
-Pontuacao: 680
-Introduza uma jogada (N, S, E, W): W
+Score: 680
+Pick a move (N, S, E, W): W
 [ 4 ] [ 8 ] [ 2 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 8 ] 
 [ 32 ] [ 64 ] [ 16 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 4 ] [ 0 ] 
-Pontuacao: 684
-Introduza uma jogada (N, S, E, W): S
+Score: 684
+Pick a move (N, S, E, W): S
 [ 4 ] [ 8 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 2 ] 
 [ 32 ] [ 64 ] [ 16 ] [ 16 ] 
 [ 2 ] [ 4 ] [ 4 ] [ 2 ] 
-Pontuacao: 700
-Introduza uma jogada (N, S, E, W): W
+Score: 700
+Pick a move (N, S, E, W): W
 [ 4 ] [ 8 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 2 ] 
 [ 32 ] [ 64 ] [ 32 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 2 ] [ 2 ] 
-Pontuacao: 740
-Introduza uma jogada (N, S, E, W): N
+Score: 740
+Pick a move (N, S, E, W): N
 [ 4 ] [ 8 ] [ 2 ] [ 4 ] 
 [ 8 ] [ 16 ] [ 64 ] [ 0 ] 
 [ 32 ] [ 64 ] [ 2 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 0 ] [ 2 ] 
-Pontuacao: 808
-Introduza uma jogada (N, S, E, W): S
+Score: 808
+Pick a move (N, S, E, W): S
 [ 4 ] [ 8 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 2 ] [ 0 ] 
 [ 32 ] [ 64 ] [ 64 ] [ 4 ] 
 [ 2 ] [ 8 ] [ 2 ] [ 2 ] 
-Pontuacao: 808
-Introduza uma jogada (N, S, E, W): E
+Score: 808
+Pick a move (N, S, E, W): E
 [ 0 ] [ 4 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 0 ] [ 32 ] [ 128 ] [ 4 ] 
 [ 0 ] [ 2 ] [ 8 ] [ 4 ] 
-Pontuacao: 940
-Introduza uma jogada (N, S, E, W): W
+Score: 940
+Pick a move (N, S, E, W): W
 [ 4 ] [ 8 ] [ 2 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 4 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 2 ] 
-Pontuacao: 940
-Introduza uma jogada (N, S, E, W): N
+Score: 940
+Pick a move (N, S, E, W): N
 [ 4 ] [ 16 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 128 ] [ 16 ] [ 0 ] 
 [ 32 ] [ 8 ] [ 8 ] [ 0 ] 
 [ 2 ] [ 0 ] [ 2 ] [ 0 ] 
-Pontuacao: 968
-Introduza uma jogada (N, S, E, W): N
+Score: 968
+Pick a move (N, S, E, W): N
 [ 4 ] [ 16 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 128 ] [ 16 ] [ 0 ] 
 [ 32 ] [ 8 ] [ 8 ] [ 0 ] 
 [ 2 ] [ 0 ] [ 2 ] [ 0 ] 
-Pontuacao: 968
-Introduza uma jogada (N, S, E, W): N
+Score: 968
+Pick a move (N, S, E, W): N
 [ 4 ] [ 16 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 128 ] [ 16 ] [ 0 ] 
 [ 32 ] [ 8 ] [ 8 ] [ 0 ] 
 [ 2 ] [ 0 ] [ 2 ] [ 0 ] 
-Pontuacao: 968
-Introduza uma jogada (N, S, E, W): W
+Score: 968
+Pick a move (N, S, E, W): W
 [ 4 ] [ 16 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 128 ] [ 16 ] [ 0 ] 
 [ 32 ] [ 16 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 0 ] [ 4 ] [ 0 ] 
-Pontuacao: 988
-Introduza uma jogada (N, S, E, W): W
+Score: 988
+Pick a move (N, S, E, W): W
 [ 4 ] [ 16 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 128 ] [ 16 ] [ 0 ] 
 [ 32 ] [ 16 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 0 ] [ 0 ] [ 4 ] 
-Pontuacao: 996
-Introduza uma jogada (N, S, E, W): S
+Score: 996
+Pick a move (N, S, E, W): S
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 16 ] [ 0 ] [ 0 ] 
 [ 32 ] [ 128 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 16 ] [ 8 ] 
-Pontuacao: 1004
-Introduza uma jogada (N, S, E, W): S
+Score: 1004
+Pick a move (N, S, E, W): S
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 16 ] [ 0 ] [ 0 ] 
 [ 32 ] [ 128 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 16 ] [ 8 ] 
-Pontuacao: 1004
-Introduza uma jogada (N, S, E, W): S
+Score: 1004
+Pick a move (N, S, E, W): S
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 16 ] [ 0 ] [ 0 ] 
 [ 32 ] [ 128 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 16 ] [ 8 ] 
-Pontuacao: 1004
-Introduza uma jogada (N, S, E, W): W
+Score: 1004
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 0 ] [ 2 ] 
 [ 2 ] [ 16 ] [ 0 ] [ 0 ] 
 [ 32 ] [ 128 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 32 ] [ 8 ] [ 0 ] 
-Pontuacao: 1036
-Introduza uma jogada (N, S, E, W): W
+Score: 1036
+Pick a move (N, S, E, W): W
 [ 4 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 16 ] [ 2 ] [ 0 ] 
 [ 32 ] [ 128 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 32 ] [ 8 ] [ 0 ] 
-Pontuacao: 1040
-Introduza uma jogada (N, S, E, W): W
+Score: 1040
+Pick a move (N, S, E, W): W
 [ 8 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 16 ] [ 2 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 32 ] [ 8 ] [ 0 ] 
-Pontuacao: 1048
-Introduza uma jogada (N, S, E, W): S
+Score: 1048
+Pick a move (N, S, E, W): S
 [ 8 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 16 ] [ 0 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 4 ] [ 0 ] 
 [ 8 ] [ 32 ] [ 8 ] [ 2 ] 
-Pontuacao: 1052
-Introduza uma jogada (N, S, E, W): S
+Score: 1052
+Pick a move (N, S, E, W): S
 [ 8 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 16 ] [ 0 ] [ 0 ] 
 [ 32 ] [ 128 ] [ 4 ] [ 2 ] 
 [ 8 ] [ 32 ] [ 8 ] [ 4 ] 
-Pontuacao: 1056
-Introduza uma jogada (N, S, E, W): E
+Score: 1056
+Pick a move (N, S, E, W): E
 [ 2 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 16 ] 
 [ 32 ] [ 128 ] [ 4 ] [ 2 ] 
 [ 8 ] [ 32 ] [ 8 ] [ 4 ] 
-Pontuacao: 1056
-Introduza uma jogada (N, S, E, W): W
+Score: 1056
+Pick a move (N, S, E, W): W
 [ 2 ] [ 8 ] [ 0 ] [ 2 ] 
 [ 2 ] [ 16 ] [ 0 ] [ 0 ] 
 [ 32 ] [ 128 ] [ 4 ] [ 2 ] 
 [ 8 ] [ 32 ] [ 8 ] [ 4 ] 
-Pontuacao: 1056
-Introduza uma jogada (N, S, E, W): S
+Score: 1056
+Pick a move (N, S, E, W): S
 [ 0 ] [ 8 ] [ 0 ] [ 2 ] 
 [ 4 ] [ 16 ] [ 0 ] [ 0 ] 
 [ 32 ] [ 128 ] [ 4 ] [ 4 ] 
 [ 8 ] [ 32 ] [ 8 ] [ 4 ] 
-Pontuacao: 1064
-Introduza uma jogada (N, S, E, W): S
+Score: 1064
+Pick a move (N, S, E, W): S
 [ 0 ] [ 8 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 4 ] [ 0 ] 
 [ 32 ] [ 128 ] [ 4 ] [ 2 ] 
 [ 8 ] [ 32 ] [ 8 ] [ 8 ] 
-Pontuacao: 1072
-Introduza uma jogada (N, S, E, W): E
+Score: 1072
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 0 ] [ 4 ] [ 16 ] [ 4 ] 
 [ 32 ] [ 128 ] [ 4 ] [ 2 ] 
 [ 4 ] [ 8 ] [ 32 ] [ 16 ] 
-Pontuacao: 1088
-Introduza uma jogada (N, S, E, W): W
+Score: 1088
+Pick a move (N, S, E, W): W
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 4 ] [ 0 ] 
 [ 32 ] [ 128 ] [ 4 ] [ 2 ] 
 [ 4 ] [ 8 ] [ 32 ] [ 16 ] 
-Pontuacao: 1088
-Introduza uma jogada (N, S, E, W): W
+Score: 1088
+Pick a move (N, S, E, W): W
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 4 ] [ 0 ] 
 [ 32 ] [ 128 ] [ 4 ] [ 2 ] 
 [ 4 ] [ 8 ] [ 32 ] [ 16 ] 
-Pontuacao: 1088
-Introduza uma jogada (N, S, E, W): S
+Score: 1088
+Pick a move (N, S, E, W): S
 [ 8 ] [ 2 ] [ 0 ] [ 2 ] 
 [ 4 ] [ 16 ] [ 0 ] [ 0 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 2 ] 
 [ 4 ] [ 8 ] [ 32 ] [ 16 ] 
-Pontuacao: 1096
-Introduza uma jogada (N, S, E, W): W
+Score: 1096
+Pick a move (N, S, E, W): W
 [ 8 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 2 ] [ 0 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 2 ] 
 [ 4 ] [ 8 ] [ 32 ] [ 16 ] 
-Pontuacao: 1100
-Introduza uma jogada (N, S, E, W): E
+Score: 1100
+Pick a move (N, S, E, W): E
 [ 2 ] [ 0 ] [ 8 ] [ 4 ] 
 [ 0 ] [ 4 ] [ 16 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 2 ] 
 [ 4 ] [ 8 ] [ 32 ] [ 16 ] 
-Pontuacao: 1100
-Introduza uma jogada (N, S, E, W): E
+Score: 1100
+Pick a move (N, S, E, W): E
 [ 0 ] [ 2 ] [ 8 ] [ 4 ] 
 [ 2 ] [ 4 ] [ 16 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 2 ] 
 [ 4 ] [ 8 ] [ 32 ] [ 16 ] 
-Pontuacao: 1100
-Introduza uma jogada (N, S, E, W): W
+Score: 1100
+Pick a move (N, S, E, W): W
 [ 2 ] [ 8 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 16 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 2 ] 
 [ 4 ] [ 8 ] [ 32 ] [ 16 ] 
-Pontuacao: 1100
-Introduza uma jogada (N, S, E, W): N
+Score: 1100
+Pick a move (N, S, E, W): N
 [ 4 ] [ 8 ] [ 4 ] [ 4 ] 
 [ 32 ] [ 4 ] [ 16 ] [ 2 ] 
 [ 4 ] [ 128 ] [ 8 ] [ 16 ] 
 [ 0 ] [ 8 ] [ 32 ] [ 2 ] 
-Pontuacao: 1108
-Introduza uma jogada (N, S, E, W): S
+Score: 1108
+Pick a move (N, S, E, W): S
 [ 2 ] [ 8 ] [ 4 ] [ 4 ] 
 [ 4 ] [ 4 ] [ 16 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 16 ] 
 [ 4 ] [ 8 ] [ 32 ] [ 2 ] 
-Pontuacao: 1108
-Introduza uma jogada (N, S, E, W): W
+Score: 1108
+Pick a move (N, S, E, W): W
 [ 2 ] [ 8 ] [ 8 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 2 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 16 ] 
 [ 4 ] [ 8 ] [ 32 ] [ 2 ] 
-Pontuacao: 1124
-Introduza uma jogada (N, S, E, W): S
+Score: 1124
+Pick a move (N, S, E, W): S
 [ 2 ] [ 8 ] [ 8 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 2 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 16 ] 
 [ 4 ] [ 8 ] [ 32 ] [ 2 ] 
-Pontuacao: 1124
-Introduza uma jogada (N, S, E, W): W
+Score: 1124
+Pick a move (N, S, E, W): W
 [ 2 ] [ 16 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 4 ] [ 4 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 16 ] 
 [ 4 ] [ 8 ] [ 32 ] [ 2 ] 
-Pontuacao: 1144
-Introduza uma jogada (N, S, E, W): E
+Score: 1144
+Pick a move (N, S, E, W): E
 [ 4 ] [ 0 ] [ 2 ] [ 16 ] 
 [ 0 ] [ 8 ] [ 16 ] [ 8 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 16 ] 
 [ 4 ] [ 8 ] [ 32 ] [ 2 ] 
-Pontuacao: 1152
-Introduza uma jogada (N, S, E, W): E
+Score: 1152
+Pick a move (N, S, E, W): E
 [ 0 ] [ 4 ] [ 2 ] [ 16 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 8 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 16 ] 
 [ 4 ] [ 8 ] [ 32 ] [ 2 ] 
-Pontuacao: 1152
-Introduza uma jogada (N, S, E, W): W
+Score: 1152
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 16 ] [ 2 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 8 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 16 ] 
 [ 4 ] [ 8 ] [ 32 ] [ 2 ] 
-Pontuacao: 1152
-Introduza uma jogada (N, S, E, W): W
+Score: 1152
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 16 ] [ 2 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 8 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 16 ] 
 [ 4 ] [ 8 ] [ 32 ] [ 2 ] 
-Pontuacao: 1152
-Introduza uma jogada (N, S, E, W): S
+Score: 1152
+Pick a move (N, S, E, W): S
 [ 4 ] [ 2 ] [ 2 ] [ 2 ] 
 [ 2 ] [ 8 ] [ 32 ] [ 8 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 16 ] 
 [ 4 ] [ 8 ] [ 32 ] [ 2 ] 
-Pontuacao: 1184
-Introduza uma jogada (N, S, E, W): W
+Score: 1184
+Pick a move (N, S, E, W): W
 [ 4 ] [ 4 ] [ 2 ] [ 2 ] 
 [ 2 ] [ 8 ] [ 32 ] [ 8 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 16 ] 
 [ 4 ] [ 8 ] [ 32 ] [ 2 ] 
-Pontuacao: 1188
-Introduza uma jogada (N, S, E, W): N
+Score: 1188
+Pick a move (N, S, E, W): N
 [ 4 ] [ 4 ] [ 2 ] [ 2 ] 
 [ 2 ] [ 8 ] [ 32 ] [ 8 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 16 ] 
 [ 4 ] [ 8 ] [ 32 ] [ 2 ] 
-Pontuacao: 1188
-Introduza uma jogada (N, S, E, W): E
+Score: 1188
+Pick a move (N, S, E, W): E
 [ 0 ] [ 2 ] [ 8 ] [ 4 ] 
 [ 2 ] [ 8 ] [ 32 ] [ 8 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 16 ] 
 [ 4 ] [ 8 ] [ 32 ] [ 2 ] 
-Pontuacao: 1200
-Introduza uma jogada (N, S, E, W): N
+Score: 1200
+Pick a move (N, S, E, W): N
 [ 2 ] [ 2 ] [ 8 ] [ 4 ] 
 [ 32 ] [ 8 ] [ 32 ] [ 8 ] 
 [ 4 ] [ 128 ] [ 8 ] [ 16 ] 
 [ 2 ] [ 8 ] [ 32 ] [ 2 ] 
-Pontuacao: 1200
-Introduza uma jogada (N, S, E, W): W
+Score: 1200
+Pick a move (N, S, E, W): W
 [ 4 ] [ 8 ] [ 4 ] [ 2 ] 
 [ 32 ] [ 8 ] [ 32 ] [ 8 ] 
 [ 4 ] [ 128 ] [ 8 ] [ 16 ] 
 [ 2 ] [ 8 ] [ 32 ] [ 2 ] 
-Pontuacao: 1204
-Introduza uma jogada (N, S, E, W): E
+Score: 1204
+Pick a move (N, S, E, W): E
 [ 4 ] [ 8 ] [ 4 ] [ 2 ] 
 [ 32 ] [ 8 ] [ 32 ] [ 8 ] 
 [ 4 ] [ 128 ] [ 8 ] [ 16 ] 
 [ 2 ] [ 8 ] [ 32 ] [ 2 ] 
-Pontuacao: 1204
-Introduza uma jogada (N, S, E, W): W
+Score: 1204
+Pick a move (N, S, E, W): W
 [ 4 ] [ 8 ] [ 4 ] [ 2 ] 
 [ 32 ] [ 8 ] [ 32 ] [ 8 ] 
 [ 4 ] [ 128 ] [ 8 ] [ 16 ] 
 [ 2 ] [ 8 ] [ 32 ] [ 2 ] 
-Pontuacao: 1204
-Introduza uma jogada (N, S, E, W): N
+Score: 1204
+Pick a move (N, S, E, W): N
 [ 4 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 32 ] [ 8 ] 
 [ 4 ] [ 8 ] [ 8 ] [ 16 ] 
 [ 2 ] [ 2 ] [ 32 ] [ 2 ] 
-Pontuacao: 1220
-Introduza uma jogada (N, S, E, W): W
+Score: 1220
+Pick a move (N, S, E, W): W
 [ 4 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 32 ] [ 8 ] 
 [ 4 ] [ 16 ] [ 16 ] [ 0 ] 
 [ 4 ] [ 32 ] [ 2 ] [ 2 ] 
-Pontuacao: 1240
-Introduza uma jogada (N, S, E, W): S
+Score: 1240
+Pick a move (N, S, E, W): S
 [ 4 ] [ 16 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 128 ] [ 32 ] [ 2 ] 
 [ 32 ] [ 16 ] [ 16 ] [ 8 ] 
 [ 8 ] [ 32 ] [ 2 ] [ 2 ] 
-Pontuacao: 1248
-Introduza uma jogada (N, S, E, W): N
+Score: 1248
+Pick a move (N, S, E, W): N
 [ 8 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 32 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 16 ] [ 2 ] 
 [ 0 ] [ 32 ] [ 2 ] [ 4 ] 
-Pontuacao: 1256
-Introduza uma jogada (N, S, E, W): N
+Score: 1256
+Pick a move (N, S, E, W): N
 [ 8 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 32 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 16 ] [ 2 ] 
 [ 0 ] [ 32 ] [ 2 ] [ 4 ] 
-Pontuacao: 1256
-Introduza uma jogada (N, S, E, W): W
+Score: 1256
+Pick a move (N, S, E, W): W
 [ 8 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 32 ] [ 8 ] 
 [ 8 ] [ 32 ] [ 2 ] [ 2 ] 
 [ 32 ] [ 2 ] [ 4 ] [ 0 ] 
-Pontuacao: 1288
-Introduza uma jogada (N, S, E, W): E
+Score: 1288
+Pick a move (N, S, E, W): E
 [ 8 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 32 ] [ 8 ] 
 [ 0 ] [ 8 ] [ 32 ] [ 4 ] 
 [ 2 ] [ 32 ] [ 2 ] [ 4 ] 
-Pontuacao: 1292
-Introduza uma jogada (N, S, E, W): W
+Score: 1292
+Pick a move (N, S, E, W): W
 [ 8 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 32 ] [ 8 ] 
 [ 8 ] [ 32 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 32 ] [ 2 ] [ 4 ] 
-Pontuacao: 1292
-Introduza uma jogada (N, S, E, W): E
+Score: 1292
+Pick a move (N, S, E, W): E
 [ 8 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 32 ] [ 8 ] 
 [ 8 ] [ 32 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 32 ] [ 2 ] [ 4 ] 
-Pontuacao: 1292
-Introduza uma jogada (N, S, E, W): N
+Score: 1292
+Pick a move (N, S, E, W): N
 [ 8 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 32 ] [ 8 ] 
 [ 8 ] [ 64 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 2 ] [ 2 ] [ 4 ] 
-Pontuacao: 1356
-Introduza uma jogada (N, S, E, W): W
+Score: 1356
+Pick a move (N, S, E, W): W
 [ 8 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 32 ] [ 8 ] 
 [ 8 ] [ 64 ] [ 4 ] [ 2 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 1360
-Introduza uma jogada (N, S, E, W): S
+Score: 1360
+Pick a move (N, S, E, W): S
 [ 8 ] [ 16 ] [ 0 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 4 ] [ 2 ] 
 [ 8 ] [ 64 ] [ 32 ] [ 8 ] 
 [ 4 ] [ 2 ] [ 8 ] [ 4 ] 
-Pontuacao: 1372
-Introduza uma jogada (N, S, E, W): E
+Score: 1372
+Pick a move (N, S, E, W): E
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 4 ] [ 2 ] 
 [ 8 ] [ 64 ] [ 32 ] [ 8 ] 
 [ 4 ] [ 2 ] [ 8 ] [ 4 ] 
-Pontuacao: 1372
-Introduza uma jogada (N, S, E, W): E
+Score: 1372
+Pick a move (N, S, E, W): E
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 4 ] [ 2 ] 
 [ 8 ] [ 64 ] [ 32 ] [ 8 ] 
 [ 4 ] [ 2 ] [ 8 ] [ 4 ] 
-Pontuacao: 1372
-Introduza uma jogada (N, S, E, W): S
+Score: 1372
+Pick a move (N, S, E, W): S
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 4 ] [ 4 ] 
 [ 8 ] [ 64 ] [ 32 ] [ 8 ] 
 [ 4 ] [ 2 ] [ 8 ] [ 4 ] 
-Pontuacao: 1376
-Introduza uma jogada (N, S, E, W): W
+Score: 1376
+Pick a move (N, S, E, W): W
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 2 ] 
 [ 8 ] [ 64 ] [ 32 ] [ 8 ] 
 [ 4 ] [ 2 ] [ 8 ] [ 4 ] 
-Pontuacao: 1384
-Introduza uma jogada (N, S, E, W): S
+Score: 1384
+Pick a move (N, S, E, W): S
 [ 2 ] [ 8 ] [ 16 ] [ 4 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 4 ] 
 [ 8 ] [ 64 ] [ 32 ] [ 8 ] 
 [ 4 ] [ 2 ] [ 8 ] [ 4 ] 
-Pontuacao: 1388
-Introduza uma jogada (N, S, E, W): E
+Score: 1388
+Pick a move (N, S, E, W): E
 [ 2 ] [ 8 ] [ 16 ] [ 4 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 4 ] 
 [ 8 ] [ 64 ] [ 32 ] [ 8 ] 
 [ 4 ] [ 2 ] [ 8 ] [ 4 ] 
-Pontuacao: 1388
-Introduza uma jogada (N, S, E, W): E
+Score: 1388
+Pick a move (N, S, E, W): E
 [ 2 ] [ 8 ] [ 16 ] [ 4 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 4 ] 
 [ 8 ] [ 64 ] [ 32 ] [ 8 ] 
 [ 4 ] [ 2 ] [ 8 ] [ 4 ] 
-Pontuacao: 1388
-Introduza uma jogada (N, S, E, W): W
+Score: 1388
+Pick a move (N, S, E, W): W
 [ 2 ] [ 8 ] [ 16 ] [ 4 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 4 ] 
 [ 8 ] [ 64 ] [ 32 ] [ 8 ] 
 [ 4 ] [ 2 ] [ 8 ] [ 4 ] 
-Pontuacao: 1388
-Introduza uma jogada (N, S, E, W): N
+Score: 1388
+Pick a move (N, S, E, W): N
 [ 2 ] [ 8 ] [ 16 ] [ 8 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 8 ] 
 [ 8 ] [ 64 ] [ 32 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 8 ] [ 4 ] 
-Pontuacao: 1396
-Introduza uma jogada (N, S, E, W): S
+Score: 1396
+Pick a move (N, S, E, W): S
 [ 2 ] [ 8 ] [ 16 ] [ 0 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 2 ] 
 [ 8 ] [ 64 ] [ 32 ] [ 16 ] 
 [ 4 ] [ 2 ] [ 8 ] [ 8 ] 
-Pontuacao: 1420
-Introduza uma jogada (N, S, E, W): E
+Score: 1420
+Pick a move (N, S, E, W): E
 [ 2 ] [ 2 ] [ 8 ] [ 16 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 2 ] 
 [ 8 ] [ 64 ] [ 32 ] [ 16 ] 
 [ 0 ] [ 4 ] [ 2 ] [ 16 ] 
-Pontuacao: 1436
-Introduza uma jogada (N, S, E, W): E
+Score: 1436
+Pick a move (N, S, E, W): E
 [ 0 ] [ 4 ] [ 8 ] [ 16 ] 
 [ 32 ] [ 128 ] [ 8 ] [ 2 ] 
 [ 8 ] [ 64 ] [ 32 ] [ 16 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 16 ] 
-Pontuacao: 1440
-Introduza uma jogada (N, S, E, W): N
+Score: 1440
+Pick a move (N, S, E, W): N
 [ 32 ] [ 4 ] [ 16 ] [ 16 ] 
 [ 8 ] [ 128 ] [ 32 ] [ 2 ] 
 [ 2 ] [ 64 ] [ 2 ] [ 32 ] 
 [ 0 ] [ 4 ] [ 0 ] [ 2 ] 
-Pontuacao: 1488
-Introduza uma jogada (N, S, E, W): W
+Score: 1488
+Pick a move (N, S, E, W): W
 [ 32 ] [ 4 ] [ 32 ] [ 2 ] 
 [ 8 ] [ 128 ] [ 32 ] [ 2 ] 
 [ 2 ] [ 64 ] [ 2 ] [ 32 ] 
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
-Pontuacao: 1520
-Introduza uma jogada (N, S, E, W): N
+Score: 1520
+Pick a move (N, S, E, W): N
 [ 32 ] [ 4 ] [ 64 ] [ 4 ] 
 [ 8 ] [ 128 ] [ 2 ] [ 32 ] 
 [ 2 ] [ 64 ] [ 0 ] [ 2 ] 
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
-Pontuacao: 1588
-Introduza uma jogada (N, S, E, W): N
+Score: 1588
+Pick a move (N, S, E, W): N
 [ 32 ] [ 4 ] [ 64 ] [ 4 ] 
 [ 8 ] [ 128 ] [ 2 ] [ 32 ] 
 [ 2 ] [ 64 ] [ 0 ] [ 2 ] 
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
-Pontuacao: 1588
-Introduza uma jogada (N, S, E, W): E
+Score: 1588
+Pick a move (N, S, E, W): E
 [ 32 ] [ 4 ] [ 64 ] [ 4 ] 
 [ 8 ] [ 128 ] [ 2 ] [ 32 ] 
 [ 0 ] [ 2 ] [ 64 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 1588
-Introduza uma jogada (N, S, E, W): E
+Score: 1588
+Pick a move (N, S, E, W): E
 [ 32 ] [ 4 ] [ 64 ] [ 4 ] 
 [ 8 ] [ 128 ] [ 2 ] [ 32 ] 
 [ 0 ] [ 2 ] [ 64 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 1588
-Introduza uma jogada (N, S, E, W): N
+Score: 1588
+Pick a move (N, S, E, W): N
 [ 32 ] [ 4 ] [ 64 ] [ 4 ] 
 [ 8 ] [ 128 ] [ 2 ] [ 32 ] 
 [ 0 ] [ 4 ] [ 64 ] [ 4 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 2 ] 
-Pontuacao: 1596
-Introduza uma jogada (N, S, E, W): W
+Score: 1596
+Pick a move (N, S, E, W): W
 [ 32 ] [ 4 ] [ 64 ] [ 4 ] 
 [ 8 ] [ 128 ] [ 2 ] [ 32 ] 
 [ 4 ] [ 64 ] [ 4 ] [ 2 ] 
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
-Pontuacao: 1596
-Introduza uma jogada (N, S, E, W): S
+Score: 1596
+Pick a move (N, S, E, W): S
 [ 0 ] [ 4 ] [ 4 ] [ 0 ] 
 [ 32 ] [ 128 ] [ 64 ] [ 4 ] 
 [ 8 ] [ 64 ] [ 2 ] [ 32 ] 
 [ 8 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 1604
-Introduza uma jogada (N, S, E, W): S
+Score: 1604
+Pick a move (N, S, E, W): S
 [ 0 ] [ 4 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 128 ] [ 64 ] [ 4 ] 
 [ 32 ] [ 64 ] [ 2 ] [ 32 ] 
 [ 16 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 1620
-Introduza uma jogada (N, S, E, W): W
+Score: 1620
+Pick a move (N, S, E, W): W
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 128 ] [ 64 ] [ 4 ] 
 [ 32 ] [ 64 ] [ 2 ] [ 32 ] 
 [ 16 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 1628
-Introduza uma jogada (N, S, E, W): S
+Score: 1628
+Pick a move (N, S, E, W): S
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 128 ] [ 64 ] [ 4 ] 
 [ 32 ] [ 64 ] [ 2 ] [ 32 ] 
 [ 16 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 1628
-Introduza uma jogada (N, S, E, W): N
+Score: 1628
+Pick a move (N, S, E, W): N
 [ 8 ] [ 2 ] [ 64 ] [ 4 ] 
 [ 4 ] [ 128 ] [ 2 ] [ 32 ] 
 [ 32 ] [ 64 ] [ 4 ] [ 2 ] 
 [ 16 ] [ 2 ] [ 0 ] [ 2 ] 
-Pontuacao: 1628
-Introduza uma jogada (N, S, E, W): S
+Score: 1628
+Pick a move (N, S, E, W): S
 [ 8 ] [ 2 ] [ 2 ] [ 0 ] 
 [ 4 ] [ 128 ] [ 64 ] [ 4 ] 
 [ 32 ] [ 64 ] [ 2 ] [ 32 ] 
 [ 16 ] [ 2 ] [ 4 ] [ 4 ] 
-Pontuacao: 1632
-Introduza uma jogada (N, S, E, W): S
+Score: 1632
+Pick a move (N, S, E, W): S
 [ 8 ] [ 2 ] [ 2 ] [ 0 ] 
 [ 4 ] [ 128 ] [ 64 ] [ 4 ] 
 [ 32 ] [ 64 ] [ 2 ] [ 32 ] 
 [ 16 ] [ 2 ] [ 4 ] [ 4 ] 
-Pontuacao: 1632
-Introduza uma jogada (N, S, E, W): W
+Score: 1632
+Pick a move (N, S, E, W): W
 [ 8 ] [ 4 ] [ 0 ] [ 2 ] 
 [ 4 ] [ 128 ] [ 64 ] [ 4 ] 
 [ 32 ] [ 64 ] [ 2 ] [ 32 ] 
 [ 16 ] [ 2 ] [ 8 ] [ 0 ] 
-Pontuacao: 1644
-Introduza uma jogada (N, S, E, W): S
+Score: 1644
+Pick a move (N, S, E, W): S
 [ 8 ] [ 4 ] [ 2 ] [ 0 ] 
 [ 4 ] [ 128 ] [ 64 ] [ 2 ] 
 [ 32 ] [ 64 ] [ 2 ] [ 4 ] 
 [ 16 ] [ 2 ] [ 8 ] [ 32 ] 
-Pontuacao: 1644
-Introduza uma jogada (N, S, E, W): N
+Score: 1644
+Pick a move (N, S, E, W): N
 [ 8 ] [ 4 ] [ 2 ] [ 2 ] 
 [ 4 ] [ 128 ] [ 64 ] [ 4 ] 
 [ 32 ] [ 64 ] [ 2 ] [ 32 ] 
 [ 16 ] [ 2 ] [ 8 ] [ 2 ] 
-Pontuacao: 1644
-Introduza uma jogada (N, S, E, W): N
+Score: 1644
+Pick a move (N, S, E, W): N
 [ 8 ] [ 4 ] [ 2 ] [ 2 ] 
 [ 4 ] [ 128 ] [ 64 ] [ 4 ] 
 [ 32 ] [ 64 ] [ 2 ] [ 32 ] 
 [ 16 ] [ 2 ] [ 8 ] [ 2 ] 
-Pontuacao: 1644
-Introduza uma jogada (N, S, E, W): W
+Score: 1644
+Pick a move (N, S, E, W): W
 [ 8 ] [ 4 ] [ 4 ] [ 2 ] 
 [ 4 ] [ 128 ] [ 64 ] [ 4 ] 
 [ 32 ] [ 64 ] [ 2 ] [ 32 ] 
 [ 16 ] [ 2 ] [ 8 ] [ 2 ] 
-Pontuacao: 1648
-Introduza uma jogada (N, S, E, W): E
+Score: 1648
+Pick a move (N, S, E, W): E
 [ 2 ] [ 8 ] [ 8 ] [ 2 ] 
 [ 4 ] [ 128 ] [ 64 ] [ 4 ] 
 [ 32 ] [ 64 ] [ 2 ] [ 32 ] 
 [ 16 ] [ 2 ] [ 8 ] [ 2 ] 
-Pontuacao: 1656
-Introduza uma jogada (N, S, E, W): S
+Score: 1656
+Pick a move (N, S, E, W): S
 [ 2 ] [ 8 ] [ 8 ] [ 2 ] 
 [ 4 ] [ 128 ] [ 64 ] [ 4 ] 
 [ 32 ] [ 64 ] [ 2 ] [ 32 ] 
 [ 16 ] [ 2 ] [ 8 ] [ 2 ] 
-Pontuacao: 1656
-Introduza uma jogada (N, S, E, W): E
+Score: 1656
+Pick a move (N, S, E, W): E
 [ 2 ] [ 2 ] [ 16 ] [ 2 ] 
 [ 4 ] [ 128 ] [ 64 ] [ 4 ] 
 [ 32 ] [ 64 ] [ 2 ] [ 32 ] 
 [ 16 ] [ 2 ] [ 8 ] [ 2 ] 
-Pontuacao: 1672
-Introduza uma jogada (N, S, E, W): W
+Score: 1672
+Pick a move (N, S, E, W): W
 [ 4 ] [ 16 ] [ 2 ] [ 4 ] 
 [ 4 ] [ 128 ] [ 64 ] [ 4 ] 
 [ 32 ] [ 64 ] [ 2 ] [ 32 ] 
 [ 16 ] [ 2 ] [ 8 ] [ 2 ] 
-Pontuacao: 1676
-Introduza uma jogada (N, S, E, W): W
+Score: 1676
+Pick a move (N, S, E, W): W
 [ 4 ] [ 16 ] [ 2 ] [ 4 ] 
 [ 4 ] [ 128 ] [ 64 ] [ 4 ] 
 [ 32 ] [ 64 ] [ 2 ] [ 32 ] 
 [ 16 ] [ 2 ] [ 8 ] [ 2 ] 
-Pontuacao: 1676
-Introduza uma jogada (N, S, E, W): N
+Score: 1676
+Pick a move (N, S, E, W): N
 [ 8 ] [ 16 ] [ 2 ] [ 8 ] 
 [ 32 ] [ 128 ] [ 64 ] [ 32 ] 
 [ 16 ] [ 64 ] [ 2 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 8 ] [ 4 ] 
-Pontuacao: 1692
-Introduza uma jogada (N, S, E, W): E
+Score: 1692
+Pick a move (N, S, E, W): E
 [ 8 ] [ 16 ] [ 2 ] [ 8 ] 
 [ 32 ] [ 128 ] [ 64 ] [ 32 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 4 ] 
 [ 0 ] [ 2 ] [ 8 ] [ 4 ] 
-Pontuacao: 1696
-Introduza uma jogada (N, S, E, W): N
+Score: 1696
+Pick a move (N, S, E, W): N
 [ 8 ] [ 16 ] [ 2 ] [ 8 ] 
 [ 32 ] [ 128 ] [ 128 ] [ 32 ] 
 [ 2 ] [ 16 ] [ 8 ] [ 8 ] 
 [ 0 ] [ 2 ] [ 2 ] [ 0 ] 
-Pontuacao: 1832
-Introduza uma jogada (N, S, E, W): E
+Score: 1832
+Pick a move (N, S, E, W): E
 [ 8 ] [ 16 ] [ 2 ] [ 8 ] 
 [ 0 ] [ 32 ] [ 256 ] [ 32 ] 
 [ 0 ] [ 2 ] [ 16 ] [ 16 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 4 ] 
-Pontuacao: 2108
-Introduza uma jogada (N, S, E, W): S
+Score: 2108
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 2 ] [ 16 ] [ 2 ] [ 32 ] 
 [ 8 ] [ 32 ] [ 256 ] [ 16 ] 
 [ 2 ] [ 2 ] [ 16 ] [ 4 ] 
-Pontuacao: 2108
-Introduza uma jogada (N, S, E, W): E
+Score: 2108
+Pick a move (N, S, E, W): E
 [ 2 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 2 ] [ 16 ] [ 2 ] [ 32 ] 
 [ 8 ] [ 32 ] [ 256 ] [ 16 ] 
 [ 0 ] [ 4 ] [ 16 ] [ 4 ] 
-Pontuacao: 2112
-Introduza uma jogada (N, S, E, W): E
+Score: 2112
+Pick a move (N, S, E, W): E
 [ 0 ] [ 2 ] [ 2 ] [ 8 ] 
 [ 2 ] [ 16 ] [ 2 ] [ 32 ] 
 [ 8 ] [ 32 ] [ 256 ] [ 16 ] 
 [ 0 ] [ 4 ] [ 16 ] [ 4 ] 
-Pontuacao: 2112
-Introduza uma jogada (N, S, E, W): N
+Score: 2112
+Pick a move (N, S, E, W): N
 [ 2 ] [ 2 ] [ 4 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 256 ] [ 32 ] 
 [ 0 ] [ 32 ] [ 16 ] [ 16 ] 
 [ 0 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 2116
-Introduza uma jogada (N, S, E, W): E
+Score: 2116
+Pick a move (N, S, E, W): E
 [ 0 ] [ 4 ] [ 4 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 256 ] [ 32 ] 
 [ 0 ] [ 0 ] [ 32 ] [ 32 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 2152
-Introduza uma jogada (N, S, E, W): W
+Score: 2152
+Pick a move (N, S, E, W): W
 [ 8 ] [ 8 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 256 ] [ 32 ] 
 [ 64 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 2224
-Introduza uma jogada (N, S, E, W): E
+Score: 2224
+Pick a move (N, S, E, W): E
 [ 4 ] [ 0 ] [ 0 ] [ 16 ] 
 [ 8 ] [ 16 ] [ 256 ] [ 32 ] 
 [ 0 ] [ 0 ] [ 64 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 2240
-Introduza uma jogada (N, S, E, W): S
+Score: 2240
+Pick a move (N, S, E, W): S
 [ 0 ] [ 4 ] [ 0 ] [ 16 ] 
 [ 4 ] [ 0 ] [ 256 ] [ 32 ] 
 [ 8 ] [ 16 ] [ 64 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 2240
-Introduza uma jogada (N, S, E, W): W
+Score: 2240
+Pick a move (N, S, E, W): W
 [ 4 ] [ 16 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 256 ] [ 32 ] [ 2 ] 
 [ 8 ] [ 16 ] [ 64 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 2240
-Introduza uma jogada (N, S, E, W): S
+Score: 2240
+Pick a move (N, S, E, W): S
 [ 0 ] [ 16 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 256 ] [ 32 ] [ 2 ] 
 [ 8 ] [ 16 ] [ 64 ] [ 4 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 2252
-Introduza uma jogada (N, S, E, W): E
+Score: 2252
+Pick a move (N, S, E, W): E
 [ 2 ] [ 0 ] [ 0 ] [ 16 ] 
 [ 8 ] [ 256 ] [ 32 ] [ 2 ] 
 [ 8 ] [ 16 ] [ 64 ] [ 4 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 2252
-Introduza uma jogada (N, S, E, W): N
+Score: 2252
+Pick a move (N, S, E, W): N
 [ 2 ] [ 256 ] [ 32 ] [ 16 ] 
 [ 16 ] [ 16 ] [ 64 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 8 ] 
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
-Pontuacao: 2276
-Introduza uma jogada (N, S, E, W): N
+Score: 2276
+Pick a move (N, S, E, W): N
 [ 2 ] [ 256 ] [ 32 ] [ 16 ] 
 [ 16 ] [ 16 ] [ 64 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 8 ] 
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
-Pontuacao: 2276
-Introduza uma jogada (N, S, E, W): N
+Score: 2276
+Pick a move (N, S, E, W): N
 [ 2 ] [ 256 ] [ 32 ] [ 16 ] 
 [ 16 ] [ 16 ] [ 64 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 8 ] 
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
-Pontuacao: 2276
-Introduza uma jogada (N, S, E, W): S
+Score: 2276
+Pick a move (N, S, E, W): S
 [ 0 ] [ 256 ] [ 0 ] [ 2 ] 
 [ 2 ] [ 16 ] [ 32 ] [ 16 ] 
 [ 16 ] [ 4 ] [ 64 ] [ 2 ] 
 [ 2 ] [ 2 ] [ 2 ] [ 8 ] 
-Pontuacao: 2276
-Introduza uma jogada (N, S, E, W): E
+Score: 2276
+Pick a move (N, S, E, W): E
 [ 2 ] [ 0 ] [ 256 ] [ 2 ] 
 [ 2 ] [ 16 ] [ 32 ] [ 16 ] 
 [ 16 ] [ 4 ] [ 64 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 8 ] 
-Pontuacao: 2280
-Introduza uma jogada (N, S, E, W): S
+Score: 2280
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 256 ] [ 2 ] 
 [ 0 ] [ 16 ] [ 32 ] [ 16 ] 
 [ 4 ] [ 4 ] [ 64 ] [ 2 ] 
 [ 16 ] [ 2 ] [ 4 ] [ 8 ] 
-Pontuacao: 2284
-Introduza uma jogada (N, S, E, W): N
+Score: 2284
+Pick a move (N, S, E, W): N
 [ 4 ] [ 2 ] [ 256 ] [ 2 ] 
 [ 16 ] [ 16 ] [ 32 ] [ 16 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 8 ] 
-Pontuacao: 2284
-Introduza uma jogada (N, S, E, W): W
+Score: 2284
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 256 ] [ 2 ] 
 [ 32 ] [ 32 ] [ 16 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 8 ] [ 2 ] 
-Pontuacao: 2316
-Introduza uma jogada (N, S, E, W): S
+Score: 2316
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 256 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 16 ] [ 0 ] 
 [ 32 ] [ 32 ] [ 64 ] [ 2 ] 
 [ 4 ] [ 8 ] [ 8 ] [ 4 ] 
-Pontuacao: 2332
-Introduza uma jogada (N, S, E, W): N
+Score: 2332
+Pick a move (N, S, E, W): N
 [ 4 ] [ 2 ] [ 256 ] [ 4 ] 
 [ 32 ] [ 32 ] [ 16 ] [ 2 ] 
 [ 4 ] [ 8 ] [ 64 ] [ 4 ] 
 [ 4 ] [ 0 ] [ 8 ] [ 0 ] 
-Pontuacao: 2332
-Introduza uma jogada (N, S, E, W): W
+Score: 2332
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 256 ] [ 4 ] 
 [ 64 ] [ 16 ] [ 2 ] [ 0 ] 
 [ 4 ] [ 8 ] [ 64 ] [ 4 ] 
 [ 4 ] [ 8 ] [ 2 ] [ 0 ] 
-Pontuacao: 2396
-Introduza uma jogada (N, S, E, W): W
+Score: 2396
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 256 ] [ 4 ] 
 [ 64 ] [ 16 ] [ 2 ] [ 0 ] 
 [ 4 ] [ 8 ] [ 64 ] [ 4 ] 
 [ 4 ] [ 8 ] [ 2 ] [ 0 ] 
-Pontuacao: 2396
-Introduza uma jogada (N, S, E, W): S
+Score: 2396
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 256 ] [ 2 ] 
 [ 4 ] [ 2 ] [ 2 ] [ 0 ] 
 [ 64 ] [ 16 ] [ 64 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 2 ] [ 8 ] 
-Pontuacao: 2428
-Introduza uma jogada (N, S, E, W): S
+Score: 2428
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 256 ] [ 0 ] 
 [ 4 ] [ 2 ] [ 2 ] [ 0 ] 
 [ 64 ] [ 2 ] [ 64 ] [ 2 ] 
 [ 8 ] [ 32 ] [ 2 ] [ 8 ] 
-Pontuacao: 2460
-Introduza uma jogada (N, S, E, W): E
+Score: 2460
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 256 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 4 ] 
 [ 64 ] [ 2 ] [ 64 ] [ 2 ] 
 [ 8 ] [ 32 ] [ 2 ] [ 8 ] 
-Pontuacao: 2464
-Introduza uma jogada (N, S, E, W): N
+Score: 2464
+Pick a move (N, S, E, W): N
 [ 64 ] [ 4 ] [ 4 ] [ 256 ] 
 [ 8 ] [ 32 ] [ 64 ] [ 4 ] 
 [ 2 ] [ 0 ] [ 2 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
-Pontuacao: 2468
-Introduza uma jogada (N, S, E, W): E
+Score: 2468
+Pick a move (N, S, E, W): E
 [ 0 ] [ 64 ] [ 8 ] [ 256 ] 
 [ 8 ] [ 32 ] [ 64 ] [ 4 ] 
 [ 2 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
-Pontuacao: 2480
-Introduza uma jogada (N, S, E, W): N
+Score: 2480
+Pick a move (N, S, E, W): N
 [ 8 ] [ 64 ] [ 8 ] [ 256 ] 
 [ 2 ] [ 32 ] [ 64 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 8 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
-Pontuacao: 2488
-Introduza uma jogada (N, S, E, W): N
+Score: 2488
+Pick a move (N, S, E, W): N
 [ 8 ] [ 64 ] [ 8 ] [ 256 ] 
 [ 4 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
-Pontuacao: 2508
-Introduza uma jogada (N, S, E, W): N
+Score: 2508
+Pick a move (N, S, E, W): N
 [ 8 ] [ 64 ] [ 8 ] [ 256 ] 
 [ 4 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 2 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 0 ] 
-Pontuacao: 2508
-Introduza uma jogada (N, S, E, W): S
+Score: 2508
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 0 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 64 ] [ 64 ] [ 256 ] 
 [ 2 ] [ 32 ] [ 4 ] [ 16 ] 
-Pontuacao: 2512
-Introduza uma jogada (N, S, E, W): E
+Score: 2512
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 16 ] [ 4 ] 
 [ 4 ] [ 4 ] [ 128 ] [ 256 ] 
 [ 2 ] [ 32 ] [ 4 ] [ 16 ] 
-Pontuacao: 2656
-Introduza uma jogada (N, S, E, W): E
+Score: 2656
+Pick a move (N, S, E, W): E
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 16 ] [ 4 ] 
 [ 0 ] [ 8 ] [ 128 ] [ 256 ] 
 [ 2 ] [ 32 ] [ 4 ] [ 16 ] 
-Pontuacao: 2664
-Introduza uma jogada (N, S, E, W): S
+Score: 2664
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 16 ] [ 4 ] 
 [ 0 ] [ 8 ] [ 128 ] [ 256 ] 
 [ 4 ] [ 32 ] [ 4 ] [ 16 ] 
-Pontuacao: 2668
-Introduza uma jogada (N, S, E, W): S
+Score: 2668
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 0 ] [ 2 ] [ 16 ] [ 4 ] 
 [ 0 ] [ 8 ] [ 128 ] [ 256 ] 
 [ 4 ] [ 32 ] [ 4 ] [ 16 ] 
-Pontuacao: 2668
-Introduza uma jogada (N, S, E, W): S
+Score: 2668
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 0 ] [ 2 ] [ 16 ] [ 4 ] 
 [ 0 ] [ 8 ] [ 128 ] [ 256 ] 
 [ 4 ] [ 32 ] [ 4 ] [ 16 ] 
-Pontuacao: 2668
-Introduza uma jogada (N, S, E, W): N
+Score: 2668
+Pick a move (N, S, E, W): N
 [ 4 ] [ 2 ] [ 2 ] [ 4 ] 
 [ 0 ] [ 8 ] [ 16 ] [ 256 ] 
 [ 0 ] [ 32 ] [ 128 ] [ 16 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 0 ] 
-Pontuacao: 2668
-Introduza uma jogada (N, S, E, W): E
+Score: 2668
+Pick a move (N, S, E, W): E
 [ 0 ] [ 4 ] [ 4 ] [ 4 ] 
 [ 0 ] [ 8 ] [ 16 ] [ 256 ] 
 [ 0 ] [ 32 ] [ 128 ] [ 16 ] 
 [ 0 ] [ 2 ] [ 2 ] [ 4 ] 
-Pontuacao: 2672
-Introduza uma jogada (N, S, E, W): N
+Score: 2672
+Pick a move (N, S, E, W): N
 [ 0 ] [ 4 ] [ 4 ] [ 4 ] 
 [ 0 ] [ 8 ] [ 16 ] [ 256 ] 
 [ 0 ] [ 32 ] [ 128 ] [ 16 ] 
 [ 0 ] [ 2 ] [ 2 ] [ 4 ] 
-Pontuacao: 2672
-Introduza uma jogada (N, S, E, W): S
+Score: 2672
+Pick a move (N, S, E, W): S
 [ 0 ] [ 4 ] [ 4 ] [ 4 ] 
 [ 0 ] [ 8 ] [ 16 ] [ 256 ] 
 [ 0 ] [ 32 ] [ 128 ] [ 16 ] 
 [ 0 ] [ 2 ] [ 2 ] [ 4 ] 
-Pontuacao: 2672
-Introduza uma jogada (N, S, E, W): N
+Score: 2672
+Pick a move (N, S, E, W): N
 [ 0 ] [ 4 ] [ 4 ] [ 4 ] 
 [ 0 ] [ 8 ] [ 16 ] [ 256 ] 
 [ 0 ] [ 32 ] [ 128 ] [ 16 ] 
 [ 0 ] [ 2 ] [ 2 ] [ 4 ] 
-Pontuacao: 2672
-Introduza uma jogada (N, S, E, W): S
+Score: 2672
+Pick a move (N, S, E, W): S
 [ 0 ] [ 4 ] [ 4 ] [ 4 ] 
 [ 0 ] [ 8 ] [ 16 ] [ 256 ] 
 [ 0 ] [ 32 ] [ 128 ] [ 16 ] 
 [ 0 ] [ 2 ] [ 2 ] [ 4 ] 
-Pontuacao: 2672
-Introduza uma jogada (N, S, E, W): E
+Score: 2672
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 4 ] [ 8 ] 
 [ 0 ] [ 8 ] [ 16 ] [ 256 ] 
 [ 0 ] [ 32 ] [ 128 ] [ 16 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 4 ] 
-Pontuacao: 2684
-Introduza uma jogada (N, S, E, W): N
+Score: 2684
+Pick a move (N, S, E, W): N
 [ 2 ] [ 8 ] [ 4 ] [ 8 ] 
 [ 0 ] [ 32 ] [ 16 ] [ 256 ] 
 [ 0 ] [ 2 ] [ 128 ] [ 16 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 4 ] 
-Pontuacao: 2684
-Introduza uma jogada (N, S, E, W): E
+Score: 2684
+Pick a move (N, S, E, W): E
 [ 2 ] [ 8 ] [ 4 ] [ 8 ] 
 [ 0 ] [ 32 ] [ 16 ] [ 256 ] 
 [ 2 ] [ 2 ] [ 128 ] [ 16 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
-Pontuacao: 2692
-Introduza uma jogada (N, S, E, W): N
+Score: 2692
+Pick a move (N, S, E, W): N
 [ 4 ] [ 8 ] [ 4 ] [ 8 ] 
 [ 0 ] [ 32 ] [ 16 ] [ 256 ] 
 [ 0 ] [ 2 ] [ 128 ] [ 16 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 8 ] 
-Pontuacao: 2696
-Introduza uma jogada (N, S, E, W): S
+Score: 2696
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 4 ] [ 8 ] [ 4 ] [ 256 ] 
 [ 4 ] [ 32 ] [ 16 ] [ 16 ] 
 [ 2 ] [ 2 ] [ 128 ] [ 8 ] 
-Pontuacao: 2696
-Introduza uma jogada (N, S, E, W): E
+Score: 2696
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 4 ] [ 8 ] [ 4 ] [ 256 ] 
 [ 0 ] [ 4 ] [ 32 ] [ 32 ] 
 [ 4 ] [ 4 ] [ 128 ] [ 8 ] 
-Pontuacao: 2732
-Introduza uma jogada (N, S, E, W): W
+Score: 2732
+Pick a move (N, S, E, W): W
 [ 8 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 8 ] [ 4 ] [ 256 ] 
 [ 4 ] [ 64 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 128 ] [ 8 ] [ 2 ] 
-Pontuacao: 2804
-Introduza uma jogada (N, S, E, W): E
+Score: 2804
+Pick a move (N, S, E, W): E
 [ 2 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 4 ] [ 8 ] [ 4 ] [ 256 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 64 ] 
 [ 8 ] [ 128 ] [ 8 ] [ 2 ] 
-Pontuacao: 2804
-Introduza uma jogada (N, S, E, W): E
+Score: 2804
+Pick a move (N, S, E, W): E
 [ 0 ] [ 2 ] [ 2 ] [ 8 ] 
 [ 4 ] [ 8 ] [ 4 ] [ 256 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 64 ] 
 [ 8 ] [ 128 ] [ 8 ] [ 2 ] 
-Pontuacao: 2804
-Introduza uma jogada (N, S, E, W): E
+Score: 2804
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 4 ] [ 8 ] 
 [ 4 ] [ 8 ] [ 4 ] [ 256 ] 
 [ 2 ] [ 0 ] [ 4 ] [ 64 ] 
 [ 8 ] [ 128 ] [ 8 ] [ 2 ] 
-Pontuacao: 2808
-Introduza uma jogada (N, S, E, W): S
+Score: 2808
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 256 ] 
 [ 2 ] [ 8 ] [ 8 ] [ 64 ] 
 [ 8 ] [ 128 ] [ 8 ] [ 2 ] 
-Pontuacao: 2816
-Introduza uma jogada (N, S, E, W): W
+Score: 2816
+Pick a move (N, S, E, W): W
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 256 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 0 ] 
 [ 8 ] [ 128 ] [ 8 ] [ 2 ] 
-Pontuacao: 2832
-Introduza uma jogada (N, S, E, W): N
+Score: 2832
+Pick a move (N, S, E, W): N
 [ 8 ] [ 4 ] [ 4 ] [ 256 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 2 ] 
 [ 2 ] [ 128 ] [ 8 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
-Pontuacao: 2836
-Introduza uma jogada (N, S, E, W): W
+Score: 2836
+Pick a move (N, S, E, W): W
 [ 8 ] [ 8 ] [ 256 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 2 ] 
 [ 2 ] [ 128 ] [ 8 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 2 ] [ 0 ] 
-Pontuacao: 2844
-Introduza uma jogada (N, S, E, W): W
+Score: 2844
+Pick a move (N, S, E, W): W
 [ 16 ] [ 256 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 2 ] 
 [ 2 ] [ 128 ] [ 8 ] [ 0 ] 
 [ 8 ] [ 4 ] [ 2 ] [ 0 ] 
-Pontuacao: 2864
-Introduza uma jogada (N, S, E, W): E
+Score: 2864
+Pick a move (N, S, E, W): E
 [ 4 ] [ 0 ] [ 16 ] [ 256 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 128 ] [ 8 ] 
 [ 0 ] [ 8 ] [ 4 ] [ 2 ] 
-Pontuacao: 2864
-Introduza uma jogada (N, S, E, W): N
+Score: 2864
+Pick a move (N, S, E, W): N
 [ 8 ] [ 16 ] [ 16 ] [ 256 ] 
 [ 0 ] [ 2 ] [ 64 ] [ 2 ] 
 [ 4 ] [ 8 ] [ 128 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 2 ] 
-Pontuacao: 2872
-Introduza uma jogada (N, S, E, W): N
+Score: 2872
+Pick a move (N, S, E, W): N
 [ 8 ] [ 16 ] [ 16 ] [ 256 ] 
 [ 4 ] [ 2 ] [ 64 ] [ 2 ] 
 [ 0 ] [ 8 ] [ 128 ] [ 8 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 2872
-Introduza uma jogada (N, S, E, W): E
+Score: 2872
+Pick a move (N, S, E, W): E
 [ 2 ] [ 8 ] [ 32 ] [ 256 ] 
 [ 4 ] [ 2 ] [ 64 ] [ 2 ] 
 [ 0 ] [ 8 ] [ 128 ] [ 8 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 2904
-Introduza uma jogada (N, S, E, W): S
+Score: 2904
+Pick a move (N, S, E, W): S
 [ 0 ] [ 8 ] [ 32 ] [ 256 ] 
 [ 2 ] [ 2 ] [ 64 ] [ 2 ] 
 [ 2 ] [ 8 ] [ 128 ] [ 8 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 2904
-Introduza uma jogada (N, S, E, W): E
+Score: 2904
+Pick a move (N, S, E, W): E
 [ 2 ] [ 8 ] [ 32 ] [ 256 ] 
 [ 0 ] [ 4 ] [ 64 ] [ 2 ] 
 [ 2 ] [ 8 ] [ 128 ] [ 8 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 2908
-Introduza uma jogada (N, S, E, W): N
+Score: 2908
+Pick a move (N, S, E, W): N
 [ 4 ] [ 8 ] [ 32 ] [ 256 ] 
 [ 4 ] [ 4 ] [ 64 ] [ 2 ] 
 [ 0 ] [ 8 ] [ 128 ] [ 8 ] 
 [ 2 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 2912
-Introduza uma jogada (N, S, E, W): W
+Score: 2912
+Pick a move (N, S, E, W): W
 [ 4 ] [ 8 ] [ 32 ] [ 256 ] 
 [ 8 ] [ 64 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 128 ] [ 8 ] [ 0 ] 
 [ 4 ] [ 4 ] [ 2 ] [ 2 ] 
-Pontuacao: 2924
-Introduza uma jogada (N, S, E, W): W
+Score: 2924
+Pick a move (N, S, E, W): W
 [ 4 ] [ 8 ] [ 32 ] [ 256 ] 
 [ 8 ] [ 64 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 128 ] [ 8 ] [ 0 ] 
 [ 8 ] [ 4 ] [ 0 ] [ 2 ] 
-Pontuacao: 2936
-Introduza uma jogada (N, S, E, W): E
+Score: 2936
+Pick a move (N, S, E, W): E
 [ 4 ] [ 8 ] [ 32 ] [ 256 ] 
 [ 2 ] [ 8 ] [ 64 ] [ 2 ] 
 [ 0 ] [ 8 ] [ 128 ] [ 8 ] 
 [ 0 ] [ 8 ] [ 4 ] [ 2 ] 
-Pontuacao: 2936
-Introduza uma jogada (N, S, E, W): W
+Score: 2936
+Pick a move (N, S, E, W): W
 [ 4 ] [ 8 ] [ 32 ] [ 256 ] 
 [ 2 ] [ 8 ] [ 64 ] [ 2 ] 
 [ 8 ] [ 128 ] [ 8 ] [ 0 ] 
 [ 8 ] [ 4 ] [ 2 ] [ 2 ] 
-Pontuacao: 2936
-Introduza uma jogada (N, S, E, W): S
+Score: 2936
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 32 ] [ 4 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 0 ] 
 [ 2 ] [ 128 ] [ 8 ] [ 256 ] 
 [ 16 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 2972
-Introduza uma jogada (N, S, E, W): E
+Score: 2972
+Pick a move (N, S, E, W): E
 [ 4 ] [ 0 ] [ 32 ] [ 4 ] 
 [ 0 ] [ 4 ] [ 16 ] [ 64 ] 
 [ 2 ] [ 128 ] [ 8 ] [ 256 ] 
 [ 16 ] [ 4 ] [ 2 ] [ 4 ] 
-Pontuacao: 2972
-Introduza uma jogada (N, S, E, W): N
+Score: 2972
+Pick a move (N, S, E, W): N
 [ 4 ] [ 4 ] [ 32 ] [ 4 ] 
 [ 2 ] [ 128 ] [ 16 ] [ 64 ] 
 [ 16 ] [ 4 ] [ 8 ] [ 256 ] 
 [ 0 ] [ 2 ] [ 2 ] [ 4 ] 
-Pontuacao: 2972
-Introduza uma jogada (N, S, E, W): E
+Score: 2972
+Pick a move (N, S, E, W): E
 [ 0 ] [ 8 ] [ 32 ] [ 4 ] 
 [ 2 ] [ 128 ] [ 16 ] [ 64 ] 
 [ 16 ] [ 4 ] [ 8 ] [ 256 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 4 ] 
-Pontuacao: 2984
-Introduza uma jogada (N, S, E, W): W
+Score: 2984
+Pick a move (N, S, E, W): W
 [ 8 ] [ 32 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 128 ] [ 16 ] [ 64 ] 
 [ 16 ] [ 4 ] [ 8 ] [ 256 ] 
 [ 2 ] [ 8 ] [ 0 ] [ 0 ] 
-Pontuacao: 2992
-Introduza uma jogada (N, S, E, W): E
+Score: 2992
+Pick a move (N, S, E, W): E
 [ 8 ] [ 32 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 128 ] [ 16 ] [ 64 ] 
 [ 16 ] [ 4 ] [ 8 ] [ 256 ] 
 [ 0 ] [ 2 ] [ 2 ] [ 8 ] 
-Pontuacao: 2992
-Introduza uma jogada (N, S, E, W): E
+Score: 2992
+Pick a move (N, S, E, W): E
 [ 8 ] [ 32 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 128 ] [ 16 ] [ 64 ] 
 [ 16 ] [ 4 ] [ 8 ] [ 256 ] 
 [ 2 ] [ 0 ] [ 4 ] [ 8 ] 
-Pontuacao: 2996
-Introduza uma jogada (N, S, E, W): S
+Score: 2996
+Pick a move (N, S, E, W): S
 [ 8 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 32 ] [ 16 ] [ 64 ] 
 [ 16 ] [ 128 ] [ 8 ] [ 256 ] 
 [ 2 ] [ 4 ] [ 4 ] [ 8 ] 
-Pontuacao: 2996
-Introduza uma jogada (N, S, E, W): E
+Score: 2996
+Pick a move (N, S, E, W): E
 [ 8 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 32 ] [ 16 ] [ 64 ] 
 [ 16 ] [ 128 ] [ 8 ] [ 256 ] 
 [ 2 ] [ 2 ] [ 8 ] [ 8 ] 
-Pontuacao: 3004
-Introduza uma jogada (N, S, E, W): N
+Score: 3004
+Pick a move (N, S, E, W): N
 [ 8 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 32 ] [ 16 ] [ 64 ] 
 [ 16 ] [ 128 ] [ 16 ] [ 256 ] 
 [ 2 ] [ 2 ] [ 2 ] [ 8 ] 
-Pontuacao: 3020
-Introduza uma jogada (N, S, E, W): W
+Score: 3020
+Pick a move (N, S, E, W): W
 [ 8 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 32 ] [ 16 ] [ 64 ] 
 [ 16 ] [ 128 ] [ 16 ] [ 256 ] 
 [ 4 ] [ 2 ] [ 8 ] [ 2 ] 
-Pontuacao: 3024
-Introduza uma jogada (N, S, E, W): E
+Score: 3024
+Pick a move (N, S, E, W): E
 [ 8 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 32 ] [ 16 ] [ 64 ] 
 [ 16 ] [ 128 ] [ 16 ] [ 256 ] 
 [ 4 ] [ 2 ] [ 8 ] [ 2 ] 
-Pontuacao: 3024
-Introduza uma jogada (N, S, E, W): E
+Score: 3024
+Pick a move (N, S, E, W): E
 [ 8 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 32 ] [ 16 ] [ 64 ] 
 [ 16 ] [ 128 ] [ 16 ] [ 256 ] 
 [ 4 ] [ 2 ] [ 8 ] [ 2 ] 
-Pontuacao: 3024
-Introduza uma jogada (N, S, E, W): S
+Score: 3024
+Pick a move (N, S, E, W): S
 [ 8 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 32 ] [ 4 ] [ 64 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 256 ] 
 [ 4 ] [ 2 ] [ 8 ] [ 2 ] 
-Pontuacao: 3056
-Introduza uma jogada (N, S, E, W): N
+Score: 3056
+Pick a move (N, S, E, W): N
 [ 8 ] [ 2 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 32 ] [ 32 ] [ 64 ] 
 [ 16 ] [ 128 ] [ 8 ] [ 256 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 3064
-Introduza uma jogada (N, S, E, W): N
+Score: 3064
+Pick a move (N, S, E, W): N
 [ 8 ] [ 2 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 32 ] [ 32 ] [ 64 ] 
 [ 16 ] [ 128 ] [ 8 ] [ 256 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 3064
-Introduza uma jogada (N, S, E, W): N
+Score: 3064
+Pick a move (N, S, E, W): N
 [ 8 ] [ 2 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 32 ] [ 32 ] [ 64 ] 
 [ 16 ] [ 128 ] [ 8 ] [ 256 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 3064
-Introduza uma jogada (N, S, E, W): N
+Score: 3064
+Pick a move (N, S, E, W): N
 [ 8 ] [ 2 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 32 ] [ 32 ] [ 64 ] 
 [ 16 ] [ 128 ] [ 8 ] [ 256 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 3064
-Introduza uma jogada (N, S, E, W): W
+Score: 3064
+Pick a move (N, S, E, W): W
 [ 8 ] [ 2 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 64 ] [ 64 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 8 ] [ 256 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 3128
-Introduza uma jogada (N, S, E, W): N
+Score: 3128
+Pick a move (N, S, E, W): N
 [ 8 ] [ 2 ] [ 8 ] [ 4 ] 
 [ 2 ] [ 64 ] [ 64 ] [ 256 ] 
 [ 16 ] [ 128 ] [ 8 ] [ 2 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 3132
-Introduza uma jogada (N, S, E, W): E
+Score: 3132
+Pick a move (N, S, E, W): E
 [ 8 ] [ 2 ] [ 8 ] [ 4 ] 
 [ 2 ] [ 2 ] [ 128 ] [ 256 ] 
 [ 16 ] [ 128 ] [ 8 ] [ 2 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 3260
-Introduza uma jogada (N, S, E, W): W
+Score: 3260
+Pick a move (N, S, E, W): W
 [ 8 ] [ 2 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 128 ] [ 256 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 8 ] [ 2 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 3264
-Introduza uma jogada (N, S, E, W): N
+Score: 3264
+Pick a move (N, S, E, W): N
 [ 8 ] [ 2 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 256 ] [ 256 ] [ 4 ] 
 [ 16 ] [ 2 ] [ 8 ] [ 2 ] 
 [ 4 ] [ 0 ] [ 4 ] [ 2 ] 
-Pontuacao: 3524
-Introduza uma jogada (N, S, E, W): N
+Score: 3524
+Pick a move (N, S, E, W): N
 [ 8 ] [ 2 ] [ 8 ] [ 8 ] 
 [ 4 ] [ 256 ] [ 256 ] [ 4 ] 
 [ 16 ] [ 2 ] [ 8 ] [ 0 ] 
 [ 4 ] [ 0 ] [ 4 ] [ 2 ] 
-Pontuacao: 3536
-Introduza uma jogada (N, S, E, W): S
+Score: 3536
+Pick a move (N, S, E, W): S
 [ 8 ] [ 2 ] [ 8 ] [ 0 ] 
 [ 4 ] [ 2 ] [ 256 ] [ 8 ] 
 [ 16 ] [ 256 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 3536
-Introduza uma jogada (N, S, E, W): E
+Score: 3536
+Pick a move (N, S, E, W): E
 [ 2 ] [ 8 ] [ 2 ] [ 8 ] 
 [ 4 ] [ 2 ] [ 256 ] [ 8 ] 
 [ 16 ] [ 256 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 3536
-Introduza uma jogada (N, S, E, W): S
+Score: 3536
+Pick a move (N, S, E, W): S
 [ 2 ] [ 8 ] [ 2 ] [ 2 ] 
 [ 4 ] [ 2 ] [ 256 ] [ 16 ] 
 [ 16 ] [ 256 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 3552
-Introduza uma jogada (N, S, E, W): N
+Score: 3552
+Pick a move (N, S, E, W): N
 [ 2 ] [ 8 ] [ 2 ] [ 2 ] 
 [ 4 ] [ 2 ] [ 256 ] [ 16 ] 
 [ 16 ] [ 256 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 3552
-Introduza uma jogada (N, S, E, W): E
+Score: 3552
+Pick a move (N, S, E, W): E
 [ 4 ] [ 2 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 256 ] [ 16 ] 
 [ 16 ] [ 256 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 3556
-Introduza uma jogada (N, S, E, W): W
+Score: 3556
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 256 ] [ 16 ] 
 [ 16 ] [ 256 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 3556
-Introduza uma jogada (N, S, E, W): W
+Score: 3556
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 256 ] [ 16 ] 
 [ 16 ] [ 256 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 3556
-Introduza uma jogada (N, S, E, W): W
+Score: 3556
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 256 ] [ 16 ] 
 [ 16 ] [ 256 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 3556
-Introduza uma jogada (N, S, E, W): S
+Score: 3556
+Pick a move (N, S, E, W): S
 [ 0 ] [ 4 ] [ 8 ] [ 4 ] 
 [ 8 ] [ 4 ] [ 256 ] [ 16 ] 
 [ 16 ] [ 256 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 3568
-Introduza uma jogada (N, S, E, W): S
+Score: 3568
+Pick a move (N, S, E, W): S
 [ 2 ] [ 0 ] [ 8 ] [ 4 ] 
 [ 8 ] [ 8 ] [ 256 ] [ 16 ] 
 [ 16 ] [ 256 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 3576
-Introduza uma jogada (N, S, E, W): W
+Score: 3576
+Pick a move (N, S, E, W): W
 [ 2 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 16 ] [ 256 ] [ 16 ] [ 2 ] 
 [ 16 ] [ 256 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 3592
-Introduza uma jogada (N, S, E, W): S
+Score: 3592
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 32 ] [ 512 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 4136
-Introduza uma jogada (N, S, E, W): S
+Score: 4136
+Pick a move (N, S, E, W): S
 [ 2 ] [ 0 ] [ 4 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 4 ] 
 [ 32 ] [ 512 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 4140
-Introduza uma jogada (N, S, E, W): S
+Score: 4140
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 8 ] [ 16 ] [ 0 ] 
 [ 32 ] [ 512 ] [ 8 ] [ 8 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 4152
-Introduza uma jogada (N, S, E, W): E
+Score: 4152
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 4 ] [ 8 ] [ 16 ] 
 [ 0 ] [ 32 ] [ 512 ] [ 16 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 4168
-Introduza uma jogada (N, S, E, W): S
+Score: 4168
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 8 ] [ 4 ] 
 [ 2 ] [ 32 ] [ 512 ] [ 32 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
-Pontuacao: 4200
-Introduza uma jogada (N, S, E, W): N
+Score: 4200
+Pick a move (N, S, E, W): N
 [ 4 ] [ 4 ] [ 2 ] [ 4 ] 
 [ 4 ] [ 32 ] [ 8 ] [ 32 ] 
 [ 2 ] [ 2 ] [ 512 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 0 ] 
-Pontuacao: 4204
-Introduza uma jogada (N, S, E, W): W
+Score: 4204
+Pick a move (N, S, E, W): W
 [ 8 ] [ 2 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 32 ] [ 8 ] [ 32 ] 
 [ 4 ] [ 512 ] [ 2 ] [ 2 ] 
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
-Pontuacao: 4216
-Introduza uma jogada (N, S, E, W): N
+Score: 4216
+Pick a move (N, S, E, W): N
 [ 8 ] [ 2 ] [ 4 ] [ 32 ] 
 [ 8 ] [ 32 ] [ 8 ] [ 2 ] 
 [ 4 ] [ 512 ] [ 2 ] [ 0 ] 
 [ 0 ] [ 4 ] [ 0 ] [ 0 ] 
-Pontuacao: 4224
-Introduza uma jogada (N, S, E, W): E
+Score: 4224
+Pick a move (N, S, E, W): E
 [ 8 ] [ 2 ] [ 4 ] [ 32 ] 
 [ 8 ] [ 32 ] [ 8 ] [ 2 ] 
 [ 0 ] [ 4 ] [ 512 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 4 ] 
-Pontuacao: 4224
-Introduza uma jogada (N, S, E, W): N
+Score: 4224
+Pick a move (N, S, E, W): N
 [ 16 ] [ 2 ] [ 4 ] [ 32 ] 
 [ 0 ] [ 32 ] [ 8 ] [ 4 ] 
 [ 0 ] [ 4 ] [ 512 ] [ 4 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 2 ] 
-Pontuacao: 4244
-Introduza uma jogada (N, S, E, W): N
+Score: 4244
+Pick a move (N, S, E, W): N
 [ 16 ] [ 2 ] [ 4 ] [ 32 ] 
 [ 2 ] [ 32 ] [ 8 ] [ 8 ] 
 [ 0 ] [ 4 ] [ 512 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 0 ] 
-Pontuacao: 4252
-Introduza uma jogada (N, S, E, W): E
+Score: 4252
+Pick a move (N, S, E, W): E
 [ 16 ] [ 2 ] [ 4 ] [ 32 ] 
 [ 0 ] [ 2 ] [ 32 ] [ 16 ] 
 [ 2 ] [ 4 ] [ 512 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
-Pontuacao: 4268
-Introduza uma jogada (N, S, E, W): E
+Score: 4268
+Pick a move (N, S, E, W): E
 [ 16 ] [ 2 ] [ 4 ] [ 32 ] 
 [ 0 ] [ 2 ] [ 32 ] [ 16 ] 
 [ 2 ] [ 4 ] [ 512 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
-Pontuacao: 4268
-Introduza uma jogada (N, S, E, W): N
+Score: 4268
+Pick a move (N, S, E, W): N
 [ 16 ] [ 4 ] [ 4 ] [ 32 ] 
 [ 2 ] [ 4 ] [ 32 ] [ 16 ] 
 [ 0 ] [ 0 ] [ 512 ] [ 2 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 4 ] 
-Pontuacao: 4272
-Introduza uma jogada (N, S, E, W): E
+Score: 4272
+Pick a move (N, S, E, W): E
 [ 0 ] [ 16 ] [ 8 ] [ 32 ] 
 [ 2 ] [ 4 ] [ 32 ] [ 16 ] 
 [ 0 ] [ 0 ] [ 512 ] [ 2 ] 
 [ 2 ] [ 0 ] [ 2 ] [ 4 ] 
-Pontuacao: 4280
-Introduza uma jogada (N, S, E, W): N
+Score: 4280
+Pick a move (N, S, E, W): N
 [ 4 ] [ 16 ] [ 8 ] [ 32 ] 
 [ 0 ] [ 4 ] [ 32 ] [ 16 ] 
 [ 0 ] [ 0 ] [ 512 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 2 ] [ 4 ] 
-Pontuacao: 4284
-Introduza uma jogada (N, S, E, W): W
+Score: 4284
+Pick a move (N, S, E, W): W
 [ 4 ] [ 16 ] [ 8 ] [ 32 ] 
 [ 4 ] [ 32 ] [ 16 ] [ 2 ] 
 [ 512 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 4 ] [ 0 ] [ 0 ] 
-Pontuacao: 4288
-Introduza uma jogada (N, S, E, W): E
+Score: 4288
+Pick a move (N, S, E, W): E
 [ 4 ] [ 16 ] [ 8 ] [ 32 ] 
 [ 4 ] [ 32 ] [ 16 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 512 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
-Pontuacao: 4296
-Introduza uma jogada (N, S, E, W): N
+Score: 4296
+Pick a move (N, S, E, W): N
 [ 8 ] [ 16 ] [ 8 ] [ 32 ] 
 [ 0 ] [ 32 ] [ 16 ] [ 4 ] 
 [ 0 ] [ 2 ] [ 512 ] [ 8 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
-Pontuacao: 4308
-Introduza uma jogada (N, S, E, W): W
+Score: 4308
+Pick a move (N, S, E, W): W
 [ 8 ] [ 16 ] [ 8 ] [ 32 ] 
 [ 32 ] [ 16 ] [ 4 ] [ 0 ] 
 [ 2 ] [ 512 ] [ 8 ] [ 0 ] 
 [ 2 ] [ 0 ] [ 4 ] [ 0 ] 
-Pontuacao: 4308
-Introduza uma jogada (N, S, E, W): S
+Score: 4308
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 8 ] [ 0 ] 
 [ 8 ] [ 0 ] [ 4 ] [ 4 ] 
 [ 32 ] [ 32 ] [ 8 ] [ 0 ] 
 [ 4 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4344
-Introduza uma jogada (N, S, E, W): E
+Score: 4344
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 8 ] [ 8 ] 
 [ 2 ] [ 0 ] [ 64 ] [ 8 ] 
 [ 4 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4416
-Introduza uma jogada (N, S, E, W): E
+Score: 4416
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 16 ] 
 [ 2 ] [ 2 ] [ 64 ] [ 8 ] 
 [ 4 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4432
-Introduza uma jogada (N, S, E, W): W
+Score: 4432
+Pick a move (N, S, E, W): W
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 64 ] [ 8 ] [ 0 ] 
 [ 4 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4436
-Introduza uma jogada (N, S, E, W): E
+Score: 4436
+Pick a move (N, S, E, W): E
 [ 0 ] [ 2 ] [ 8 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 16 ] 
 [ 0 ] [ 4 ] [ 64 ] [ 8 ] 
 [ 4 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4436
-Introduza uma jogada (N, S, E, W): W
+Score: 4436
+Pick a move (N, S, E, W): W
 [ 2 ] [ 8 ] [ 2 ] [ 0 ] 
 [ 16 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 4 ] [ 64 ] [ 8 ] [ 0 ] 
 [ 4 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4436
-Introduza uma jogada (N, S, E, W): S
+Score: 4436
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 16 ] [ 64 ] [ 8 ] [ 0 ] 
 [ 8 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4448
-Introduza uma jogada (N, S, E, W): E
+Score: 4448
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 8 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 8 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4448
-Introduza uma jogada (N, S, E, W): W
+Score: 4448
+Pick a move (N, S, E, W): W
 [ 2 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 8 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4448
-Introduza uma jogada (N, S, E, W): S
+Score: 4448
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 2 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 8 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4452
-Introduza uma jogada (N, S, E, W): E
+Score: 4452
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 4 ] [ 4 ] 
 [ 0 ] [ 2 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 8 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4456
-Introduza uma jogada (N, S, E, W): S
+Score: 4456
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 2 ] [ 8 ] [ 8 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 8 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4464
-Introduza uma jogada (N, S, E, W): S
+Score: 4464
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 4 ] [ 0 ] 
 [ 0 ] [ 2 ] [ 8 ] [ 2 ] 
 [ 8 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 8 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4488
-Introduza uma jogada (N, S, E, W): W
+Score: 4488
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 8 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4488
-Introduza uma jogada (N, S, E, W): S
+Score: 4488
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 2 ] [ 0 ] 
 [ 4 ] [ 8 ] [ 2 ] [ 0 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4504
-Introduza uma jogada (N, S, E, W): W
+Score: 4504
+Pick a move (N, S, E, W): W
 [ 4 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 4 ] [ 8 ] [ 2 ] [ 0 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4508
-Introduza uma jogada (N, S, E, W): S
+Score: 4508
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 8 ] [ 8 ] [ 2 ] [ 2 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4516
-Introduza uma jogada (N, S, E, W): E
+Score: 4516
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 16 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4536
-Introduza uma jogada (N, S, E, W): S
+Score: 4536
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 16 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4536
-Introduza uma jogada (N, S, E, W): W
+Score: 4536
+Pick a move (N, S, E, W): W
 [ 2 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 16 ] [ 4 ] [ 0 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4536
-Introduza uma jogada (N, S, E, W): S
+Score: 4536
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 2 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4572
-Introduza uma jogada (N, S, E, W): W
+Score: 4572
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 4 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4576
-Introduza uma jogada (N, S, E, W): S
+Score: 4576
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 2 ] [ 4 ] [ 0 ] [ 2 ] 
 [ 8 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4584
-Introduza uma jogada (N, S, E, W): E
+Score: 4584
+Pick a move (N, S, E, W): E
 [ 4 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 8 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4584
-Introduza uma jogada (N, S, E, W): S
+Score: 4584
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 8 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4584
-Introduza uma jogada (N, S, E, W): E
+Score: 4584
+Pick a move (N, S, E, W): E
 [ 2 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 8 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4584
-Introduza uma jogada (N, S, E, W): W
+Score: 4584
+Pick a move (N, S, E, W): W
 [ 4 ] [ 4 ] [ 0 ] [ 2 ] 
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 8 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4588
-Introduza uma jogada (N, S, E, W): S
+Score: 4588
+Pick a move (N, S, E, W): S
 [ 0 ] [ 4 ] [ 0 ] [ 2 ] 
 [ 8 ] [ 2 ] [ 4 ] [ 4 ] 
 [ 8 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4600
-Introduza uma jogada (N, S, E, W): S
+Score: 4600
+Pick a move (N, S, E, W): S
 [ 2 ] [ 4 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 4 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 16 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4616
-Introduza uma jogada (N, S, E, W): S
+Score: 4616
+Pick a move (N, S, E, W): S
 [ 0 ] [ 4 ] [ 2 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 4 ] 
 [ 2 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 32 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4648
-Introduza uma jogada (N, S, E, W): W
+Score: 4648
+Pick a move (N, S, E, W): W
 [ 4 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 2 ] [ 0 ] 
 [ 2 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 32 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4660
-Introduza uma jogada (N, S, E, W): S
+Score: 4660
+Pick a move (N, S, E, W): S
 [ 0 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 8 ] [ 2 ] [ 2 ] 
 [ 4 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 32 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4664
-Introduza uma jogada (N, S, E, W): S
+Score: 4664
+Pick a move (N, S, E, W): S
 [ 2 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 8 ] [ 2 ] [ 2 ] 
 [ 8 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 32 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4672
-Introduza uma jogada (N, S, E, W): W
+Score: 4672
+Pick a move (N, S, E, W): W
 [ 2 ] [ 4 ] [ 0 ] [ 4 ] 
 [ 8 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 32 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4676
-Introduza uma jogada (N, S, E, W): S
+Score: 4676
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 4 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 0 ] [ 4 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 32 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4700
-Introduza uma jogada (N, S, E, W): E
+Score: 4700
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 2 ] [ 2 ] [ 8 ] [ 4 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 32 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4700
-Introduza uma jogada (N, S, E, W): S
+Score: 4700
+Pick a move (N, S, E, W): S
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 2 ] [ 8 ] [ 8 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 32 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4708
-Introduza uma jogada (N, S, E, W): E
+Score: 4708
+Pick a move (N, S, E, W): E
 [ 0 ] [ 2 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 16 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 32 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4728
-Introduza uma jogada (N, S, E, W): S
+Score: 4728
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 32 ] 
 [ 32 ] [ 512 ] [ 4 ] [ 32 ] 
-Pontuacao: 4760
-Introduza uma jogada (N, S, E, W): S
+Score: 4760
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 2 ] [ 2 ] [ 4 ] [ 0 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 2 ] 
 [ 32 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 4824
-Introduza uma jogada (N, S, E, W): W
+Score: 4824
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 4 ] [ 0 ] [ 2 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 2 ] 
 [ 32 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 4828
-Introduza uma jogada (N, S, E, W): W
+Score: 4828
+Pick a move (N, S, E, W): W
 [ 2 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 2 ] 
 [ 32 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 4836
-Introduza uma jogada (N, S, E, W): W
+Score: 4836
+Pick a move (N, S, E, W): W
 [ 4 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 2 ] 
 [ 32 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 4840
-Introduza uma jogada (N, S, E, W): W
+Score: 4840
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 2 ] [ 0 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 2 ] 
 [ 32 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 4840
-Introduza uma jogada (N, S, E, W): W
+Score: 4840
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 4 ] [ 0 ] [ 4 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 2 ] 
 [ 32 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 4844
-Introduza uma jogada (N, S, E, W): W
+Score: 4844
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 4 ] [ 0 ] 
 [ 8 ] [ 8 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 2 ] 
 [ 32 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 4852
-Introduza uma jogada (N, S, E, W): W
+Score: 4852
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 4 ] [ 0 ] 
 [ 16 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 2 ] 
 [ 32 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 4868
-Introduza uma jogada (N, S, E, W): S
+Score: 4868
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 4 ] [ 4 ] [ 4 ] [ 0 ] 
 [ 32 ] [ 32 ] [ 64 ] [ 2 ] 
 [ 32 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 4904
-Introduza uma jogada (N, S, E, W): S
+Score: 4904
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 32 ] [ 64 ] [ 2 ] 
 [ 64 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 4968
-Introduza uma jogada (N, S, E, W): W
+Score: 4968
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 0 ] [ 2 ] 
 [ 4 ] [ 32 ] [ 64 ] [ 2 ] 
 [ 64 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 4976
-Introduza uma jogada (N, S, E, W): S
+Score: 4976
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 8 ] [ 0 ] [ 2 ] 
 [ 4 ] [ 32 ] [ 64 ] [ 4 ] 
 [ 64 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 4984
-Introduza uma jogada (N, S, E, W): S
+Score: 4984
+Pick a move (N, S, E, W): S
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 8 ] [ 0 ] [ 2 ] 
 [ 8 ] [ 32 ] [ 64 ] [ 4 ] 
 [ 64 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 4992
-Introduza uma jogada (N, S, E, W): W
+Score: 4992
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 32 ] [ 64 ] [ 4 ] 
 [ 64 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 4992
-Introduza uma jogada (N, S, E, W): S
+Score: 4992
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 2 ] [ 2 ] [ 2 ] [ 0 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 4 ] 
 [ 64 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 5008
-Introduza uma jogada (N, S, E, W): W
+Score: 5008
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 2 ] [ 2 ] [ 0 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 4 ] 
 [ 64 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 5012
-Introduza uma jogada (N, S, E, W): W
+Score: 5012
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 4 ] [ 0 ] [ 4 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 4 ] 
 [ 64 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 5016
-Introduza uma jogada (N, S, E, W): W
+Score: 5016
+Pick a move (N, S, E, W): W
 [ 2 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 4 ] 
 [ 64 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 5024
-Introduza uma jogada (N, S, E, W): E
+Score: 5024
+Pick a move (N, S, E, W): E
 [ 0 ] [ 2 ] [ 2 ] [ 4 ] 
 [ 0 ] [ 0 ] [ 8 ] [ 4 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 4 ] 
 [ 64 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 5024
-Introduza uma jogada (N, S, E, W): W
+Score: 5024
+Pick a move (N, S, E, W): W
 [ 4 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 4 ] [ 2 ] [ 0 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 4 ] 
 [ 64 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 5028
-Introduza uma jogada (N, S, E, W): W
+Score: 5028
+Pick a move (N, S, E, W): W
 [ 8 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 4 ] [ 2 ] [ 2 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 4 ] 
 [ 64 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 5036
-Introduza uma jogada (N, S, E, W): S
+Score: 5036
+Pick a move (N, S, E, W): S
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 4 ] [ 2 ] [ 2 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 4 ] 
 [ 64 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 5052
-Introduza uma jogada (N, S, E, W): S
+Score: 5052
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 2 ] 
 [ 32 ] [ 32 ] [ 64 ] [ 4 ] 
 [ 64 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 5084
-Introduza uma jogada (N, S, E, W): W
+Score: 5084
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 4 ] [ 0 ] 
 [ 64 ] [ 64 ] [ 4 ] [ 0 ] 
 [ 64 ] [ 512 ] [ 4 ] [ 64 ] 
-Pontuacao: 5152
-Introduza uma jogada (N, S, E, W): S
+Score: 5152
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 64 ] [ 4 ] [ 2 ] 
 [ 128 ] [ 512 ] [ 8 ] [ 64 ] 
-Pontuacao: 5292
-Introduza uma jogada (N, S, E, W): W
+Score: 5292
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 4 ] [ 64 ] [ 4 ] [ 2 ] 
 [ 128 ] [ 512 ] [ 8 ] [ 64 ] 
-Pontuacao: 5292
-Introduza uma jogada (N, S, E, W): S
+Score: 5292
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 0 ] [ 2 ] [ 2 ] 
 [ 8 ] [ 64 ] [ 4 ] [ 2 ] 
 [ 128 ] [ 512 ] [ 8 ] [ 64 ] 
-Pontuacao: 5300
-Introduza uma jogada (N, S, E, W): W
+Score: 5300
+Pick a move (N, S, E, W): W
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 64 ] [ 4 ] [ 2 ] 
 [ 128 ] [ 512 ] [ 8 ] [ 64 ] 
-Pontuacao: 5304
-Introduza uma jogada (N, S, E, W): S
+Score: 5304
+Pick a move (N, S, E, W): S
 [ 0 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 64 ] [ 4 ] [ 2 ] 
 [ 128 ] [ 512 ] [ 8 ] [ 64 ] 
-Pontuacao: 5312
-Introduza uma jogada (N, S, E, W): S
+Score: 5312
+Pick a move (N, S, E, W): S
 [ 0 ] [ 4 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 64 ] [ 4 ] [ 2 ] 
 [ 128 ] [ 512 ] [ 8 ] [ 64 ] 
-Pontuacao: 5328
-Introduza uma jogada (N, S, E, W): S
+Score: 5328
+Pick a move (N, S, E, W): S
 [ 0 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 64 ] [ 4 ] [ 4 ] 
 [ 128 ] [ 512 ] [ 8 ] [ 64 ] 
-Pontuacao: 5332
-Introduza uma jogada (N, S, E, W): W
+Score: 5332
+Pick a move (N, S, E, W): W
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 16 ] [ 64 ] [ 8 ] [ 0 ] 
 [ 128 ] [ 512 ] [ 8 ] [ 64 ] 
-Pontuacao: 5344
-Introduza uma jogada (N, S, E, W): S
+Score: 5344
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 16 ] [ 64 ] [ 2 ] [ 0 ] 
 [ 128 ] [ 512 ] [ 16 ] [ 64 ] 
-Pontuacao: 5368
-Introduza uma jogada (N, S, E, W): S
+Score: 5368
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 16 ] [ 64 ] [ 4 ] [ 0 ] 
 [ 128 ] [ 512 ] [ 16 ] [ 64 ] 
-Pontuacao: 5372
-Introduza uma jogada (N, S, E, W): W
+Score: 5372
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 64 ] [ 4 ] [ 0 ] 
 [ 128 ] [ 512 ] [ 16 ] [ 64 ] 
-Pontuacao: 5372
-Introduza uma jogada (N, S, E, W): E
+Score: 5372
+Pick a move (N, S, E, W): E
 [ 0 ] [ 2 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 8 ] [ 2 ] 
 [ 0 ] [ 16 ] [ 64 ] [ 4 ] 
 [ 128 ] [ 512 ] [ 16 ] [ 64 ] 
-Pontuacao: 5372
-Introduza uma jogada (N, S, E, W): S
+Score: 5372
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 0 ] [ 2 ] [ 8 ] [ 4 ] 
 [ 0 ] [ 16 ] [ 64 ] [ 4 ] 
 [ 128 ] [ 512 ] [ 16 ] [ 64 ] 
-Pontuacao: 5376
-Introduza uma jogada (N, S, E, W): S
+Score: 5376
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 2 ] [ 2 ] [ 8 ] [ 0 ] 
 [ 0 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 128 ] [ 512 ] [ 16 ] [ 64 ] 
-Pontuacao: 5384
-Introduza uma jogada (N, S, E, W): W
+Score: 5384
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 8 ] [ 0 ] [ 4 ] 
 [ 16 ] [ 64 ] [ 8 ] [ 0 ] 
 [ 128 ] [ 512 ] [ 16 ] [ 64 ] 
-Pontuacao: 5388
-Introduza uma jogada (N, S, E, W): E
+Score: 5388
+Pick a move (N, S, E, W): E
 [ 4 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 4 ] [ 8 ] [ 4 ] 
 [ 0 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 128 ] [ 512 ] [ 16 ] [ 64 ] 
-Pontuacao: 5388
-Introduza uma jogada (N, S, E, W): W
+Score: 5388
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 0 ] [ 2 ] 
 [ 4 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 16 ] [ 64 ] [ 8 ] [ 0 ] 
 [ 128 ] [ 512 ] [ 16 ] [ 64 ] 
-Pontuacao: 5388
-Introduza uma jogada (N, S, E, W): S
+Score: 5388
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 2 ] 
 [ 8 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 16 ] [ 64 ] [ 8 ] [ 2 ] 
 [ 128 ] [ 512 ] [ 16 ] [ 64 ] 
-Pontuacao: 5396
-Introduza uma jogada (N, S, E, W): W
+Score: 5396
+Pick a move (N, S, E, W): W
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 4 ] [ 2 ] [ 0 ] 
 [ 16 ] [ 64 ] [ 8 ] [ 2 ] 
 [ 128 ] [ 512 ] [ 16 ] [ 64 ] 
-Pontuacao: 5416
-Introduza uma jogada (N, S, E, W): S
+Score: 5416
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 4 ] [ 2 ] [ 2 ] 
 [ 32 ] [ 64 ] [ 8 ] [ 2 ] 
 [ 128 ] [ 512 ] [ 16 ] [ 64 ] 
-Pontuacao: 5448
-Introduza uma jogada (N, S, E, W): E
+Score: 5448
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 2 ] [ 8 ] [ 4 ] 
 [ 32 ] [ 64 ] [ 8 ] [ 2 ] 
 [ 128 ] [ 512 ] [ 16 ] [ 64 ] 
-Pontuacao: 5460
-Introduza uma jogada (N, S, E, W): S
+Score: 5460
+Pick a move (N, S, E, W): S
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 2 ] [ 0 ] [ 4 ] 
 [ 32 ] [ 64 ] [ 16 ] [ 2 ] 
 [ 128 ] [ 512 ] [ 16 ] [ 64 ] 
-Pontuacao: 5476
-Introduza uma jogada (N, S, E, W): S
+Score: 5476
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 2 ] [ 0 ] [ 4 ] 
 [ 32 ] [ 64 ] [ 0 ] [ 2 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5508
-Introduza uma jogada (N, S, E, W): W
+Score: 5508
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 4 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 32 ] [ 64 ] [ 2 ] [ 0 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5512
-Introduza uma jogada (N, S, E, W): W
+Score: 5512
+Pick a move (N, S, E, W): W
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 32 ] [ 64 ] [ 2 ] [ 0 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5524
-Introduza uma jogada (N, S, E, W): E
+Score: 5524
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 4 ] [ 8 ] [ 2 ] 
 [ 0 ] [ 32 ] [ 64 ] [ 2 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5524
-Introduza uma jogada (N, S, E, W): S
+Score: 5524
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 4 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 32 ] [ 64 ] [ 4 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5528
-Introduza uma jogada (N, S, E, W): S
+Score: 5528
+Pick a move (N, S, E, W): S
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 4 ] [ 8 ] [ 0 ] 
 [ 4 ] [ 32 ] [ 64 ] [ 8 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5536
-Introduza uma jogada (N, S, E, W): E
+Score: 5536
+Pick a move (N, S, E, W): E
 [ 0 ] [ 2 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 8 ] 
 [ 4 ] [ 32 ] [ 64 ] [ 8 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5536
-Introduza uma jogada (N, S, E, W): S
+Score: 5536
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 4 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5552
-Introduza uma jogada (N, S, E, W): W
+Score: 5552
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 2 ] 
 [ 4 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5552
-Introduza uma jogada (N, S, E, W): S
+Score: 5552
+Pick a move (N, S, E, W): S
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 4 ] [ 2 ] [ 2 ] 
 [ 4 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5556
-Introduza uma jogada (N, S, E, W): S
+Score: 5556
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 2 ] 
 [ 8 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5564
-Introduza uma jogada (N, S, E, W): W
+Score: 5564
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 4 ] [ 0 ] 
 [ 8 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5568
-Introduza uma jogada (N, S, E, W): S
+Score: 5568
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 4 ] [ 4 ] [ 4 ] [ 2 ] 
 [ 8 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5572
-Introduza uma jogada (N, S, E, W): W
+Score: 5572
+Pick a move (N, S, E, W): W
 [ 2 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 4 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5580
-Introduza uma jogada (N, S, E, W): S
+Score: 5580
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 4 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 0 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5596
-Introduza uma jogada (N, S, E, W): W
+Score: 5596
+Pick a move (N, S, E, W): W
 [ 2 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 4 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5596
-Introduza uma jogada (N, S, E, W): S
+Score: 5596
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 4 ] [ 8 ] [ 2 ] [ 4 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5608
-Introduza uma jogada (N, S, E, W): W
+Score: 5608
+Pick a move (N, S, E, W): W
 [ 2 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 8 ] [ 2 ] [ 4 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5608
-Introduza uma jogada (N, S, E, W): W
+Score: 5608
+Pick a move (N, S, E, W): W
 [ 4 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 4 ] [ 8 ] [ 2 ] [ 4 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5612
-Introduza uma jogada (N, S, E, W): S
+Score: 5612
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 8 ] [ 4 ] [ 4 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5624
-Introduza uma jogada (N, S, E, W): W
+Score: 5624
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 8 ] [ 2 ] [ 0 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5648
-Introduza uma jogada (N, S, E, W): S
+Score: 5648
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 2 ] [ 2 ] 
 [ 32 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5680
-Introduza uma jogada (N, S, E, W): W
+Score: 5680
+Pick a move (N, S, E, W): W
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 64 ] [ 64 ] [ 16 ] [ 2 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5748
-Introduza uma jogada (N, S, E, W): W
+Score: 5748
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 128 ] [ 16 ] [ 2 ] [ 0 ] 
 [ 128 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 5876
-Introduza uma jogada (N, S, E, W): S
+Score: 5876
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 2 ] [ 0 ] 
 [ 256 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 6136
-Introduza uma jogada (N, S, E, W): W
+Score: 6136
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 8 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 2 ] [ 0 ] 
 [ 256 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 6136
-Introduza uma jogada (N, S, E, W): S
+Score: 6136
+Pick a move (N, S, E, W): S
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 4 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 2 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 6136
-Introduza uma jogada (N, S, E, W): E
+Score: 6136
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 8 ] [ 8 ] 
 [ 4 ] [ 16 ] [ 2 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 6144
-Introduza uma jogada (N, S, E, W): W
+Score: 6144
+Pick a move (N, S, E, W): W
 [ 2 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 16 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 2 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 6160
-Introduza uma jogada (N, S, E, W): S
+Score: 6160
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 32 ] [ 2 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 6196
-Introduza uma jogada (N, S, E, W): S
+Score: 6196
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 0 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 32 ] [ 2 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 6208
-Introduza uma jogada (N, S, E, W): E
+Score: 6208
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 8 ] [ 32 ] [ 2 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 6208
-Introduza uma jogada (N, S, E, W): S
+Score: 6208
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 2 ] [ 0 ] [ 2 ] 
 [ 8 ] [ 32 ] [ 2 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 6216
-Introduza uma jogada (N, S, E, W): E
+Score: 6216
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 2 ] [ 2 ] [ 4 ] 
 [ 8 ] [ 32 ] [ 2 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 6220
-Introduza uma jogada (N, S, E, W): E
+Score: 6220
+Pick a move (N, S, E, W): E
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 4 ] 
 [ 8 ] [ 32 ] [ 2 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 6224
-Introduza uma jogada (N, S, E, W): S
+Score: 6224
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 0 ] [ 4 ] [ 4 ] 
 [ 8 ] [ 32 ] [ 2 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 6224
-Introduza uma jogada (N, S, E, W): E
+Score: 6224
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 4 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 8 ] 
 [ 8 ] [ 32 ] [ 2 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 6232
-Introduza uma jogada (N, S, E, W): S
+Score: 6232
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 2 ] 
 [ 8 ] [ 32 ] [ 4 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 6252
-Introduza uma jogada (N, S, E, W): S
+Score: 6252
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 2 ] [ 0 ] [ 2 ] 
 [ 8 ] [ 32 ] [ 8 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 6260
-Introduza uma jogada (N, S, E, W): E
+Score: 6260
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 8 ] [ 32 ] [ 8 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 6264
-Introduza uma jogada (N, S, E, W): S
+Score: 6264
+Pick a move (N, S, E, W): S
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 8 ] 
 [ 8 ] [ 32 ] [ 8 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 6272
-Introduza uma jogada (N, S, E, W): W
+Score: 6272
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 32 ] [ 8 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 6272
-Introduza uma jogada (N, S, E, W): S
+Score: 6272
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 4 ] [ 8 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 32 ] [ 8 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 6276
-Introduza uma jogada (N, S, E, W): E
+Score: 6276
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 8 ] [ 2 ] 
 [ 8 ] [ 32 ] [ 8 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 6276
-Introduza uma jogada (N, S, E, W): S
+Score: 6276
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 4 ] 
 [ 8 ] [ 32 ] [ 16 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 6296
-Introduza uma jogada (N, S, E, W): W
+Score: 6296
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 2 ] [ 4 ] 
 [ 8 ] [ 32 ] [ 32 ] [ 0 ] 
 [ 256 ] [ 512 ] [ 32 ] [ 64 ] 
-Pontuacao: 6328
-Introduza uma jogada (N, S, E, W): S
+Score: 6328
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 32 ] [ 2 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 64 ] [ 64 ] 
-Pontuacao: 6396
-Introduza uma jogada (N, S, E, W): W
+Score: 6396
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 8 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 32 ] [ 2 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 0 ] 
-Pontuacao: 6532
-Introduza uma jogada (N, S, E, W): S
+Score: 6532
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 32 ] [ 2 ] [ 0 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 8 ] 
-Pontuacao: 6556
-Introduza uma jogada (N, S, E, W): E
+Score: 6556
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 2 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 16 ] [ 32 ] [ 2 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 8 ] 
-Pontuacao: 6556
-Introduza uma jogada (N, S, E, W): S
+Score: 6556
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 2 ] [ 2 ] [ 4 ] 
 [ 0 ] [ 16 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 8 ] 
-Pontuacao: 6560
-Introduza uma jogada (N, S, E, W): S
+Score: 6560
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 2 ] [ 2 ] [ 0 ] 
 [ 2 ] [ 16 ] [ 32 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 8 ] 
-Pontuacao: 6568
-Introduza uma jogada (N, S, E, W): E
+Score: 6568
+Pick a move (N, S, E, W): E
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 32 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 8 ] 
-Pontuacao: 6572
-Introduza uma jogada (N, S, E, W): S
+Score: 6572
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 16 ] 
-Pontuacao: 6592
-Introduza uma jogada (N, S, E, W): S
+Score: 6592
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 16 ] 
-Pontuacao: 6592
-Introduza uma jogada (N, S, E, W): E
+Score: 6592
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 4 ] [ 16 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 16 ] 
-Pontuacao: 6592
-Introduza uma jogada (N, S, E, W): E
+Score: 6592
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 0 ] [ 4 ] 
 [ 4 ] [ 16 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 16 ] 
-Pontuacao: 6596
-Introduza uma jogada (N, S, E, W): S
+Score: 6596
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 2 ] [ 2 ] [ 2 ] 
 [ 4 ] [ 16 ] [ 32 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 16 ] 
-Pontuacao: 6604
-Introduza uma jogada (N, S, E, W): E
+Score: 6604
+Pick a move (N, S, E, W): E
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 4 ] [ 16 ] [ 32 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 16 ] 
-Pontuacao: 6608
-Introduza uma jogada (N, S, E, W): E
+Score: 6608
+Pick a move (N, S, E, W): E
 [ 0 ] [ 4 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 4 ] [ 16 ] [ 32 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 16 ] 
-Pontuacao: 6608
-Introduza uma jogada (N, S, E, W): S
+Score: 6608
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 0 ] [ 4 ] [ 2 ] [ 8 ] 
 [ 4 ] [ 16 ] [ 32 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 16 ] 
-Pontuacao: 6616
-Introduza uma jogada (N, S, E, W): S
+Score: 6616
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 4 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 32 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 16 ] 
-Pontuacao: 6636
-Introduza uma jogada (N, S, E, W): E
+Score: 6636
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 0 ] [ 8 ] 
 [ 4 ] [ 16 ] [ 32 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 16 ] 
-Pontuacao: 6644
-Introduza uma jogada (N, S, E, W): S
+Score: 6644
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 2 ] [ 2 ] [ 2 ] 
 [ 4 ] [ 16 ] [ 32 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 32 ] 
-Pontuacao: 6676
-Introduza uma jogada (N, S, E, W): E
+Score: 6676
+Pick a move (N, S, E, W): E
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 4 ] [ 16 ] [ 32 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 32 ] 
-Pontuacao: 6680
-Introduza uma jogada (N, S, E, W): S
+Score: 6680
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 4 ] [ 16 ] [ 32 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 32 ] 
-Pontuacao: 6680
-Introduza uma jogada (N, S, E, W): E
+Score: 6680
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 2 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 4 ] 
 [ 4 ] [ 16 ] [ 32 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 32 ] 
-Pontuacao: 6684
-Introduza uma jogada (N, S, E, W): E
+Score: 6684
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 2 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 4 ] [ 16 ] [ 32 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 32 ] 
-Pontuacao: 6696
-Introduza uma jogada (N, S, E, W): S
+Score: 6696
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 2 ] [ 0 ] [ 4 ] 
 [ 4 ] [ 16 ] [ 32 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 32 ] 
-Pontuacao: 6712
-Introduza uma jogada (N, S, E, W): E
+Score: 6712
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 4 ] [ 4 ] [ 4 ] 
 [ 4 ] [ 16 ] [ 32 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 32 ] 
-Pontuacao: 6716
-Introduza uma jogada (N, S, E, W): E
+Score: 6716
+Pick a move (N, S, E, W): E
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 8 ] 
 [ 4 ] [ 16 ] [ 32 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 32 ] 
-Pontuacao: 6724
-Introduza uma jogada (N, S, E, W): S
+Score: 6724
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 32 ] 
-Pontuacao: 6732
-Introduza uma jogada (N, S, E, W): E
+Score: 6732
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 2 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 32 ] 
-Pontuacao: 6732
-Introduza uma jogada (N, S, E, W): E
+Score: 6732
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 2 ] [ 0 ] [ 4 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 32 ] 
-Pontuacao: 6736
-Introduza uma jogada (N, S, E, W): E
+Score: 6736
+Pick a move (N, S, E, W): E
 [ 2 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 32 ] 
-Pontuacao: 6736
-Introduza uma jogada (N, S, E, W): S
+Score: 6736
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 4 ] 
 [ 2 ] [ 2 ] [ 4 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 32 ] 
-Pontuacao: 6736
-Introduza uma jogada (N, S, E, W): E
+Score: 6736
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 4 ] [ 4 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 32 ] 
-Pontuacao: 6740
-Introduza uma jogada (N, S, E, W): E
+Score: 6740
+Pick a move (N, S, E, W): E
 [ 2 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 0 ] [ 2 ] [ 8 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 32 ] 
-Pontuacao: 6748
-Introduza uma jogada (N, S, E, W): E
+Score: 6748
+Pick a move (N, S, E, W): E
 [ 0 ] [ 2 ] [ 4 ] [ 4 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 16 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 32 ] 
-Pontuacao: 6768
-Introduza uma jogada (N, S, E, W): S
+Score: 6768
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 4 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 2 ] [ 4 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 32 ] 
-Pontuacao: 6800
-Introduza uma jogada (N, S, E, W): S
+Score: 6800
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 2 ] [ 2 ] [ 2 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 6864
-Introduza uma jogada (N, S, E, W): E
+Score: 6864
+Pick a move (N, S, E, W): E
 [ 4 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 4 ] [ 2 ] [ 4 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 6868
-Introduza uma jogada (N, S, E, W): S
+Score: 6868
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 4 ] [ 2 ] [ 4 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 6876
-Introduza uma jogada (N, S, E, W): S
+Score: 6876
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 4 ] [ 2 ] [ 4 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 6876
-Introduza uma jogada (N, S, E, W): W
+Score: 6876
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 8 ] [ 2 ] [ 4 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 6884
-Introduza uma jogada (N, S, E, W): S
+Score: 6884
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 2 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 16 ] [ 16 ] [ 32 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 6900
-Introduza uma jogada (N, S, E, W): S
+Score: 6900
+Pick a move (N, S, E, W): S
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 2 ] [ 4 ] [ 4 ] 
 [ 16 ] [ 16 ] [ 32 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 6904
-Introduza uma jogada (N, S, E, W): W
+Score: 6904
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 4 ] [ 8 ] [ 0 ] [ 0 ] 
 [ 32 ] [ 32 ] [ 8 ] [ 0 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 6948
-Introduza uma jogada (N, S, E, W): S
+Score: 6948
+Pick a move (N, S, E, W): S
 [ 2 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 4 ] [ 8 ] [ 2 ] [ 0 ] 
 [ 32 ] [ 32 ] [ 8 ] [ 0 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 6948
-Introduza uma jogada (N, S, E, W): W
+Score: 6948
+Pick a move (N, S, E, W): W
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 8 ] [ 2 ] [ 2 ] 
 [ 64 ] [ 8 ] [ 0 ] [ 0 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7016
-Introduza uma jogada (N, S, E, W): S
+Score: 7016
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 64 ] [ 16 ] [ 2 ] [ 2 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7040
-Introduza uma jogada (N, S, E, W): W
+Score: 7040
+Pick a move (N, S, E, W): W
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 2 ] 
 [ 64 ] [ 16 ] [ 4 ] [ 0 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7044
-Introduza uma jogada (N, S, E, W): S
+Score: 7044
+Pick a move (N, S, E, W): S
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 64 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7044
-Introduza uma jogada (N, S, E, W): W
+Score: 7044
+Pick a move (N, S, E, W): W
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 64 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7044
-Introduza uma jogada (N, S, E, W): W
+Score: 7044
+Pick a move (N, S, E, W): W
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 64 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7044
-Introduza uma jogada (N, S, E, W): S
+Score: 7044
+Pick a move (N, S, E, W): S
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 64 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7044
-Introduza uma jogada (N, S, E, W): W
+Score: 7044
+Pick a move (N, S, E, W): W
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 64 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7044
-Introduza uma jogada (N, S, E, W): S
+Score: 7044
+Pick a move (N, S, E, W): S
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 64 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7044
-Introduza uma jogada (N, S, E, W): W
+Score: 7044
+Pick a move (N, S, E, W): W
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 64 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7044
-Introduza uma jogada (N, S, E, W): W
+Score: 7044
+Pick a move (N, S, E, W): W
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 64 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7044
-Introduza uma jogada (N, S, E, W): S
+Score: 7044
+Pick a move (N, S, E, W): S
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 64 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7044
-Introduza uma jogada (N, S, E, W): W
+Score: 7044
+Pick a move (N, S, E, W): W
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 64 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7044
-Introduza uma jogada (N, S, E, W): S
+Score: 7044
+Pick a move (N, S, E, W): S
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 64 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7044
-Introduza uma jogada (N, S, E, W): E
+Score: 7044
+Pick a move (N, S, E, W): E
 [ 0 ] [ 4 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 0 ] [ 8 ] [ 2 ] 
 [ 64 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7044
-Introduza uma jogada (N, S, E, W): W
+Score: 7044
+Pick a move (N, S, E, W): W
 [ 8 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 64 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7052
-Introduza uma jogada (N, S, E, W): S
+Score: 7052
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 16 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 64 ] [ 16 ] [ 4 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7072
-Introduza uma jogada (N, S, E, W): S
+Score: 7072
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 2 ] [ 2 ] [ 2 ] 
 [ 64 ] [ 16 ] [ 4 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7072
-Introduza uma jogada (N, S, E, W): E
+Score: 7072
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 16 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7084
-Introduza uma jogada (N, S, E, W): S
+Score: 7084
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 16 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7084
-Introduza uma jogada (N, S, E, W): E
+Score: 7084
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 16 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7084
-Introduza uma jogada (N, S, E, W): E
+Score: 7084
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 16 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7084
-Introduza uma jogada (N, S, E, W): S
+Score: 7084
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 16 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7084
-Introduza uma jogada (N, S, E, W): E
+Score: 7084
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 16 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7084
-Introduza uma jogada (N, S, E, W): S
+Score: 7084
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 16 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7084
-Introduza uma jogada (N, S, E, W): S
+Score: 7084
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 16 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7084
-Introduza uma jogada (N, S, E, W): E
+Score: 7084
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 16 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7084
-Introduza uma jogada (N, S, E, W): S
+Score: 7084
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 16 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7084
-Introduza uma jogada (N, S, E, W): W
+Score: 7084
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 2 ] [ 4 ] [ 0 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7084
-Introduza uma jogada (N, S, E, W): S
+Score: 7084
+Pick a move (N, S, E, W): S
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 2 ] [ 4 ] [ 0 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7084
-Introduza uma jogada (N, S, E, W): E
+Score: 7084
+Pick a move (N, S, E, W): E
 [ 0 ] [ 2 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 16 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7084
-Introduza uma jogada (N, S, E, W): S
+Score: 7084
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 16 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7084
-Introduza uma jogada (N, S, E, W): W
+Score: 7084
+Pick a move (N, S, E, W): W
 [ 4 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 16 ] [ 2 ] [ 4 ] [ 0 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7088
-Introduza uma jogada (N, S, E, W): S
+Score: 7088
+Pick a move (N, S, E, W): S
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7088
-Introduza uma jogada (N, S, E, W): W
+Score: 7088
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7088
-Introduza uma jogada (N, S, E, W): S
+Score: 7088
+Pick a move (N, S, E, W): S
 [ 4 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 16 ] [ 4 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7092
-Introduza uma jogada (N, S, E, W): E
+Score: 7092
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 4 ] [ 2 ] 
 [ 4 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7100
-Introduza uma jogada (N, S, E, W): S
+Score: 7100
+Pick a move (N, S, E, W): S
 [ 4 ] [ 0 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 8 ] [ 4 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7104
-Introduza uma jogada (N, S, E, W): S
+Score: 7104
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 4 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 4 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7112
-Introduza uma jogada (N, S, E, W): E
+Score: 7112
+Pick a move (N, S, E, W): E
 [ 2 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 4 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7112
-Introduza uma jogada (N, S, E, W): S
+Score: 7112
+Pick a move (N, S, E, W): S
 [ 2 ] [ 0 ] [ 2 ] [ 2 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 8 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7120
-Introduza uma jogada (N, S, E, W): S
+Score: 7120
+Pick a move (N, S, E, W): S
 [ 2 ] [ 2 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 64 ] [ 16 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7136
-Introduza uma jogada (N, S, E, W): E
+Score: 7136
+Pick a move (N, S, E, W): E
 [ 0 ] [ 2 ] [ 2 ] [ 4 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7172
-Introduza uma jogada (N, S, E, W): E
+Score: 7172
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 4 ] [ 4 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 2 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7176
-Introduza uma jogada (N, S, E, W): S
+Score: 7176
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 4 ] [ 4 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 2 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7176
-Introduza uma jogada (N, S, E, W): E
+Score: 7176
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): E
+Score: 7188
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): S
+Score: 7188
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): S
+Score: 7188
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): E
+Score: 7188
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): S
+Score: 7188
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): E
+Score: 7188
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): S
+Score: 7188
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): E
+Score: 7188
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): E
+Score: 7188
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): S
+Score: 7188
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): E
+Score: 7188
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): E
+Score: 7188
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): S
+Score: 7188
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): E
+Score: 7188
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): E
+Score: 7188
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): E
+Score: 7188
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): S
+Score: 7188
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): E
+Score: 7188
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): E
+Score: 7188
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): E
+Score: 7188
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): S
+Score: 7188
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): S
+Score: 7188
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): E
+Score: 7188
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): S
+Score: 7188
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): S
+Score: 7188
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): W
+Score: 7188
+Pick a move (N, S, E, W): W
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7188
-Introduza uma jogada (N, S, E, W): S
+Score: 7188
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 2 ] [ 0 ] 
 [ 16 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7204
-Introduza uma jogada (N, S, E, W): S
+Score: 7204
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 2 ] [ 0 ] 
 [ 16 ] [ 16 ] [ 8 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7204
-Introduza uma jogada (N, S, E, W): W
+Score: 7204
+Pick a move (N, S, E, W): W
 [ 4 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 32 ] [ 8 ] [ 2 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7240
-Introduza uma jogada (N, S, E, W): S
+Score: 7240
+Pick a move (N, S, E, W): S
 [ 4 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 32 ] [ 8 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7240
-Introduza uma jogada (N, S, E, W): W
+Score: 7240
+Pick a move (N, S, E, W): W
 [ 8 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 32 ] [ 8 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7248
-Introduza uma jogada (N, S, E, W): S
+Score: 7248
+Pick a move (N, S, E, W): S
 [ 8 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 32 ] [ 8 ] [ 4 ] [ 4 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7252
-Introduza uma jogada (N, S, E, W): W
+Score: 7252
+Pick a move (N, S, E, W): W
 [ 8 ] [ 2 ] [ 2 ] [ 0 ] 
 [ 32 ] [ 8 ] [ 8 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7260
-Introduza uma jogada (N, S, E, W): S
+Score: 7260
+Pick a move (N, S, E, W): S
 [ 8 ] [ 2 ] [ 2 ] [ 0 ] 
 [ 32 ] [ 8 ] [ 8 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7260
-Introduza uma jogada (N, S, E, W): W
+Score: 7260
+Pick a move (N, S, E, W): W
 [ 8 ] [ 4 ] [ 0 ] [ 2 ] 
 [ 32 ] [ 16 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7280
-Introduza uma jogada (N, S, E, W): W
+Score: 7280
+Pick a move (N, S, E, W): W
 [ 8 ] [ 4 ] [ 2 ] [ 0 ] 
 [ 32 ] [ 16 ] [ 0 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7280
-Introduza uma jogada (N, S, E, W): S
+Score: 7280
+Pick a move (N, S, E, W): S
 [ 8 ] [ 4 ] [ 2 ] [ 0 ] 
 [ 32 ] [ 16 ] [ 2 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7280
-Introduza uma jogada (N, S, E, W): W
+Score: 7280
+Pick a move (N, S, E, W): W
 [ 8 ] [ 4 ] [ 2 ] [ 0 ] 
 [ 32 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7284
-Introduza uma jogada (N, S, E, W): S
+Score: 7284
+Pick a move (N, S, E, W): S
 [ 8 ] [ 4 ] [ 2 ] [ 0 ] 
 [ 32 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7284
-Introduza uma jogada (N, S, E, W): W
+Score: 7284
+Pick a move (N, S, E, W): W
 [ 8 ] [ 4 ] [ 2 ] [ 0 ] 
 [ 32 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7284
-Introduza uma jogada (N, S, E, W): W
+Score: 7284
+Pick a move (N, S, E, W): W
 [ 8 ] [ 4 ] [ 2 ] [ 0 ] 
 [ 32 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7284
-Introduza uma jogada (N, S, E, W): S
+Score: 7284
+Pick a move (N, S, E, W): S
 [ 8 ] [ 4 ] [ 2 ] [ 0 ] 
 [ 32 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7284
-Introduza uma jogada (N, S, E, W): W
+Score: 7284
+Pick a move (N, S, E, W): W
 [ 8 ] [ 4 ] [ 2 ] [ 0 ] 
 [ 32 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7284
-Introduza uma jogada (N, S, E, W): S
+Score: 7284
+Pick a move (N, S, E, W): S
 [ 8 ] [ 4 ] [ 2 ] [ 0 ] 
 [ 32 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7284
-Introduza uma jogada (N, S, E, W): E
+Score: 7284
+Pick a move (N, S, E, W): E
 [ 2 ] [ 8 ] [ 4 ] [ 2 ] 
 [ 32 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7284
-Introduza uma jogada (N, S, E, W): W
+Score: 7284
+Pick a move (N, S, E, W): W
 [ 2 ] [ 8 ] [ 4 ] [ 2 ] 
 [ 32 ] [ 16 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7284
-Introduza uma jogada (N, S, E, W): S
+Score: 7284
+Pick a move (N, S, E, W): S
 [ 2 ] [ 8 ] [ 0 ] [ 2 ] 
 [ 32 ] [ 16 ] [ 8 ] [ 4 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7296
-Introduza uma jogada (N, S, E, W): S
+Score: 7296
+Pick a move (N, S, E, W): S
 [ 2 ] [ 8 ] [ 0 ] [ 2 ] 
 [ 32 ] [ 16 ] [ 8 ] [ 4 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7296
-Introduza uma jogada (N, S, E, W): E
+Score: 7296
+Pick a move (N, S, E, W): E
 [ 4 ] [ 2 ] [ 8 ] [ 2 ] 
 [ 32 ] [ 16 ] [ 8 ] [ 4 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7296
-Introduza uma jogada (N, S, E, W): S
+Score: 7296
+Pick a move (N, S, E, W): S
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 32 ] [ 16 ] [ 16 ] [ 4 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7312
-Introduza uma jogada (N, S, E, W): E
+Score: 7312
+Pick a move (N, S, E, W): E
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 32 ] [ 32 ] [ 4 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7344
-Introduza uma jogada (N, S, E, W): E
+Score: 7344
+Pick a move (N, S, E, W): E
 [ 4 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 2 ] [ 64 ] [ 4 ] 
 [ 2 ] [ 4 ] [ 64 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7408
-Introduza uma jogada (N, S, E, W): S
+Score: 7408
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 2 ] 
 [ 4 ] [ 4 ] [ 4 ] [ 4 ] 
 [ 4 ] [ 4 ] [ 128 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7544
-Introduza uma jogada (N, S, E, W): E
+Score: 7544
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 0 ] [ 0 ] [ 8 ] [ 8 ] 
 [ 0 ] [ 8 ] [ 128 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 128 ] [ 64 ] 
-Pontuacao: 7572
-Introduza uma jogada (N, S, E, W): S
+Score: 7572
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 2 ] [ 0 ] [ 2 ] [ 8 ] 
 [ 0 ] [ 8 ] [ 8 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 7828
-Introduza uma jogada (N, S, E, W): S
+Score: 7828
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 2 ] [ 2 ] [ 8 ] 
 [ 2 ] [ 8 ] [ 8 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 7828
-Introduza uma jogada (N, S, E, W): E
+Score: 7828
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 8 ] 
 [ 2 ] [ 2 ] [ 16 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 7848
-Introduza uma jogada (N, S, E, W): S
+Score: 7848
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 8 ] 
 [ 2 ] [ 2 ] [ 16 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 7848
-Introduza uma jogada (N, S, E, W): W
+Score: 7848
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 8 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 32 ] [ 0 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 7852
-Introduza uma jogada (N, S, E, W): S
+Score: 7852
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 2 ] [ 0 ] 
 [ 4 ] [ 8 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 0 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 7860
-Introduza uma jogada (N, S, E, W): E
+Score: 7860
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 4 ] [ 4 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 8 ] 
 [ 0 ] [ 8 ] [ 16 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 7864
-Introduza uma jogada (N, S, E, W): S
+Score: 7864
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 4 ] [ 0 ] [ 8 ] [ 8 ] 
 [ 0 ] [ 8 ] [ 16 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 7872
-Introduza uma jogada (N, S, E, W): W
+Score: 7872
+Pick a move (N, S, E, W): W
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 0 ] [ 2 ] 
 [ 8 ] [ 16 ] [ 32 ] [ 0 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 7888
-Introduza uma jogada (N, S, E, W): S
+Score: 7888
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 8 ] [ 32 ] [ 32 ] [ 2 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 7928
-Introduza uma jogada (N, S, E, W): W
+Score: 7928
+Pick a move (N, S, E, W): W
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 64 ] [ 2 ] [ 2 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 7992
-Introduza uma jogada (N, S, E, W): S
+Score: 7992
+Pick a move (N, S, E, W): S
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 64 ] [ 2 ] [ 2 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8008
-Introduza uma jogada (N, S, E, W): E
+Score: 8008
+Pick a move (N, S, E, W): E
 [ 0 ] [ 2 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 16 ] [ 64 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8012
-Introduza uma jogada (N, S, E, W): S
+Score: 8012
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 0 ] [ 2 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 16 ] [ 64 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8016
-Introduza uma jogada (N, S, E, W): S
+Score: 8016
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 2 ] [ 0 ] 
 [ 0 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8024
-Introduza uma jogada (N, S, E, W): E
+Score: 8024
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): S
+Score: 8028
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): S
+Score: 8028
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): E
+Score: 8028
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): E
+Score: 8028
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): S
+Score: 8028
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): E
+Score: 8028
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): E
+Score: 8028
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): S
+Score: 8028
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): S
+Score: 8028
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): E
+Score: 8028
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): S
+Score: 8028
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): E
+Score: 8028
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): S
+Score: 8028
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): E
+Score: 8028
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): E
+Score: 8028
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): S
+Score: 8028
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): E
+Score: 8028
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): E
+Score: 8028
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): S
+Score: 8028
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): E
+Score: 8028
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): E
+Score: 8028
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): E
+Score: 8028
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): S
+Score: 8028
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): E
+Score: 8028
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): E
+Score: 8028
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): E
+Score: 8028
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): S
+Score: 8028
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): S
+Score: 8028
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): E
+Score: 8028
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): S
+Score: 8028
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): S
+Score: 8028
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): W
+Score: 8028
+Pick a move (N, S, E, W): W
 [ 2 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8028
-Introduza uma jogada (N, S, E, W): S
+Score: 8028
+Pick a move (N, S, E, W): S
 [ 0 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8040
-Introduza uma jogada (N, S, E, W): S
+Score: 8040
+Pick a move (N, S, E, W): S
 [ 0 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8040
-Introduza uma jogada (N, S, E, W): W
+Score: 8040
+Pick a move (N, S, E, W): W
 [ 4 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 2 ] [ 8 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8040
-Introduza uma jogada (N, S, E, W): S
+Score: 8040
+Pick a move (N, S, E, W): S
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 2 ] [ 2 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8040
-Introduza uma jogada (N, S, E, W): W
+Score: 8040
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8044
-Introduza uma jogada (N, S, E, W): S
+Score: 8044
+Pick a move (N, S, E, W): S
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8044
-Introduza uma jogada (N, S, E, W): W
+Score: 8044
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8044
-Introduza uma jogada (N, S, E, W): S
+Score: 8044
+Pick a move (N, S, E, W): S
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8044
-Introduza uma jogada (N, S, E, W): W
+Score: 8044
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8044
-Introduza uma jogada (N, S, E, W): W
+Score: 8044
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8044
-Introduza uma jogada (N, S, E, W): S
+Score: 8044
+Pick a move (N, S, E, W): S
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8044
-Introduza uma jogada (N, S, E, W): W
+Score: 8044
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8044
-Introduza uma jogada (N, S, E, W): S
+Score: 8044
+Pick a move (N, S, E, W): S
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8044
-Introduza uma jogada (N, S, E, W): W
+Score: 8044
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8044
-Introduza uma jogada (N, S, E, W): W
+Score: 8044
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8044
-Introduza uma jogada (N, S, E, W): S
+Score: 8044
+Pick a move (N, S, E, W): S
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8044
-Introduza uma jogada (N, S, E, W): W
+Score: 8044
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8044
-Introduza uma jogada (N, S, E, W): S
+Score: 8044
+Pick a move (N, S, E, W): S
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8044
-Introduza uma jogada (N, S, E, W): E
+Score: 8044
+Pick a move (N, S, E, W): E
 [ 0 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 8 ] [ 4 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8044
-Introduza uma jogada (N, S, E, W): W
+Score: 8044
+Pick a move (N, S, E, W): W
 [ 2 ] [ 4 ] [ 2 ] [ 2 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8044
-Introduza uma jogada (N, S, E, W): S
+Score: 8044
+Pick a move (N, S, E, W): S
 [ 0 ] [ 4 ] [ 2 ] [ 2 ] 
 [ 4 ] [ 8 ] [ 4 ] [ 2 ] 
 [ 4 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8048
-Introduza uma jogada (N, S, E, W): S
+Score: 8048
+Pick a move (N, S, E, W): S
 [ 0 ] [ 4 ] [ 2 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 4 ] [ 4 ] 
 [ 8 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8060
-Introduza uma jogada (N, S, E, W): E
+Score: 8060
+Pick a move (N, S, E, W): E
 [ 2 ] [ 0 ] [ 4 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 8 ] [ 8 ] 
 [ 8 ] [ 16 ] [ 64 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8068
-Introduza uma jogada (N, S, E, W): S
+Score: 8068
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 4 ] [ 0 ] 
 [ 2 ] [ 2 ] [ 8 ] [ 2 ] 
 [ 8 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8084
-Introduza uma jogada (N, S, E, W): E
+Score: 8084
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 4 ] [ 4 ] [ 8 ] [ 2 ] 
 [ 8 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8088
-Introduza uma jogada (N, S, E, W): E
+Score: 8088
+Pick a move (N, S, E, W): E
 [ 4 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 0 ] [ 8 ] [ 8 ] [ 2 ] 
 [ 8 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8096
-Introduza uma jogada (N, S, E, W): S
+Score: 8096
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 2 ] [ 4 ] 
 [ 4 ] [ 8 ] [ 8 ] [ 2 ] 
 [ 8 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8096
-Introduza uma jogada (N, S, E, W): E
+Score: 8096
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 4 ] [ 4 ] 
 [ 2 ] [ 4 ] [ 16 ] [ 2 ] 
 [ 8 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8116
-Introduza uma jogada (N, S, E, W): S
+Score: 8116
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 4 ] [ 4 ] 
 [ 2 ] [ 4 ] [ 16 ] [ 2 ] 
 [ 8 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8116
-Introduza uma jogada (N, S, E, W): S
+Score: 8116
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 4 ] [ 4 ] 
 [ 2 ] [ 4 ] [ 16 ] [ 2 ] 
 [ 8 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8116
-Introduza uma jogada (N, S, E, W): E
+Score: 8116
+Pick a move (N, S, E, W): E
 [ 2 ] [ 0 ] [ 0 ] [ 8 ] 
 [ 2 ] [ 4 ] [ 16 ] [ 2 ] 
 [ 8 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8124
-Introduza uma jogada (N, S, E, W): S
+Score: 8124
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 8 ] 
 [ 4 ] [ 4 ] [ 16 ] [ 2 ] 
 leiro_preenche_posicao(T, C, 4)
@@ -4098,371 +4098,371 @@ J = pede_jogada()
 S
 T = tabuleiro_re[ 8 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8128
-Introduza uma jogada (N, S, E, W): W
+Score: 8128
+Pick a move (N, S, E, W): W
 [ 2 ] [ 8 ] [ 0 ] [ 0 ] 
 [ 8 ] [ 16 ] [ 2 ] [ 2 ] 
 [ 8 ] [ 16 ] [ 64 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8136
-Introduza uma jogada (N, S, E, W): S
+Score: 8136
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 2 ] [ 8 ] [ 2 ] [ 2 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8184
-Introduza uma jogada (N, S, E, W): E
+Score: 8184
+Pick a move (N, S, E, W): E
 [ 2 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 2 ] [ 8 ] [ 4 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8188
-Introduza uma jogada (N, S, E, W): S
+Score: 8188
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 2 ] 
 [ 2 ] [ 2 ] [ 8 ] [ 4 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8188
-Introduza uma jogada (N, S, E, W): W
+Score: 8188
+Pick a move (N, S, E, W): W
 [ 4 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 4 ] [ 8 ] [ 4 ] [ 0 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8196
-Introduza uma jogada (N, S, E, W): S
+Score: 8196
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 8 ] [ 8 ] [ 4 ] [ 2 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8204
-Introduza uma jogada (N, S, E, W): W
+Score: 8204
+Pick a move (N, S, E, W): W
 [ 4 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 16 ] [ 4 ] [ 2 ] [ 0 ] 
 [ 16 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8220
-Introduza uma jogada (N, S, E, W): S
+Score: 8220
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 8 ] [ 2 ] [ 0 ] 
 [ 32 ] [ 32 ] [ 64 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8260
-Introduza uma jogada (N, S, E, W): E
+Score: 8260
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 2 ] [ 2 ] 
 [ 0 ] [ 4 ] [ 8 ] [ 2 ] 
 [ 0 ] [ 64 ] [ 64 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8324
-Introduza uma jogada (N, S, E, W): S
+Score: 8324
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 8 ] [ 4 ] 
 [ 0 ] [ 64 ] [ 64 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8328
-Introduza uma jogada (N, S, E, W): S
+Score: 8328
+Pick a move (N, S, E, W): S
 [ 2 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 0 ] [ 4 ] [ 8 ] [ 4 ] 
 [ 2 ] [ 64 ] [ 64 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8328
-Introduza uma jogada (N, S, E, W): E
+Score: 8328
+Pick a move (N, S, E, W): E
 [ 0 ] [ 2 ] [ 0 ] [ 4 ] 
 [ 0 ] [ 4 ] [ 8 ] [ 4 ] 
 [ 0 ] [ 2 ] [ 128 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8460
-Introduza uma jogada (N, S, E, W): S
+Score: 8460
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 4 ] [ 8 ] [ 8 ] 
 [ 0 ] [ 2 ] [ 128 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8468
-Introduza uma jogada (N, S, E, W): S
+Score: 8468
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 4 ] [ 8 ] [ 8 ] 
 [ 0 ] [ 2 ] [ 128 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8468
-Introduza uma jogada (N, S, E, W): E
+Score: 8468
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 2 ] [ 0 ] [ 4 ] [ 16 ] 
 [ 0 ] [ 2 ] [ 128 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8488
-Introduza uma jogada (N, S, E, W): S
+Score: 8488
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 0 ] [ 4 ] [ 4 ] 
 [ 2 ] [ 2 ] [ 128 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8520
-Introduza uma jogada (N, S, E, W): E
+Score: 8520
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 2 ] [ 2 ] [ 8 ] 
 [ 0 ] [ 4 ] [ 128 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8532
-Introduza uma jogada (N, S, E, W): E
+Score: 8532
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 8 ] 
 [ 4 ] [ 4 ] [ 128 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8536
-Introduza uma jogada (N, S, E, W): S
+Score: 8536
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 8 ] 
 [ 4 ] [ 4 ] [ 128 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8536
-Introduza uma jogada (N, S, E, W): E
+Score: 8536
+Pick a move (N, S, E, W): E
 [ 4 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 8 ] 
 [ 0 ] [ 8 ] [ 128 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8544
-Introduza uma jogada (N, S, E, W): S
+Score: 8544
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 4 ] [ 8 ] 
 [ 4 ] [ 8 ] [ 128 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8544
-Introduza uma jogada (N, S, E, W): S
+Score: 8544
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 2 ] [ 0 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 8 ] 
 [ 4 ] [ 8 ] [ 128 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8544
-Introduza uma jogada (N, S, E, W): E
+Score: 8544
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 2 ] [ 2 ] [ 4 ] [ 8 ] 
 [ 4 ] [ 8 ] [ 128 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8544
-Introduza uma jogada (N, S, E, W): S
+Score: 8544
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 2 ] [ 2 ] [ 4 ] [ 8 ] 
 [ 4 ] [ 8 ] [ 128 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8544
-Introduza uma jogada (N, S, E, W): W
+Score: 8544
+Pick a move (N, S, E, W): W
 [ 2 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 4 ] [ 8 ] [ 0 ] 
 [ 4 ] [ 8 ] [ 128 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8548
-Introduza uma jogada (N, S, E, W): S
+Score: 8548
+Pick a move (N, S, E, W): S
 [ 0 ] [ 2 ] [ 2 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 8 ] [ 0 ] 
 [ 8 ] [ 8 ] [ 128 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8556
-Introduza uma jogada (N, S, E, W): E
+Score: 8556
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 8 ] 
 [ 0 ] [ 16 ] [ 128 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8576
-Introduza uma jogada (N, S, E, W): S
+Score: 8576
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 2 ] [ 4 ] 
 [ 0 ] [ 2 ] [ 4 ] [ 8 ] 
 [ 0 ] [ 16 ] [ 128 ] [ 32 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8576
-Introduza uma jogada (N, S, E, W): W
+Score: 8576
+Pick a move (N, S, E, W): W
 [ 2 ] [ 4 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 4 ] [ 8 ] [ 0 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 2 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8576
-Introduza uma jogada (N, S, E, W): S
+Score: 8576
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 8 ] [ 8 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 2 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8588
-Introduza uma jogada (N, S, E, W): W
+Score: 8588
+Pick a move (N, S, E, W): W
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 2 ] [ 0 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 2 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8604
-Introduza uma jogada (N, S, E, W): S
+Score: 8604
+Pick a move (N, S, E, W): S
 [ 2 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 16 ] [ 2 ] [ 0 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 2 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8604
-Introduza uma jogada (N, S, E, W): E
+Score: 8604
+Pick a move (N, S, E, W): E
 [ 0 ] [ 4 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 4 ] [ 16 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 2 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8604
-Introduza uma jogada (N, S, E, W): S
+Score: 8604
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 4 ] [ 0 ] 
 [ 0 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8616
-Introduza uma jogada (N, S, E, W): S
+Score: 8616
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 4 ] [ 0 ] 
 [ 0 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8616
-Introduza uma jogada (N, S, E, W): E
+Score: 8616
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8616
-Introduza uma jogada (N, S, E, W): S
+Score: 8616
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8616
-Introduza uma jogada (N, S, E, W): S
+Score: 8616
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8616
-Introduza uma jogada (N, S, E, W): E
+Score: 8616
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8616
-Introduza uma jogada (N, S, E, W): S
+Score: 8616
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8616
-Introduza uma jogada (N, S, E, W): E
+Score: 8616
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8616
-Introduza uma jogada (N, S, E, W): E
+Score: 8616
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8616
-Introduza uma jogada (N, S, E, W): S
+Score: 8616
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8616
-Introduza uma jogada (N, S, E, W): E
+Score: 8616
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8616
-Introduza uma jogada (N, S, E, W): S
+Score: 8616
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8616
-Introduza uma jogada (N, S, E, W): S
+Score: 8616
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8616
-Introduza uma jogada (N, S, E, W): E
+Score: 8616
+Pick a move (N, S, E, W): E
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8616
-Introduza uma jogada (N, S, E, W): S
+Score: 8616
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 4 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8616
-Introduza uma jogada (N, S, E, W): W
+Score: 8616
+Pick a move (N, S, E, W): W
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8616
-Introduza uma jogada (N, S, E, W): S
+Score: 8616
+Pick a move (N, S, E, W): S
 [ 4 ] [ 2 ] [ 0 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8616
-Introduza uma jogada (N, S, E, W): E
+Score: 8616
+Pick a move (N, S, E, W): E
 [ 0 ] [ 2 ] [ 4 ] [ 2 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8616
-Introduza uma jogada (N, S, E, W): S
+Score: 8616
+Pick a move (N, S, E, W): S
 [ 2 ] [ 2 ] [ 4 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 4 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8620
-Introduza uma jogada (N, S, E, W): W
+Score: 8620
+Pick a move (N, S, E, W): W
 [ 4 ] [ 4 ] [ 0 ] [ 2 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 4 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 4 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8624
-Introduza uma jogada (N, S, E, W): S
+Score: 8624
+Pick a move (N, S, E, W): S
 [ 4 ] [ 4 ] [ 2 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8632
-Introduza uma jogada (N, S, E, W): W
+Score: 8632
+Pick a move (N, S, E, W): W
 [ 8 ] [ 2 ] [ 0 ] [ 2 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 2 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8640
-Introduza uma jogada (N, S, E, W): S
+Score: 8640
+Pick a move (N, S, E, W): S
 [ 8 ] [ 2 ] [ 2 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 4 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8644
-Introduza uma jogada (N, S, E, W): E
+Score: 8644
+Pick a move (N, S, E, W): E
 [ 0 ] [ 2 ] [ 8 ] [ 4 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 4 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8648
-Introduza uma jogada (N, S, E, W): S
+Score: 8648
+Pick a move (N, S, E, W): S
 [ 4 ] [ 2 ] [ 8 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 8 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 8 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8656
-Introduza uma jogada (N, S, E, W): S
+Score: 8656
+Pick a move (N, S, E, W): S
 [ 4 ] [ 2 ] [ 8 ] [ 0 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 4 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8672
-Introduza uma jogada (N, S, E, W): E
+Score: 8672
+Pick a move (N, S, E, W): E
 [ 2 ] [ 4 ] [ 2 ] [ 8 ] 
 [ 2 ] [ 8 ] [ 16 ] [ 4 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8672
-Introduza uma jogada (N, S, E, W): S
+Score: 8672
+Pick a move (N, S, E, W): S
 [ 2 ] [ 4 ] [ 2 ] [ 8 ] 
 [ 4 ] [ 8 ] [ 16 ] [ 4 ] 
 [ 16 ] [ 128 ] [ 32 ] [ 16 ] 
 [ 256 ] [ 512 ] [ 256 ] [ 64 ] 
-Pontuacao: 8676
+Score: 8676
 True

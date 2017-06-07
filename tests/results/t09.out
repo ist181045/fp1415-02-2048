@@ -6,8 +6,8 @@ True
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
-Pontuacao: 0
-Introduza uma jogada (N, S, E, W): W
+Score: 0
+Pick a move (N, S, E, W): W
 True
 True
 False
@@ -15,12 +15,12 @@ False
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
-Pontuacao: 4
-Introduza uma jogada (N, S, E, W): S
+Score: 4
+Pick a move (N, S, E, W): S
 [ 0 ] [ 0 ] [ 0 ] [ 2 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 0 ] [ 0 ] [ 0 ] [ 0 ] 
 [ 4 ] [ 0 ] [ 0 ] [ 2 ] 
-Pontuacao: 4
+Score: 4
 True
 False
