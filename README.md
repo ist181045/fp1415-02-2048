@@ -1,33 +1,31 @@
-# 2048 [EN](README.en.md)
-### 2º Projecto de FP - 14'15
+# 2048 [PT](README.pt_PT.md)
+### 2nd FP Project - 14'15
 
 ---
 
-### Descrição do Problema
+### Problem Description
 
-2048 é um quebra-cabeças matemático em que um jogador desliza painéis 
-numerados numa grelha quadrada de 4 x 4 quadrados. O jogo foi criado em Março 
-de 2014 por Gabriele Cirulli, um progamador web italiano, e está disponível 
-gratuitamente na web e como uma app para as várias plataformas móveis.
+2048 is a mathematical brain teaser in which the player slides panels numbered
+in a 4 x 4 square grid. The game was created in March 2014 by Gabriele Cirulli,
+an italian web programmer, and is available for free on the web and as an app
+for various mobile platforms.
 
-O objectivo do jogo é combinar painéis com o mesmo número até criar um painel 
-com o número 2048. Para tal, o jogador pode "arrastar" os painéis em cada uma 
-das quatro direcções - para cima, baixo, esquerda e direita. Quando uma acção 
-é aplicada ao tabuleiro, esta afecta *todos* os painéis com espaço para se 
-deslocarem.
+The goal of the game is to combine panels with the same number in order to
+create a panel with the number 2048. In order to do that, the player can "drag"
+the panels in each of four directions - up, down, left and right. When an action
+is applied to the board, this affects *all* the panels with room to move.
 
-Após cada movimento, um novo painel aparece numa posição livre do tabuleiro, 
-escolhida aleatoriamente. Este novo painel tem o número 2 ou o número 4.
+After each move, a new panel appears in a free position of the board, chosen
+randomly. This new panel has the number 2 or the number 4.
 
-O objectivo deste projecto é escrever um programa em `Python` que permita 
-definir um conjunto de tipos de dados que deverão ser utilizados para 
-manipular a informação necessária ao decorrer do jogo, bem como um conjunto 
-de funções adicionais que permitirão jogar o jogo propriamente dito.
+With this project, it is intended that a program is written in `Python` that
+defines a set of data types that should be used to manipulate the necessary
+information during the game, as well as a set of aditional helper functions that
+will allow the user to play the game itself.
 
 ---
 
-Mais informação no Enunciado do Projecto: [PT][PT] - [EN][EN]
+More information in the Problem's Statement: [PT][PT] - [EN][EN]
 
 [PT]: statement_pt.pdf "Enunciado do Projecto"
 [EN]: statement_en.pdf "Problem Statement"
-
