@@ -329,12 +329,15 @@ def request_move():
         - Prompts the user to insert a move, returning it, if valid one """
     
     while True:
-        move = input('Pick a move (N, S, E, W): ')
-        if not is_move(move):
-            print('Invalid move.')
-        else:
-            break
-    return move
+        try:
+            move = input('Pick a move (N, S, E, W): ')
+            if is_move(move):
+                return move
+            else:
+                print('Invalid move.')
+        except EOFError as error:
+            print()
+            exit(0)
 
 
 def copy_board(board):
@@ -430,3 +433,9 @@ def position_in_board(board, value):
                 if board_position(board, create_coordinate(i, j)) == value:
                     return True
     return False
+
+def main():
+    game_2048()
+
+if __name__ == '__main__':
+    main()
