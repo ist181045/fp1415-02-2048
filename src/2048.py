@@ -92,11 +92,7 @@ def create_board():
         - Creates a dictionary which has 2 keys, one for the board itself, a
         list, and another for the score, an integer """
     
-    board = list()
-    # A list with ROWS lists, each with COLS elements
-    for i in range(ROWS):
-        board = board + [[0] * COLS]
-    return {'board': board, 'score': 0}
+    return {'board': [[0] * COLS for _ in range(ROWS)], 'score': 0}
 
 # ---------------------------------------------------------------------------- #
 # |                                ACCESSORS                                 | #
