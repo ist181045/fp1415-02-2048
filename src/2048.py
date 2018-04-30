@@ -9,7 +9,6 @@
 ROWS = COLS = 4
 
 
-
 ## ========================================================================== ##
 ## -------------------------------------------------------------------------- ##
 ## |                             Coordinate ADT                             | ##
@@ -26,8 +25,8 @@ def create_coordinate(row, col):
         coordinate (tuple). Raises a ValueError if the parameters are
         invalid """
     
-    if isinstance(row, int) and 1 <= row <= ROWS \
-            and isinstance(col, int) and 1 <= col <= COLS:
+    if (isinstance(row, int) and 1 <= row <= ROWS
+            and isinstance(col, int) and 1 <= col <= COLS):
         return (row, col)
     else:
         raise ValueError('create_coordinate: invalid arguments')
@@ -42,6 +41,7 @@ def coordinate_row(coord):
         - Returns a coordinate's row """
     
     return coord[0]
+
 
 def coordinate_col(coord):
     """ coordinate_row : coordinate -> integer
@@ -59,9 +59,9 @@ def is_coordinate(arg):
         - Checks if the given argument is a coordinate, checking if its
         representation corresponds with the one defined """
     
-    return isinstance(arg, tuple) and len(arg) == 2 \
-            and isinstance(arg[0], int) and isinstance(arg[1], int) \
-            and 1 <= arg[0] <= ROWS and 1 <= arg[1] <= COLS
+    return (isinstance(arg, tuple) and len(arg) == 2
+            and isinstance(arg[0], int) and isinstance(arg[1], int)
+            and 1 <= arg[0] <= ROWS and 1 <= arg[1] <= COLS)
 
 
 # ---------------------------------------------------------------------------- #
@@ -73,9 +73,8 @@ def coordinates_equal(c1, c2):
         - Tests if two coordinates are the same, comparing their components.
         (a, b) = (c, d) if a == c AND b == d """
 
-    return coordinate_row(c1) == coordinate_row(c2) \
-            and coordinate_col(c1) == coordinate_col(c2)
-
+    return (coordinate_row(c1) == coordinate_row(c2)
+            and coordinate_col(c1) == coordinate_col(c2))
 
 
 ## ========================================================================== ##
@@ -103,22 +102,26 @@ def create_board():
 # |                                ACCESSORS                                 | #
 # ---------------------------------------------------------------------------- #
 
+
 def board_position(board, coord):
     """ board_position: board x coordinate -> integer
         - Returns the value of the panel in the given board at the given
         coordinates """
     
     if is_coordinate(coord):
-        return board['board'] \
-                [coordinate_row(coord) - 1][coordinate_col(coord) - 1]
+        row = coordinate_row(coord) - 1
+        col = coordinate_col(coord) - 1
+        return board['board'][row][col]
     else:
         raise ValueError('board_position: invalid arguments')
+
 
 def board_score(board):
     """ board_score: board -> integer
         - Returns the score of the given board """
     
     return board['score']
+
 
 def board_empty_positions(board):
     """ board_empty_positions: board -> list
@@ -144,11 +147,13 @@ def board_fill_position(board, coord, value):
         with the given value and returns the modified board """
     
     if is_coordinate(coord) and isinstance(value, int):
-        board['board'][coordinate_row(coord) - 1] \
-                        [coordinate_col(coord) - 1] = value
+        row = coordinate_row(coord) - 1
+        col = coordinate_col(coord) - 1
+        board['board'][row][col] = value
         return board
     else:
         raise ValueError('board_fill_position: invalid arguments')
+
 
 def board_update_position(board, value):
     """ board_update_position: board x integer -> board
@@ -156,10 +161,11 @@ def board_update_position(board, value):
         the updated score """
     
     if isinstance(value, int) and value >= 0 and value % 4 == 0:
-        board['score'] = board['score'] + value
+        board['score'] += value
         return board
     else:
         raise ValueError('board_update_position: invalid arguments')
+
 
 def board_reduce(board, move):
     """ board_reduce: board x string -> board
@@ -169,12 +175,12 @@ def board_reduce(board, move):
     if not is_move(move):
         raise ValueError('board_reduce: invalid arguments')
 
-    coord_orig, coord_dest = 0, 0 # Initialization
+    coord_orig, coord_dest = 0, 0  # Initialization
     # Distinction between horizontal and vertical moves. Allows boards with
     # generic dimensions n x p (where n may or not be equal to p)
     if move in ('N', 'S'):
         for j in range(1, COLS + 1):
-            locked = [] # Coords of positions where combinations occurred
+            locked = []  # Coords of positions where combinations occurred
             for k in range(ROWS - 1):
                 for i in range(2, ROWS + 1 - k):            
                     if move == 'N':
@@ -185,8 +191,8 @@ def board_reduce(board, move):
                         coord_dest = create_coordinate(ROWS + 2 - i, j)
                     # Moves the panel, if possible. Combines and locks the
                     # coordinates where combos occurred during a swipe
-                    board, locked =
-                        move_piece(board, coord_orig, coord_dest, locked)
+                    board, locked = move_piece(
+                        board, coord_orig, coord_dest, locked)
     elif move in ('E', 'W'):
         for j in range(1, ROWS + 1):
             locked = []
@@ -198,8 +204,8 @@ def board_reduce(board, move):
                     else:
                         coord_orig = create_coordinate(j, i)
                         coord_dest = create_coordinate(j, i - 1)
-                    board, locked =
-                        move_piece(board, coord_orig, coord_dest, locked)
+                    board, locked = move_piece(
+                        board, coord_orig, coord_dest, locked)
         return board
 
 
@@ -223,13 +229,14 @@ def move_piece(board, coord_orig, coord_dest, locked):
         if coordinate_in_list(coord_orig, locked):
             return board, locked
         else:
-            valor = value_orig + value_dest
-            board_fill_position(board, coord_dest, valor)
+            value = value_orig + value_dest
+            board_fill_position(board, coord_dest, value)
             board_fill_position(board, coord_orig, 0)
-            board_update_position(board, valor)
-            locked = locked + [coord_orig] + [coord_dest]
+            board_update_position(board, value)
+            locked += [coord_orig] + [coord_dest]
     
     return board, locked
+
 
 def coordinate_in_list(coord, lst):
     """ coordinate_in_list : coordinate x list -> bool
@@ -253,10 +260,10 @@ def is_board(arg):
         - Checks if the given argument is a board, checking its representation,
         dimension and if the dictionary keys 'board' and 'score' exist """
     
-    is_board = isinstance(arg, dict) and len(arg) == 2 \
-            and 'board' in arg and isinstance(arg['board'], list) \
-            and 'score' in arg and isinstance(arg['score'], int) \
-            and len(arg['board']) == ROWS
+    is_board = (isinstance(arg, dict) and len(arg) == 2
+                and 'board' in arg and isinstance(arg['board'], list)
+                and 'score' in arg and isinstance(arg['score'], int)
+                and len(arg['board']) == ROWS)
     if is_board:
         for i in range(ROWS):
             is_board = is_board and len(arg['board'][i]) == COLS
@@ -268,15 +275,16 @@ def is_board(arg):
 # ---------------------------------------------------------------------------- #
 
 def board_finished(board):
-    """ tabuleiros_terminado: board x board -> bool
+    """ board_finished: board x board -> bool
         - Reduces a copy of the board in every direction. If both the copy and
         the original are the same, the board is finished """
     
-    return len(board_empty_positions(board)) == 0 \
-            and boards_equal(board, board_reduce(copy_board(board), 'N')) \
-            and boards_equal(board, board_reduce(copy_board(board), 'S')) \
-            and boards_equal(board, board_reduce(copy_board(board), 'E')) \
-            and boards_equal(board, board_reduce(copy_board(board), 'W'))
+    return (len(board_empty_positions(board)) == 0
+            and boards_equal(board, board_reduce(copy_board(board), 'N'))
+            and boards_equal(board, board_reduce(copy_board(board), 'S'))
+            and boards_equal(board, board_reduce(copy_board(board), 'E'))
+            and boards_equal(board, board_reduce(copy_board(board), 'W')))
+
 
 def boards_equal(board1, board2):
     """ boards_equal: board x board -> bool
@@ -287,8 +295,8 @@ def boards_equal(board1, board2):
     for i in range(1, ROWS + 1):
         for j in range(1, COLS + 1):
             coord = create_coordinate(i, j)
-            equal = equal and board_position(board1, coord) == \
-                                board_position(board2, coord)
+            equal = equal and (
+                board_position(board1, coord) == board_position(board2, coord))
             if not equal:
                 return equal
     return equal and board1['score'] == board2['score']
@@ -306,14 +314,12 @@ def print_board(board):
         for i in range(1, ROWS + 1):
             row = ''
             for j in range(1, COLS + 1):
-                row += '[ ' \
-                    + str(board_position(board, create_coordinate(i, j))) \
-                    + ' ] '
+                row += ('[ %d ] ' %
+                        board_position(board, create_coordinate(i, j)))
             print(row)
-        print('Score: ' + str(board_score(board)))
+        print('Score: %d' % board_score(board))
     else:
         raise ValueError('print_board: invalid arguments')
-
 
 
 ## ========================================================================== ##
@@ -328,9 +334,12 @@ def request_move():
     
     while True:
         move = input('Pick a move (N, S, E, W): ')
-        if not is_move(move): print('Invalid move.')
-        else: break
+        if not is_move(move):
+            print('Invalid move.')
+        else:
+            break
     return move
+
 
 def copy_board(board):
     """ board -> board
@@ -340,21 +349,23 @@ def copy_board(board):
     for i in range(1, ROWS + 1):
         for j in range(1, COLS + 1):
             coord = create_coordinate(i, j)
-            board_fill_position(board_copy, coord, board_position(board, coord))
+            board_fill_position(board_copy, coord,
+                                board_position(board, coord))
     board_update_position(board_copy, board_score(board))
     return board_copy
 
-from random import random
+
 def fill_random_position(board):
     """ fill_random_position: board -> {}
         - Given a board, fills in an empty position at random with either a 2 or
         a 4, having the first one an 80% of being chosen, and the latter 20%
         chance """
     
-    choices = (2, 2, 2, 2, 4) # Four 2s and a 4 => 80% 2s, 20% 4s
+    from random import random
+    choices = (2, 2, 2, 2, 4)  # Four 2s and a 4 => 80% 2s, 20% 4s
     empty = board_empty_positions(board)
 
-    return board_fill_position(board, empty[int(random() * len(empty))], \
+    return board_fill_position(board, empty[int(random() * len(empty))],
                                       choices[int(random() * len(choices))])
 
 
@@ -365,10 +376,9 @@ def is_move(arg):
         - Checks if the given argument is a valid play and returns True, if so,
         False otherwise """
     
-    return isinstance(arg, str) and arg in ('N', 'S', 'E', 'W')
+    return isinstance(arg, str) and arg in 'NSEW'
 
 # END EXTRA ####################################################################
-
 
 
 ## ========================================================================== ##
@@ -391,8 +401,8 @@ def game_2048():
         board_reduce(game_board, request_move())
         
         # If there is room or the boards are the same, fill an empty position
-        if len(board_empty_positions(game_board)) > 0 and \
-           not boards_equal(game_board, board_copy):
+        if (len(board_empty_positions(game_board)) > 0
+                and not boards_equal(game_board, board_copy)):
             fill_random_position(game_board)
             
         # Achieved a tile with 2048?
@@ -403,12 +413,15 @@ def game_2048():
                 + '# You won! :D You can continue playing #\n' \
                 + '#======================================#')
             while True:
-                keep_going = input('Do you wish to continue (Y/N)? ')[0]
-                quit = keep_going == 'N'
-                if keep_going in ('Y', 'N'): break
-                else: print('Invalid answer, let\'s try that again..')
+                keep_going = input('Do you wish to continue (Y/n)? ')[0]
+                if len(keep_going) == 0 or keep_going in 'YNyn':
+                    quit = keep_going in 'Nn'
+                    break
+                else:
+                    print('Invalid answer, let\'s try that again..')
 
     print('Game over')
+
 
 def position_in_board(board, value):
     """ position_in_board : board x value -> bool
